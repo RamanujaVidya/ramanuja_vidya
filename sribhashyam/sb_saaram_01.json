@@ -1,0 +1,149 @@
+{
+  "topicId": "sb_saaram_01",
+  "topicTitle": "Part 1- Introduction to Śrībhāṣyam",
+  "cards": [
+   {
+      "id": "sb_saaram_01_01",
+      "type": "default",
+     "title": {
+        "en": "Salutations to Sri Ramanujacharya",
+        "ta": "ஸ்ரீ ராமானுஜாசாரியரின் திருவடிகளே சரணம்."
+      },
+	  "slokam": {
+        "sanskrit": "तस्मै रामानुजाचार्याय नमः परमयोगिने ।\n     यः श्रुतिस्मृतिसूत्राणां अन्तर्ज्वरम् अशीशमत्॥\n",
+
+        "transliteration": " Tasmai Rāmānujācāryāya Namaḥ Paramayogine |\n Yaḥ Śrutismṛtisūtrāṇāṃ Antarjvaram Aśīṣamat ||\n"
+      },
+      "description": "We offer our salutations to the supreme yogi, <strong>Sri Rāmānujacharya</strong>, the revered teacher who resolved the intricate complexities and debates surrounding the <strong>Śruti (श्रुति)</strong>, <strong>Smṛti (स्मृति)</strong>, and <strong>Sūtra (सूत्र)</strong>, guiding us to clarity in understanding their profound teachings.",
+	 "en_description": "We offer our salutations to the supreme yogi, <strong>Sri Rāmānujacharya</strong>, the revered teacher who resolved the intricate complexities and debates surrounding the <strong>Śruti (श्रुति)</strong>, <strong>Smṛti (स्मृति)</strong>, and <strong>Sūtra (सूत्र)</strong>, guiding us to clarity in understanding their profound teachings.",
+	 "ta_description": "வேதம், ஸ்ம்ருதி, சூத்திரங்களில் புரிந்துகொள்ள மிகவும் கடினமான பகுதிகளில்\n\t\tதோன்றக்கூடிய முரண்படுகளை நீக்கி,தெளிவை ஏற்படுத்தி, அவற்றில் சொல்லப்பட்ட உயர்ந்த விஷயங்களைச் சரியாகப் புரியவைத்த மிகச்சிறந்த யோகியான ஸ்ரீராமானுஜாசாரியருக்கு எங்கள் வந்தனம்.",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "-4IhCoS8Ktc" }
+    },
+    {
+      "id": "sb_saaram_01_02",
+      "type": "default",
+      "title": {
+        "en": "What is Śruti?",
+        "ta": "ஸ்ருதி என்றால் என்ன?"
+      },
+      "description": "Śruti refers to the Vedas —the eternal, divine revelations. It is considered Aporuṣeya (अपौरुषेयम्), meaning it was not composed by any human but rather passed down through generations by divine hearing.  Vedas are heard directly from the divine source, and their profound wisdom forms the foundation of spiritual knowledge.",
+      "en_description": "Śruti refers to the Vedas —the eternal, divine revelations. It is considered Aporuṣeya (अपौरुषेयम्), meaning it was not composed by any human but rather passed down through generations by divine hearing. Vedas are heard directly from the divine source, and their profound wisdom forms the foundation of spiritual knowledge.",
+      "ta_description": "ஶ்ருதி என்பது வேதங்களை குறிக்கும். அவை ஆதியற்றவும், தெய்வீகமான வெளிப்பாடுகளாகவும் கருதப்படுகின்றன. மனிதர்களால் இயற்றப்படாதவை என்பதால், அவை ‘அபௌருஷேய’ என அழைக்கப்படுகின்றன. வேதங்கள் நேரடியாக ஸ்ரவணமாக (கேட்கப்பட்டு) பரம்பரையாக வழங்கப்பட்ட ஆன்மிக ஞானத்தின் அடிப்படை ஆதாரமாகும்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": "" 
+      }
+    },
+    {
+      "id": "sb_saaram_01_03",
+      "type": "default",
+      "title": {
+        "en": "What is Smṛti?",
+        "ta": "ஸ்மிருதி என்றால் என்ன?"
+      },
+      "description": "Smṛti refers to that which is Pauruṣeya (पौरुषेयम्)—spoken by revered ṛṣis (ऋषि) (sages) who were blessed with divine insight by Īśvara (God). The ṛṣis (ऋषि) consolidated and interpreted the meanings scattered across in the Vedas. Smṛti (स्मृति) thus encompasses the explanations and interpretations of the Vedas, often elaborated by sages such as Manu (मनु), to guide us in righteous living, rituals, and dharma (धर्मम्).",
+      "en_description": "Smṛti refers to that which is Pauruṣeya (पौरुषेयम्)—spoken by revered ṛṣis (ऋषि) (sages) who were blessed with divine insight by Īśvara (God). The ṛṣis (ऋषि) consolidated and interpreted the meanings scattered across in the Vedas. Smṛti (स्मृति) thus encompasses the explanations and interpretations of the Vedas, often elaborated by sages such as Manu (मनु), to guide us in righteous living, rituals, and dharma (धर्मम्).",
+      "ta_description": "ஸ்மிருதிகள் என்பவை 'பௌருஷேயம்'.  —அதாவது ஒரு புருஷனால் செய்யப்பட்டவை.  வேதங்களை நன்கறிந்த, தெய்வீக ஞானம் அருளப்பட்ட மதிப்பிற்குரிய ரிஷிகளால்  கூறப்பட்டவை.    ரிஷிகள் வேதங்களில் ஆங்காங்கே சிதறிக் கிடக்கும் போதனைகளை ஒருங்கிணைத்து விளக்கி, நடைமுறைப் புரிதலுக்கு ஏற்றபடி, சீரான அமைப்புக்களாக உருவாக்கினார்கள். இவை நம்மை தர்மம், மற்றும் நீதி சார்ந்த  வாழ்க்கையில் வழிநடத்துகின்றன.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_01_04",
+      "type": "default",
+      "title": {
+        "en": "What is Sūtra?",
+        "ta": "சூத்திரம் என்றால் என்ன?"
+      },
+      "description": "Sūtra refers to texts that provide succinct, clear answers to complex and often debated philosophical questions. These are texts that resolve conflicts arising from different interpretations of the Vedas and provide us clear understanding. The Sūtras (सूत्र) are authored by great ṛṣis (ऋषि) to guide scholars and practitioners in understanding the deeper meanings of the Vedic scriptures.",
+      "en_description": "Sūtra refers to texts that provide succinct, clear answers to complex and often debated philosophical questions. These are texts that resolve conflicts arising from different interpretations of the Vedas and provide us clear understanding. The Sūtras (सूत्र) are authored by great ṛṣis (ऋषि) to guide scholars and practitioners in understanding the deeper meanings of the Vedic scriptures.",
+      "ta_description": "ஸூத்ரங்கள் என்பது மிகச் சுருக்கமான சொற்களால் ஆழமான தத்துவ உண்மைகளை விளக்கும் நூல்கள் ஆகும். வேதங்களின் பல்வேறு விளக்கங்களில் தோன்றும் சந்தேகங்களுக்கு தெளிவான தீர்வுகளை வழங்கும் வகையில் மகரிஷிகள் இவற்றை இயற்றினர்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_01_05",
+      "type": "default",
+      "title": {
+        "en": "What is the Antharjvaram (inner conflict) in the context of Śruti, Smṛti, and Sūtra?",
+        "ta": "ஸ்ருதி, ஸ்மிருதி மற்றும் சூத்திரத்தின் சூழலில் அந்தஜ்வரம் (உள் முரண்பாடு) என்றால் என்ன?"
+      },
+      "description": "The Antarjvaram (अन्तर्ज्वरम् ) refers to the internal conflict or confusion that arises due to misinterpretation of the Vedas, Smṛtis (स्मृतियाँ), or Sūtras (सूत्र). Some individuals may accept the Vedas but fail to grasp their true meaning, instead creating erroneous interpretations. This misinterpretation leads to confusion and conflict. The great Emperumānar (Rāmānuja) resolved these conflicts by providing clear and correct answers, aligning the teachings with the true purpose of the Vedas, dispelling doubts, and restoring clarity.",
+      "en_description": "The Antarjvaram (अन्तर्ज्वरम् ) refers to the internal conflict or confusion that arises due to misinterpretation of the Vedas, Smṛtis (स्मृतियाँ), or Sūtras (सूत्र). Some individuals may accept the Vedas but fail to grasp their true meaning, instead creating erroneous interpretations. This misinterpretation leads to confusion and conflict. The great Emperumānar (Rāmānuja) resolved these conflicts by providing clear and correct answers, aligning the teachings with the true purpose of the Vedas, dispelling doubts, and restoring clarity.",
+      "ta_description": "அந்தஜ்வரம் என்பது வேதங்கள், ஸ்மிருதிகள் அல்லது சூத்திரங்களை தவறாகப் புரிந்துகொள்வதால் ஏற்படும் உள் முரண்பாடு அல்லது குழப்பத்தைக் குறிக்கிறது. சிலர் வேதங்களை ஏற்றுக்கொண்டாலும், அவற்றின் உண்மையான பொருளைப் புரிந்துகொள்ளத் தவறி, தவறான விளக்கங்களை உருவாக்குகிறார்கள். இந்தத் தவறான புரிதல் குழப்பத்திற்கும் மோதலுக்கும் வழிவகுக்கிறது. மகா புருஷரான எம்பெருமானார் (இராமானுஜர்) தெளிவான மற்றும் சரியான பதில்களை வழங்கி, போதனைகளை வேதங்களின் உண்மையான நோக்கத்துடன் சீரமைத்து, சந்தேகங்களைப் போக்கி, தெளிவை மீட்டெடுத்து இந்த முரண்பாடுகளைத் தீர்த்து வைத்தார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_01_06",
+      "type": "default",
+      "title": {
+        "en": "Vedas: Pūrvabhāga and Uttārabhāga",
+        "ta": "வேதங்கள்: பூர்வபாகம் மற்றும் உத்தரபாகம்"
+      },
+      "description": "The Vedas are traditionally divided into two sections: Pūrvabhāga (The earlier part or Karma bhāga) focuses on ritual actions and correct procedures for spiritual progress. Uttārabhāga (The later part or Vedānta/Upaniṣad) delves into the nature of Brahman (the Supreme Reality) and helps attain true spiritual knowledge, and live accordingly, and ultimately reach Him.",
+      "en_description": "The Vedas are traditionally divided into two sections: Pūrvabhāga (The earlier part or Karma bhāga) focuses on ritual actions and correct procedures for spiritual progress. Uttārabhāga (The later part or Vedānta/Upaniṣad) delves into the nature of Brahman (the Supreme Reality) and helps attain true spiritual knowledge, and live accordingly, and ultimately reach Him.",
+      "ta_description": "வேதங்கள் பாரம்பரியமாக இரண்டு பிரிவுகளாகப் பிரிக்கப்படுகின்றன: பூர்வபாகம் (முற்பகுதி அல்லது கர்ம பாகம்) ஆன்மீக முன்னேற்றத்திற்கான சடங்குச் செயல்கள் மற்றும் சரியான வழிமுறைகளில் கவனம் செலுத்துகிறது. உத்தரபாகம் (பிற்பகுதி அல்லது வேதாந்தம்/உபநிடதம்) பிரம்மத்தின் (உயர்ந்த உண்மை) இயல்பு மற்றும் அதனிடம் சரணடைவதன் மூலம் பெறும் ஆன்மீக ஞானத்தைப் பற்றி ஆராய்கிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_01_07",
+      "type": "default",
+      "title": {
+        "en": "The Nature of Sūtras",
+        "ta": "சூத்திரங்களின் இயல்பு"
+      },
+      "description": "Sūtras are defined by their lakṣaṇam: They are alpākṣaram (concise), asandigdham (clear), sāravat (essential), astobham (without fillers), and anavadyam (flawless). They provide precise answers to complex questions and are viśvatomukham (comprehensive).",
+      "en_description": "Sūtras are defined by their lakṣaṇam: They are alpākṣaram (concise), asandigdham (clear), sāravat (essential), astobham (without fillers), and anavadyam (flawless). They provide precise answers to complex questions and are viśvatomukham (comprehensive).",
+      "ta_description": "சூத்திரங்கள் அவற்றின் லக்ஷணங்களால் வரையறுக்கப்படுகின்றன: அவை அல்பாக்ஷரம் (சுருக்கமானவை), அஸந்திக்தம் (தெளிவானவை), ஸாரவத் (சாரமானவை), அஸ்தோபம் (தேவையற்ற சொற்கள் அற்றவை) மற்றும் அநவத்யம் (பிழையற்றவை). இவை சிக்கலான கேள்விகளுக்குத் துல்லியமான பதில்களை வழங்குவதோடு, விஸ்வதோமுகம் (விரிவான தன்மை) கொண்டவையாகவும் இருக்கின்றன.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },  {
+      "id": "sb_saaram_01_08",
+      "type": "default",
+      "title": {
+        "en": "Why Sribhashyam?",
+        "ta": "சூத்திரங்களின் இயல்பு"
+      },
+      "description": "With information: Sutras are very small and terse, and dense with meanings. Sribhashyam helps us understand the full and deep meanings of the Sutras, and thus it helps us understand vedanta.",
+      "en_description": "With information: Sutras are very small and terse, and dense with meanings. Sribhashyam helps us understand the full and deep meanings of the Sutras, and thus it helps us understand vedanta.",
+      "ta_description": "விளக்கத்துடன்: சூத்திரங்கள் மிகவும் சிறியதாகவும் சுருக்கமாகவும், ஆழமான அர்த்தங்கள் நிறைந்தவையாகவும் உள்ளன. ஸ்ரீபாஷ்யம் இந்த சூத்திரங்களின் முழுமையான மற்றும் ஆழமான அர்த்தங்களைப் புரிந்துகொள்ள நமக்கு உதவுகிறது, அதன் மூலம் வேதாந்தத்தைப் புரிந்துகொள்ளவும் உதவுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    }
+  ]
+}

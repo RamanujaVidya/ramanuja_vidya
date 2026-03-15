@@ -1,0 +1,495 @@
+{
+  "topicId": "sb_saaram_02",
+  "topicTitle": "Śrī Bhāṣyam – Maṅgalācaraṇa and Structure",
+  "cards": [
+    {
+      "id": "sb_saaram_02_01",
+      "type": "default",
+      "title": {
+        "en": "Maṅgala-kriyā before a Treatise",
+        "ta": "க்ரந்த ஆரம்ப மங்கள கார்யம்"
+      },
+      "description": "Before commencing a treatise, auspicious acts (maṅgala-kriyā) are traditionally performed. These are classified into two types.",
+      "en_description": "Before commencing a treatise, auspicious acts (maṅgala-kriyā) are traditionally performed. These are classified into two types.",
+      "ta_description": "ஒரு க்ரந்தத்தை ஆரம்பிக்கும் முன் மங்கள கார்யங்கள் செய்யப்படுகின்றன. அவை இரண்டு வகைகளாகப் பிரிக்கப்படுகின்றன.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": "rykDu6P6fIs"
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "1. Physical Prostration",
+            "ta": "1. காயிக வணக்கம்"
+          },
+          "description": "Beginning the treatise after offering physical prostration (śārīra praṇāma).",
+          "en_description": "Beginning the treatise after offering physical prostration (śārīra praṇāma).",
+          "ta_description": "காயிகமாக வணங்கி க்ரந்தத்தை ஆரம்பித்தல்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "2. Worship of Deity and Ācārya",
+            "ta": "2. இஷ்ட தேவதா – ஆசார்ய வணக்கம்"
+          },
+          "description": "Beginning the treatise after worshipping one's chosen deity and one's teacher.",
+          "en_description": "Beginning the treatise after worshipping one's chosen deity and one's teacher.",
+          "ta_description": "இஷ்ட தேவதையையும் ஆசார்யரையும் வணங்கி க்ரந்தத்தை ஆரம்பித்தல்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Emperumanar worships Srinivasa(Lord Vishnu)",
+            "ta": "எம்பெருமானார் ஸ்ரீநிவாசனை"
+          },
+          "description": "Emperumānār begins the Śrī Bhāṣhyam by worshipping Śrīnivāsa (Lord Viṣṇu).",
+          "en_description": "Emperumānār begins the Śrī Bhāṣhyam by worshipping Śrīnivāsa (Lord Viṣṇu).",
+          "ta_description": "எம்பெருமானார் ஸ்ரீநிவாஸனை வணங்கி ஆரம்பிக்கிறார் ஸ்ரீபாஷ்யத்தை."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_02_02",
+      "type": "default",
+      "title": {
+        "en": "Purpose of Maṅgalācaraṇa",
+        "ta": "மங்களாசரணத்தின் நோக்கம்"
+      },
+      "description": "Even for a Śrī Vaiṣṇava, the performance of a maṅgalāśaraṇa with the intent that the treatise may proceed unobstructed and reach its proper conclusion is itself kainkarya. It is undertaken solely to manifest and spread the glory of Bhagavān, and not for any personal purpose.",
+      "en_description": "Even for a Śrī Vaiṣṇava, the performance of a maṅgalāśaraṇa with the intent that the treatise may proceed unobstructed and reach its proper conclusion is itself kainkarya. It is undertaken solely to manifest and spread the glory of Bhagavān, and not for any personal purpose.",
+      "ta_description": "ஒரு ஸ்ரீவைஷ்ணவருக்கே கூட, க்ரந்தம் தடையின்றி நன்றாக நடைபெற்று சரியான முடிவை அடைய வேண்டும் என்ற எண்ணத்துடன் மங்களாசரணம் செய்யப்படுமானால், அதுவே ஒரு கைங்கர்யம் ஆகும். அது எந்த தனிப்பட்ட பயனுக்காகவும் அல்ல; எம்பெருமானுடைய பெருமை உலகில் வெளிப்பட்டு பரவவேண்டும் என்பதற்காக மட்டுமே செய்யப்படுகிறது. மேலும்,",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "अशीः (Blessing)",
+            "ta": "ஆசீர் (ஆசீர்வாதம்)"
+          },
+          "description": "Seeking blessings so that the treatise may be completed without obstacles.",
+          "en_description": "Seeking blessings so that the treatise may be completed without obstacles.",
+          "ta_description": "க்ரந்தம் தடையின்றி நிறைவேற ஆசீர்வாதம் பெறுதல்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "वस्तुनिर्देशः (Indication of Subject)",
+            "ta": "வஸ்து நிர்தேசம்"
+          },
+          "description": "Indicating the subject matter that the treatise will expound.",
+          "en_description": "Indicating the subject matter that the treatise will expound.",
+          "ta_description": "க்ரந்தம் விளக்கும் விஷயத்தை முன்னமே காட்டுதல்."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_02_03",
+      "type": "default",
+      "title": {
+        "en": "Viśiṣṭādvaita Reflected in the Maṅgala Ślokam",
+        "ta": "மங்கள ஸ்லோகத்தில் பிரதிபலிக்கும் விசிஷ்டாத்வைத தத்துவம்"
+      },
+      "slokam": {
+        "sanskrit": "भोक्ता भोग्यं प्रेरितारं च मत्वा\nसर्वं प्रोक्तं त्रिविधं ब्रह्ममेतत् ॥",
+        "transliteration": "Bhoktā bhogyaṁ prerītāraṁ ca matvā\nsarvaṁ proktaṁ trividhaṁ brahma etat ॥"
+      },
+      "description": "Much can be inferred from a maṅgala ślokam by those who do not belong to the Viśiṣṭādvaita sampradāya yet wish to understand its philosophy. In Advaita Vedānta, it is stated that the entire universe is merely an appearance, while Brahmam alone is real. In Viśiṣṭādvaita, on the other hand, everything is real.",
+      "en_description": "Much can be inferred from a maṅgala ślokam by those who do not belong to the Viśiṣṭādvaita sampradāya yet wish to understand its philosophy. In Advaita Vedānta, it is stated that the entire universe is merely an appearance, while Brahman alone is real. In Viśiṣṭādvaita, on the other hand, everything is real.",
+      "ta_description": "விசிஷ்டாத்வைத சம்பிரதாயத்தைச் சேர்ந்தவர்கள் அல்லாதவர்களும், அதன் தத்துவத்தை அறிய விரும்புவோரும், ஒரு மங்கள ஸ்லோகம் மூலம் பல ஆழமான பொருள்களை உணர முடியும். அத்வைத வேதாந்தத்தில், முழு பிரபஞ்சமும் மாயை என்றும், பரப்ரம்மன் மட்டுமே சத்தியம் என்றும் கூறப்படுகிறது. ஆனால் விசிஷ்டாத்வைதத்தில் அனைத்தும் உண்மையானவை என ஏற்றுக்கொள்ளப்படுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "description": "All jīva-ātmās (cit), the entities surrounding them (acit), and Īśvara together constitute the tattva-traya. This is explained precisely and succinctly through the words akhila-bhuvana-janma-sthema-bhaṅga-līlā and rakṣaika dīkṣē found in the maṅgala ślokam of Śrībhāṣyam composed by Emperumānār.These expressions emphasize that Śrībhāṣyam is firmly grounded in the philosophy of Viśiṣṭādvaita.",
+          "en_description": "All jīva-ātmās (cit), the entities surrounding them (acit), and Īśvara together constitute the tattva-traya. This is explained precisely and succinctly through the words akhila-bhuvana-janma-sthema-bhaṅga-līlā and rakṣaika dīkṣē found in the maṅgala ślokam of Śrībhāṣyam composed by Emperumānār.These expressions emphasize that Śrībhāṣyam is firmly grounded in the philosophy of Viśiṣṭādvaita.",
+          "ta_description": "அனைத்து ஜீவாத்மாக்களும் (சித்), அவற்றைச் சூழ்ந்துள்ள அசேதனப் பொருட்களும் (அசித்), மற்றும் ஈச்வரனும் இணைந்து தத்துவத்ரயம் ஆக விளங்குகின்றன. இதை எம்பெருமானார் அருளிய ஸ்ரீபாஷ்யத்தின் மங்கள ஸ்லோகத்தில் வரும் அகில-புவன- ஜன்ம-ஸ்தேம-பங்க-லீலா மற்றும் ரக்ஷைக தீக்ஷா என்ற சொற்கள் மிகத் துல்லியமாகவும் சுருக்கமாகவும் விளக்குகின்றன. இவ்வாறு, ஸ்ரீபாஷ்யம் முழுவதும் விசிஷ்டாத்வைத தத்துவத்தின் அடிப்படையிலேயே அமைந்துள்ளது என்பதை அந்த மங்கள ஸ்லோகம் தெளிவாக எடுத்துரைக்கிறது."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_02_04",
+      "type": "default",
+      "title": {
+        "en": "Structure of Śrī Bhāṣya and Brahma Sūtras",
+        "ta": "ஸ்ரீபாஷ்யம் மற்றும் பிரஹ்மசூத்திர அமைப்பு"
+      },
+      "description": "Śrī Bhāṣya is the commentary on the Brahma Sūtras of Vedavyāsa. Both consist of four chapters, arranged as two dvikās.",
+      "en_description": "Śrī Bhāṣya is the commentary on the Brahma Sūtras of Vedavyāsa. Both consist of four chapters, arranged as two dvikās.",
+      "ta_description": "வேதவ்யாசரின் பிரஹ்மசூத்திரங்களுக்கு உரையாக ஸ்ரீபாஷ்யம் அமைந்துள்ளது. இரண்டும் நான்கு அத்யாயங்களாக, இரண்டு த்விகங்களாகப் பிரிக்கப்பட்டுள்ளன.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Pūrva-dvikā – Viṣaya-dvikā",
+            "ta": "பூர்வ த்விகம் – விஷய த்விகம்"
+          },
+          "description": "Deals with Bhagavān as the object to be known.",
+          "en_description": "Deals with Bhagavān as the object to be known.",
+          "ta_description": "பகவானை அறிய வேண்டிய விஷயமாக விளக்குகிறது."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Uttara-dvikā – Viṣayi-dvikā",
+            "ta": "உத்தர த்விகம் – விஷயி த்விகம்"
+          },
+          "description": "Deals with the means to attain Him and the final experience.",
+          "en_description": "Deals with the means to attain Him and the final experience.",
+          "ta_description": "உபாயமும் பரம அனுபவமும் விளக்கப்படுகின்றன."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_02_05",
+      "type": "default",
+      "title": {
+        "en": "Viṣaya, Viṣayi, Knowledge, and Attainment",
+        "ta": "விஷயம், விஷயி, ஞானம் மற்றும் பிராப்தி"
+      },
+      "description": "Wherever there is knowledge, there are two aspects involved: the object that is known (viṣaya) and the knowing consciousness or knowledge itself (viṣayi). For example, when a pot is perceived in front of us, the pot is the viṣaya, and the knowledge that apprehends it as a pot is the viṣayi. Knowledge (jñāna) is that which reveals an object as it truly is. In Viśiṣṭādvaita, the knower, the knowledge, and the known object are all real.",
+      "en_description": "Wherever there is knowledge, there are two aspects involved: the object that is known (viṣaya) and the knowing consciousness or knowledge itself (viṣayi). For example, when a pot is perceived in front of us, the pot is the viṣaya, and the knowledge that apprehends it as a pot is the viṣayi. Knowledge (jñāna) is that which reveals an object as it truly is. In Viśiṣṭādvaita, the knower, the knowledge, and the known object are all real.",
+      "ta_description": "ஞானம் நிகழும் எங்கு வேண்டுமானாலும், அதில் இரண்டு அம்சங்கள் உள்ளன: அறியப்படும் பொருள் (விஷயம்) மற்றும் அதனை அறியும் ஞானம் அல்லது அறிவுச் சக்தி (விஷயி). உதாரணமாக, நம்முன் ஒரு குடம் இருப்பதை அறிந்தால், அந்தக் குடம் விஷயமாகும்; அதை ‘குடம்’ என்று அறியும் ஞானம் விஷயியாகும். ஒரு பொருளை அதன் இயல்புடன் வெளிப்படுத்துவது தான் ஞானம். விசிஷ்டாத்வைதத்தில், அறிபவன், ஞானம், மற்றும் அறியப்படும் பொருள்—மூன்றும் சத்தியமானவை.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Upāya – Knowledge as Bhakti",
+            "ta": "உபாயம் – பக்தியாக மாறிய ஞானம்"
+          },
+          "description": "Bhagavān is attained through knowledge that has taken the form of bhakti (bhakti-rūpāpanna-jñāna). One first gains knowledge of Bhagavān through śāstra. When love and devotion are added to that knowledge, it matures into bhakti. Thus, bhakti is not separate from knowledge, but knowledge perfected by love. This bhakti-qualified knowledge itself serves as the upāya and is the viṣayi.",
+          "en_description": "Bhagavān is attained through knowledge that has taken the form of bhakti (bhakti-rūpāpanna-jñāna). One first gains knowledge of Bhagavān through śāstra. When love and devotion are added to that knowledge, it matures into bhakti. Thus, bhakti is not separate from knowledge, but knowledge perfected by love. This bhakti-qualified knowledge itself serves as the upāya and is the viṣayi.",
+          "ta_description": "பகவானை அடையும் உபாயம், பக்தியாக மாறிய ஞானமே (பக்தி ரூபாபன்ன ஞானம்). முதலில் சாஸ்திரத்தின் மூலம் பகவானைப் பற்றிய ஞானம் பெறப்படுகிறது. அந்த ஞானத்தில் அன்பும் பரிவும் சேர்ந்தால், அது பக்தியாக வளர்கிறது. ஆகவே, பக்தி என்பது ஞானத்திலிருந்து வேறுபட்டது அல்ல; அன்பால் நிறைந்த ஞானமே பக்தி. இத்தகைய பக்தி-ஞானமே உபாயமாகவும் விஷயியாகவும் விளங்குகிறது."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Anubhava and Bliss in Paramapada",
+            "ta": "பரமபதத்தில் அனுபவமும் ஆனந்தமும்"
+          },
+          "description": "Upon reaching Paramapada, what is attained is anubhava—direct experience of Bhagavān. This experience is also a form of knowledge, but it is immediate and blissful. Bliss arises when knowledge recognizes its object as favorable and desirable to oneself. Such recognition itself becomes happiness. Since bliss is a form of knowledge, it too is viṣayi.",
+          "en_description": "Upon reaching Paramapada, what is attained is anubhava—direct experience of Bhagavān. This experience is also a form of knowledge, but it is immediate and blissful. Bliss arises when knowledge recognizes its object as favorable and desirable to oneself. Such recognition itself becomes happiness. Since bliss is a form of knowledge, it too is viṣayi.",
+          "ta_description": "பரமபதத்தை அடைந்தபின் ஜீவனுக்கு கிடைப்பது அனுபவம் (அனுபவம்) ஆகும். இது பகவானை நேரடியாக அனுபவிக்கும் ஞானம். இந்த அனுபவம் உடனடியானதும் ஆனந்தமயமானதும் ஆகும். அறியப்படும் விஷயம் தன்னுக்கு உகந்ததும் விரும்பத்தக்கதுமானதும் என்று ஞானம் உணரும்போது, அதுவே ஆனந்தமாகிறது. ஆகவே, ஆனந்தமும் ஒரு வகை ஞானமே; எனவே அது கூட விஷயியாகும்."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_03_06",
+      "type": "default",
+      "title": {
+        "en": "Structure of Brahma Sūtras",
+        "ta": "ப்ரஹ்ம சூத்ர அமைப்பு"
+      },
+      "description": "",
+      "en_description": "What is the structure of Vedavyāsa's  Brahma Sūtras ?",
+      "ta_description": "வேத வ்யாஸரின் ப்ரஹ்ம சூத்ர அமைப்பு என்ன?",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Four Chapters",
+            "ta": "நான்கு அத்யாயங்கள்"
+          },
+          "description": "There are  four chapters .",
+          "en_description": "There are  four chapters .",
+          "ta_description": "நான்கு அத்யாயங்கள் உள்ளன."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Adhikaraṇas",
+            "ta": "அதிகரணங்கள்"
+          },
+          "description": "In each chapter there are many  adhikaraṇas —groups of sūtras dealing with one topic.",
+          "en_description": "In each chapter there are many  adhikaraṇas —groups of sūtras dealing with one topic.",
+          "ta_description": "ஒவ்வொரு அத்யாயத்திலும் பல அதிகரணங்கள் - சூத்ரங்களின் கூட்டம் - ஒரு தலைப்பைப் பற்றி, என்று உள்ளன."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Four Pādas per Chapter",
+            "ta": "அத்யாயத்திற்கு நான்கு பாதங்கள்"
+          },
+          "description": "Each chapter has  four pādas (quarters) .",
+          "en_description": "Each chapter has  four pādas (quarters) .",
+          "ta_description": "ஒவ்வொரு அத்யாயத்திலும் (4) பாதங்கள் என்று இருக்கும்."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_03_07",
+      "type": "default",
+      "title": {
+        "en": "Two Dvikas of Brahma Sūtras",
+        "ta": "ப்ரஹ்மசூத்ரத்தின் த்விகங்கள்"
+      },
+      "description": "",
+      "en_description": "What are the two dvikas of the Brahma Sūtras? What are the names of the chapters?",
+      "ta_description": "ப்ரஹ்மசூத்ரத்தின் இரண்டு த்விகங்களில் உள்ளவை என்ன? அத்யாயங்களின் பெயர்கள் என்ன?",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "The Two Dvikas",
+            "ta": "இரண்டு த்விகங்கள்"
+          },
+          "description": "The  pūrva-dvika  is the  viṣaya-dvika . The  uttara-dvika  is the  viṣayi-dvika .",
+          "en_description": "The  pūrva-dvika  is the  viṣaya-dvika . The  uttara-dvika  is the  viṣayi-dvika .",
+          "ta_description": "பூர்வ-த்விகமானது, விஷய-த்விகம். உத்தர-த்விகமானது, விஷயி-த்விகம்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Viṣaya and Viṣayi Defined",
+            "ta": "விஷயம் மற்றும் விஷயி"
+          },
+          "description": "Bhagavan Himself is the  viṣaya . Knowledge about Him is the  viṣayi . That He is the cause of the universe, etc., and that creation is for sport—all these belong to the  viṣaya .",
+          "en_description": "Bhagavan Himself is the  viṣaya . Knowledge about Him is the  viṣayi . That He is the cause of the universe, etc., and that creation is for sport—all these belong to the  viṣaya .",
+          "ta_description": "எம்பெருமான் தான் விஷயம். அவனைப் பற்றிய ஞானம் விஷயி. அவன் ஜகத்காரணன் முதலானவை, மற்றும், லீலைக்காக என்பது, விஷயம்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Chapter 1: Samanvaya Adhyāya",
+            "ta": "அத்யாயம் 1: ஸமந்வயாத்யாயம்"
+          },
+          "description": "Therefore, the first chapter is called  Samanvaya Adhyāya . It states that all Upaniṣadic statements apply only to Bhagavān, that attributes such as being the cause of the universe apply to Him alone.",
+          "en_description": "Therefore, the first chapter is called  Samanvaya Adhyāya . It states that all Upaniṣadic statements apply only to Bhagavān, that attributes such as being the cause of the universe apply to Him alone.",
+          "ta_description": "எனவே ப்ரஹ்மசூத்ரத்தின் முதல் அத்யாயத்துக்கு समन्वय-अध्यायम् ஸமந்வயாத்யாயம் என்று பெயர். அதாவது, உபநிஷத்தில் உள்ள வாக்யங்களெல்லாம் பகவானுக்குத் தான் பொருந்தும்/ஸமந்வயமாகும், அவனுக்கே ஜகத்காரணன் முதலானவை பொருந்தும் என்று சொல்லுகிறது."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Objection and Resolution",
+            "ta": "ஆக்ஷேபம் மற்றும் விளக்கம்"
+          },
+          "description": "An objection arises: Since He is  āvāptasamastakāma  (one whose all desires are fulfilled), why should He create at all? The second chapter clears this objection - He creates for  play (līlā) .",
+          "en_description": "An objection arises: Since He is  āvāptasamastakāma  (one whose all desires are fulfilled), why should He create at all? The second chapter clears this objection - He creates for  play (līlā) .",
+          "ta_description": "அவன் அவாப்த-ஸமஸ்த-காமன் (எல்லா விருப்பங்களும் நிறைவேறப் பெற்றவன்) எனவே எதற்கு படைப்பு முதலானவற்றைச் செய்யவேணும்? இரண்டாம் அத்யாயம் இந்த ஆக்ஷேபத்தை விளக்குகிறது - அவன் பலனுக்காகப் படைக்கவில்லை, விளையாட்டுக்காகப் படைக்கிறான்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Chapter 2: Avirodha Adhyāya",
+            "ta": "அத்யாயம் 2: அவிரோத-அத்யாயம்"
+          },
+          "description": "Hence the second chapter is called  Avirodha Adhyāya  (One that removes objections).",
+          "en_description": "Hence the second chapter is called  Avirodha Adhyāya  (One that removes objections).",
+          "ta_description": "இத்தால் இரண்டாவது அத்யாயத்துக்கு अविरोध-अध्यायम् அவிரோத-அத்யாயம் என்று பெயர். (ஆக்ஷேபத்தைப் போக்கும் அத்யாயம்)"
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Chapter 3: Sādhana Adhyāya",
+            "ta": "அத்யாயம் 3: ஸாதனாத்யாயம்"
+          },
+          "description": "In the  uttara-dvika , the third chapter speaks of  knowledge as the viṣayi , namely  bhakti . Since this bhakti-knowledge is the means to attain Bhagavān, it is called  Sādhana Adhyāya .",
+          "en_description": "In the  uttara-dvika , the third chapter speaks of  knowledge as the viṣayi , namely  bhakti . Since this bhakti-knowledge is the means to attain Bhagavān, it is called  Sādhana Adhyāya .",
+          "ta_description": "உத்தர த்விகத்தில் (இரண்டாம் பாதியில்), ஜ்ஞானம் என்கிற விஷயி சொல்லப்படுகிறது. இதன் முதல் பகுதியில், அதாவது மூன்றாம் அத்யாயத்தில், பக்தி என்கிற விஷயி/ஜ்ஞானம் பற்றி உள்ளது. இந்த பக்தி என்கிற ஜ்ஞானம், பகவானை அடைய ஸாதனமாய் இருப்பதால், இந்த 3-ம் அத்யாயத்துக்கு साधनाध्यायः - ஸாதனாத்யாயம் என்று பெயர்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Chapter 4: Phala Adhyāya",
+            "ta": "அத்யாயம் 4: பலாத்யாயம்"
+          },
+          "description": "The fourth chapter speaks of the knowledge/experience obtained after reaching Paramapada. This experience is the  result (phala) . Therefore, the fourth chapter is called  Phala Adhyāya .",
+          "en_description": "The fourth chapter speaks of the knowledge/experience obtained after reaching Paramapada. This experience is the  result (phala) . Therefore, the fourth chapter is called  Phala Adhyāya .",
+          "ta_description": "நான்காம் அத்யாயத்தில், பரமபதம் சென்று செய்யப் போகிற அநுபவத்தைப் பற்றிய ஜ்ஞானம்/விஷயி பேசப்படுகிறது. அந்த அநுபவம் பலன். எனவே நாலாம் அத்யாயத்துக்குப் फलाध्यायः - பலாத்யாயம் என்று பெயர்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Complete Structure",
+            "ta": "முழு அமைப்பு"
+          },
+          "description": "Thus, the Brahma Sūtras are structured as  viṣaya-dvika  and  viṣayi-dvika .",
+          "en_description": "Thus, the Brahma Sūtras are structured as  viṣaya-dvika  and  viṣayi-dvika .",
+          "ta_description": "இப்படி ப்ரஹ்மசூத்ரத்தில் விஷய-த்விகமும், விஷயி-த்விகமும் அமைந்துள்ளன."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_03_08",
+      "type": "default",
+      "title": {
+        "en": "Structure in the Mangala Slokham",
+        "ta": "மங்களஶ்லோகத்தில் அமைப்பைக் காட்டுதல்"
+      },
+      "description": "",
+      "en_description": "How does the author of Śrī Bhāṣya show this structure in the  maṅgala-śloka ?",
+      "ta_description": "ப்ரஹ்மசூத்ரம்/ஸ்ரீபாஷ்யத்தின் இரண்டு த்விகங்களின் அமைப்பை ஸ்ரீபாஷ்யகாரர் தம் மங்களஶ்லோகத்தில் எவ்வாறு காட்டுகிறார்?",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "First Chapter: Samanvaya Adhyāya",
+            "ta": "முதல் அத்யாயம்: ஸமந்வய-அத்யாயம்"
+          },
+          "description": "The words  akhila-bhuvana-janma-sthema-bhaṅgādi-līle  mean:\n\nBrahmam alone creates, sustains, and dissolves the world. Thus, the Vedic statements are applied ( samanvaya ) to Brahman. This points to the topics covered in the  first chapter – Samanvaya Adhyāya .",
+          "en_description": "The words  akhila-bhuvana-janma-sthema-bhaṅgādi-līle  mean:\n\nBrahmam alone creates, sustains, and dissolves the world. Thus, the Vedic statements are applied ( samanvaya ) to Brahman. This points to the topics covered in the  first chapter – Samanvaya Adhyāya .",
+          "ta_description": "अकिल-भुवन-जन्म-स्थेम-भङ्गादि - அகில-புவன-ஜந்ம-ஸ்தேம-பங்காதி-லீலே என்கிற சொற்களின் அர்த்தம்:\nஉலகத்தைப் படைப்பது, காப்பது, அழிப்பது எல்லாம் பண்ணுவது ப்ரஹ்மம் தான் என்று வேத வாக்யங்களை ப்ரஹ்மத்துக்கு ஸமந்வயப்படுத்துகிறார் - பரஹ்மத்தைக் குறித்து என்று காட்டுகிறார். இது முதலாம் அத்யாயமான समन्वयाध्यायम् - ஸமந்வய-அத்யாயம்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Second Chapter: Avirodha Adhyāya",
+            "ta": "இரண்டாம் அத்யாயம்: அவிரோத-அத்யாயம்"
+          },
+          "description": "The word  līle  shows that He, though āvāptasamastakāma, performs creation as play. This is covered in the  second chapter – Avirodha Adhyāya .",
+          "en_description": "The word  līle  shows that He, though āvāptasamastakāma, performs creation as play. This is covered in the  second chapter – Avirodha Adhyāya .",
+          "ta_description": "लीले - அவாப்த-ஸமஸ்த-காமன் இதை லீலைக்காகச் செய்கிறான் என்று இரண்டாம் அத்யாயமான अविरोधाध्याय-அவிரோத-அத்யாயத்தைக் காட்டுகிறார்."
+        },
+        {
+          "title": {
+            "en": "Parallel in Kamba Rāmāyaṇam",
+            "ta": "கம்பராமாயணத்தில் ஒத்த பகுதி"
+          },
+          "description": "The same idea appears in the opening verse of the  Kamba Rāmāyaṇam :\n \"He who creates all the worlds,\n sustains them,\n destroys them,\nand performs endless, immeasurable sport—\n> to Him alone we surrender.\"",
+          "en_description": "The same idea appears in the opening verse of the  Kamba Rāmāyaṇam :\n \"He who creates all the worlds,\n sustains them,\n destroys them,\n and performs endless, immeasurable sport—\n to Him alone we surrender.\"",
+          "ta_description": "இதுவே கம்பராமாயணத்தின் முதல் செய்யுளில் இருக்கிறது:\nஉலகம் யாவையும் தாமுளவாக்கலும்,\nநிலை பெறுத்தலும்,\nநீக்கலும்,\nநீங்கலா அலகிலா விளையாட்டுடையார்\n(நீங்கலா - விளையாட்டை விடவே மாட்டான்)\nஅலகிலா - அளவில்லாத)\n(அவர், தலைவர்; அன்னவர்க்கே சரண் நாங்களே)."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Third Chapter: Sādhana Adhyāya",
+            "ta": "மூன்றாம் அத்யாயம்: ஸாதன-அத்யாயம்"
+          },
+          "description": "The phrase  vinata-vividha-bhūta  means \"those who bow down\". Prostration is associated with  bhakti-yoga . Bhakti is the means—this is described the  third chapter – Sādhana Adhyāya .",
+          "en_description": "The phrase  vinata-vividha-bhūta  means \"those who bow down\". Prostration is associated with  bhakti-yoga . Bhakti is the means—this is described the  third chapter – Sādhana Adhyāya .",
+          "ta_description": "विनत-विविध-भूत-விநத-விவித-பூத - विनत - வணங்கினவர்கள். நமஸ்காரத்தைக் கொண்டது பக்தி யோகம். பக்தி, ஸாதனம். இது மூன்றாம் அத்யாயம். साधनाध्यायः - ஸாதன-அத்யாயம்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Fourth Chapter: Phala Adhyāya",
+            "ta": "நான்காம் அத்யாயம்: பல-அத்யாயம்"
+          },
+          "description": "The word  rakṣaika  (protection only) means removing the undesirable and granting the desirable—protection. Granting the desired is the  result (phala) . This is described in the  fourth chapter – Phala Adhyāya .",
+          "en_description": "The word  rakṣaika  (protection only) means removing the undesirable and granting the desirable—protection. Granting the desired is the  result (phala) . This is described in the  fourth chapter – Phala Adhyāya .",
+          "ta_description": "रक्षैक - ரக்ஷைக - அநிஷ்டம் போக்கி, இஷ்டம் கொடுப்பது, रक्षणम् - ரக்ஷணம் - காத்தல். இஷ்டம் என்பது பலம். பலத்தைக் கொடுக்கிறான். இது நாலாம் அத்யாயம். फलाध्यायः - பல-அத்யாயம்."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_03_09",
+      "type": "default",
+      "title": {
+        "en": "Purport of the Mangala Slokham",
+        "ta": "மங்களஶ்லோகத்தின் தாத்பர்யம்"
+      },
+      "description": "",
+      "en_description": "The purport of the  maṅgala-śloka  in Śrī Bhāṣya",
+      "ta_description": "ஸ்ரீபாஷ்யத்தில் மங்களஶ்லோகத்தின் தாத்பர்யம்",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Purpose 1: Spreading Bhagavān's Glory",
+            "ta": "நோக்கம் 1: பகவான் புகழைப் பரப்புதல்"
+          },
+          "description": "The treatise should spread throughout the world, and the glory of Bhagavān should become known everywhere.",
+          "en_description": "The treatise should spread throughout the world, and the glory of Bhagavān should become known everywhere.",
+          "ta_description": "க்ரந்தம் லோகம் பூராவும் பரவி, பகவானுடைய ப்ரபாவத்தை லோகமடங்கலும் அறிந்து கொள்ள வேணும்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Purpose 2: Distinctive Doctrine",
+            "ta": "நோக்கம் 2: தனித்துவமான தத்துவம்"
+          },
+          "description": "This tradition is distinguished from other traditions by clearly teaching  cit, acit, and Īśvara .",
+          "en_description": "This tradition is distinguished from other traditions by clearly teaching  cit, acit, and Īśvara .",
+          "ta_description": "இந்த ஸம்ப்ரதாயமானது சித், அசித், ஈஶ்வரனைப் பேசுகிறது என்று மற்ற ஸம்ப்ரதாயங்களிலிருந்து வேறுபடுத்திக் காட்டுகிறது."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Purpose 3: Condensed Summary",
+            "ta": "நோக்கம் 3: சுருக்கமான சாரம்"
+          },
+          "description": "The meanings of all four chapters are condensed into just a few words of the  maṅgala-śloka :",
+          "en_description": "The meanings of all four chapters are condensed into just a few words of the  maṅgala-śloka :",
+          "ta_description": "இந்த க்ரந்தத்தின் நான்கு அத்யாயங்களின் அர்த்தத்தை, மங்கள-ஶ்லோகத்தில் சில பதங்களிலேயே சுருக்கிக் காட்டுகிறார்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Viṣaya-dvika Summary",
+            "ta": "விஷய-த்விகம் சுருக்கம்"
+          },
+          "description": " Viṣaya-dvika \n  Chapter 1:  Samanvaya Adhyāya  –  akhila-bhuvana-janma-sthema-bhaṅgādi \n  Chapter 2:  Avirodha Adhyāya  –  līle ",
+          "en_description": " Viṣaya-dvika \n  Chapter 1:  Samanvaya Adhyāya  –  akhila-bhuvana-janma-sthema-bhaṅgādi \n  Chapter 2:  Avirodha Adhyāya  –  līle ",
+          "ta_description": " विषय-द्विकम् - விஷய-த்விகம்: \n  அத்யாயம் 1 - समन्वयाध्यायम् - अखिलभुवनजन्मस्थेमभङ्गादि - ஸமந்வய-அத்யாயம் - அகில-புவன-ஜந்ம-பங்காதி\n  அத்யாயம் 2 - अविरोधाध्यायम् - लीले - அவிரோத-அத்யாயம் - லீலே"
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Viṣayi-dvika Summary",
+            "ta": "விஷயி-த்விகம் சுருக்கம்"
+          },
+          "description": " Viṣayi-dvika \n  Chapter 3:  Sādhana Adhyāya  –  vinata  (bowing, bhakti)\n  Chapter 4:  Phala Adhyāya  –  rakṣā  (desired experience and service)",
+          "en_description": " Viṣayi-dvika \n  Chapter 3:  Sādhana Adhyāya  –  vinata  (bowing, bhakti)\n  Chapter 4:  Phala Adhyāya  –  rakṣā  (desired experience and service)",
+          "ta_description": " विषयि-द्विकम् - விஷயி-த்விகம்: \n  அத்யாயம் 3 - साधनाध्यायम् - ஸாதன-அத்யாயம் - विनत -விநத (வணக்கம், பக்தி)\n  அத்யாயம் 4 - फलाध्यायम् - பல-அத்யாயம் - रक्षा - ரக்ஷா (இஷ்டமாக இருக்கிற அநுபவ-கைங்கர்யம்)"
+        }
+      ]
+    }
+  ]
+}

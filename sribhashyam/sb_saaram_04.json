@@ -1,0 +1,382 @@
+{
+  "topicId": "sb_saaram_03",
+  "topicTitle": "Is All Speech a Command? Jignyasadhikaranam Poorvapaksham",
+  "cards": [
+    {
+      "id": "sb_saaram_03_01",
+      "type": "default",
+      "title": {
+        "en": "अधिकरणम् (Adhikaranam)",
+        "ta": "அதிகரணம் (Adhikaranam)"
+      },
+      "description": "In Mīmāṃsā and the Brahma Sūtras, अधिकरणम् (Adhikaranam) refers to a structured unit of reasoning. It is used to systematically analyze and resolve a specific topic or doubt in scripture, aiming for a clear and well-reasoned conclusion.",
+      "en_description": "In Mīmāṃsā and the Brahma Sūtras, अधिकरणम् (Adhikaranam) refers to a structured unit of reasoning. It is used to systematically analyze and resolve a specific topic or doubt in scripture, aiming for a clear and well-reasoned conclusion.",
+      "ta_description": "மீமாம்சை மற்றும் பிரம்ம சூத்திரங்களில், அதிகரணம் என்பது ஒரு கட்டமைக்கப்பட்ட தர்க்க அலகு ஆகும். இது வேத நூல்களில் உள்ள ஒரு குறிப்பிட்ட தலைப்பு அல்லது சந்தேகத்தை முறையாக ஆய்வு செய்து தீர்ப்பதற்கும், தெளிவான மற்றும் நன்கு விவாதிக்கப்பட்ட முடிவை எட்டுவதற்கும் பயன்படுத்தப்படுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": "UA2GinLaJ2E"
+      }
+    },
+    {
+      "id": "sb_saaram_03_02",
+      "type": "default",
+      "title": {
+        "en": "अधिकरणस्य षडङ्गानि (The Six Components of Adhikaranam)",
+        "ta": "அதிகரணஸ்ய ஷடங்கானி (அதிகரணத்தின் ஆறு அங்கங்கள்)"
+      },
+      "description": "अधिकरणस्य षडङ्गानि (The Six Components of Adhikaranam)",
+      "en_description": "अधिकरणस्य षडङ्गानि (The Six Components of Adhikaranam)",
+      "ta_description": "அதிகரணஸ்ய ஷடங்கானி (அதிகரணத்தின் ஆறு அங்கங்கள்)",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "विषयः (Viṣaya)",
+            "ta": "விஷயம் (Viṣaya)"
+          },
+          "description": "The subject matter or the topic of discussion.",
+          "en_description": "The subject matter or the topic of discussion.",
+          "ta_description": ""
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "संशयः (Saṃśaya)",
+            "ta": "ஸம்சயம் (Saṃśaya)"
+          },
+          "description": "The doubt or uncertainty that arises concerning the Viṣaya (subject matter).",
+          "en_description": "The doubt or uncertainty that arises concerning the Viṣaya (subject matter).",
+          "ta_description": "விவாதத்திற்குரிய பொருள் அல்லது தலைப்பு."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "पूर्वपक्षः (Pūrvapaksham)",
+            "ta": "பூர்வபக்ஷம் (Pūrvapaksham)"
+          },
+          "description": "The initial interpretation or argument, often proposed by an opponent. It may or may not be correct.",
+          "en_description": "The initial interpretation or argument, often proposed by an opponent. It may or may not be correct.",
+          "ta_description": "அந்த விஷயம் (தலைப்பு) குறித்து எழும் சந்தேகம் அல்லது ஐயம்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "सिद्धान्तः (Siddhānta)",
+            "ta": "சித்தாந்தம் (Siddhānta)"
+          },
+          "description": "The established conclusion or the correct interpretation, as given by Sage Veda Vyasa in the Brahma Sutram. Veda Vyasa refutes the misinterpretations and provides the correct understanding, especially in the context of statements from the Upanishads.",
+          "en_description": "The established conclusion or the correct interpretation, as given by Sage Veda Vyasa in the Brahma Sutram. Veda Vyasa refutes the misinterpretations and provides the correct understanding, especially in the context of statements from the Upanishads.",
+          "ta_description": "பிரம்ம சூத்திரத்தில் வேத வியாச முனிவரால் வழங்கப்பட்ட நிறுவப்பட்ட முடிவு அல்லது சரியான விளக்கம். வேத வியாசர் தவறான விளக்கங்களை மறுத்து, குறிப்பாக உபநிடதங்களில் உள்ள கூற்றுகளின் பின்னணியில், சரியான புரிதலை வழங்குகிறார்."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "सङ्गतिः (Saṅgati)",
+            "ta": "சங்கதி (Saṅgati)"
+          },
+          "description": "Sangati refers to the connection or relevance of the current Adhikaranam with the broader context of the text. It ensures continuity in interpretation and establishes the connection to previous discussions.",
+          "en_description": "Sangati refers to the connection or relevance of the current Adhikaranam with the broader context of the text. It ensures continuity in interpretation and establishes the connection to previous discussions.",
+          "ta_description": "சங்கதி என்பது தற்போதைய அதிகாரத்திற்கும் நூலின் பரந்த சூழலுக்கும் இடையிலான தொடர்பு அல்லது பொருத்தத்தைக் குறிக்கிறது. இது விளக்கத்தில் தொடர்ச்சியை உறுதிசெய்து, முந்தைய விவாதங்களுடனான தொடர்பை நிலைநிறுத்துகிறது."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "प्रयोजनम् (Prayojanam)",
+            "ta": "பிரயோஜனம் (Prayojanam)"
+          },
+          "description": "The practical utility or purpose of the discussion. It explains the significance of resolving the doubt, whether to understand a philosophical truth, attain liberation, or clarify ritual practices.",
+          "en_description": "The practical utility or purpose of the discussion. It explains the significance of resolving the doubt, whether to understand a philosophical truth, attain liberation, or clarify ritual practices.",
+          "ta_description": "இந்த விவாதத்தின் நடைமுறைப் பயன் அல்லது நோக்கம். ஒரு தத்துவ உண்மையை அறிந்துகொள்வது, முக்தியை அடைவது அல்லது சடங்கு முறைகளைத் தெளிவுபடுத்துவது என எதுவாக இருந்தாலும், சந்தேகத்தைத் தீர்ப்பதன் முக்கியத்துவத்தை இது விளக்குகிறது."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_03_03",
+      "type": "default",
+      "title": {
+        "en": "Focus on Pūrvapaksham and Siddhānta",
+        "ta": "பூர்வபக்ஷம் மற்றும் சித்தாந்தத்தின் மீது கவனம்"
+      },
+      "description": "In the Sribhāṣyam Saram lecture series, we will primarily focus on understanding Pūrvapaksham and Siddhānta in each Adhikaranam. The first Adhikaranam is called the Jignyasaadhikaranam. The numbering scheme is: chapter.padham.adhikaranam",
+      "en_description": "In the Sribhāṣyam Saram lecture series, we will primarily focus on understanding Pūrvapaksham and Siddhānta in each Adhikaranam. The first Adhikaranam is called the Jignyasaadhikaranam. The numbering scheme is: chapter.padham.adhikaranam",
+      "ta_description": "ஸ்ரீபாஷ்ய சாரம் விரிவுரைத் தொடரில், ஒவ்வொரு அதிகரணத்திலும் உள்ள பூர்வபக்ஷம் மற்றும் சித்தாந்தத்தைப் புரிந்துகொள்வதில் நாம் முதன்மையாகக் கவனம் செலுத்துவோம்.முதல் அதிகாரணம் ஜிஞ்ஞாஸாதிகாரணம் (Jignyāsādhikaraṇam) என அழைக்கப்படுகிறது. எண்ணிடும் முறை: அத்தியாயம். பாதம். அதிகாரணம்.",
+      "cards": [
+        {
+          "type": "slokam",
+          "slokam": {
+            "sanskrit": "1-1-1 जिज्ञासाधिकरणम्\nअथातो ब्रह्मजिज्ञासा",
+            "transliteration": "1-1-1 Jignyasaadhikaranam\nAthāto Brahma Jijñāsā"
+          },
+          "description": "Now, therefore, the inquiry into Brahmam.",
+          "en_description": "Now, therefore, the inquiry into Brahmam.",
+          "ta_description": "எனவே, இப்பொழுது பிரம்மத்தைப் பற்றிய விசாரணை தொடங்குகிறது."
+        }
+      ],
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_04",
+      "type": "default",
+      "title": {
+        "en": "पूर्वपक्षः (Pūrvapakṣa)",
+        "ta": "பூர்வபக்ஷம் (Pūrvapaksham)"
+      },
+      "description": "The Pūrvapaksham asserts that the Vedas are merely a collection of commands directing actions (कार्य पदार्थम्), and whatever they directly mention about an existing entity such as Brahmam, is for aiding to do the actions only.\n So he says there is no need to even consider about inquiring in to Brahmam, the existing entity, which Sri Vedha Vyasa is starting to do. He gives examples to support this view. This is explained in the video session. A very deep reasoning behind this logic of purvapaksha is clearly described in this video.\n We will also learn about how he describes that Speech induces an action. Emperumanar refutes this logic beautifully with examples.",
+      "en_description": "The Pūrvapaksham asserts that the Vedas are merely a collection of commands directing actions (कार्य पदार्थम्), and whatever they directly mention about an existing entity such as Brahmam, is for aiding to do the actions only.\n So he says there is no need to even consider about inquiring in to Brahmam, the existing entity, which Sri Vedha Vyasa is starting to do. He gives examples to support this view. This is explained in the video session. A very deep reasoning behind this logic of purvapaksha is clearly described in this video.\n We will also learn about how he describes that Speech induces an action. Emperumanar refutes this logic beautifully with examples.",
+      "ta_description": "பூர்வபக்ஷம் சொல்லுவது - வேதங்களாவன கட்டளைகளின் கூட்டமே. அவை, மனிதனை செயலில் - கார்ய-பதார்த்ததில் - தூண்டுகின்றன. அவை இருக்கிற பிரஹ்மத்தை விளக்குவதற்காக வரவில்லை. ப்ரஹ்மத்தின் இருப்பசைச் சொல்லும் வாக்யங்களெல்லாம் ஒருவனைச் செயலில் தூண்டுவதற்காகத் தான் இருக்கின்றன.\nஎனவே பூர்வபக்ஷம் சொல்லுகிறது - பிரஹ்மத்தைப் பற்றிச் சொல்கிற வாக்யங்களை விசாரிப்பதற்கான தேவையே உருவாகவில்லை. எனவே உத்தர மீமாம்ஸைவைத் தொடங்குவதே தேவையில்லை.\nஇதற்கு சான்றாக அவன் கொடுக்கும் உதாரணங்களை இந்தக் காணொலி விளக்குகிறது. பூர்வபக்ஷம் இவ்வாறு சொல்லுவதின் ஆழமான அடிப்படைக் காரணத்தை இந்தக் காணொலி மிகவும் எளியதாக விளக்குகிறது. மேலும், பேச்சு எப்படி செயலில் மூட்டுகிறது என்று அந்தப் படிகளையும் இந்தக் காணொலியில் நாம் கற்கலாம். எம்பெருமானார் இந்த வாதத்தை மிகவும் அழகான உதாரணங்களால் முறியடிக்கிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_05",
+      "type": "default",
+      "title": {
+        "en": "What is Purvapaksham and Who is Purva pakshi?",
+        "ta": "பூர்வபக்ஷம் என்றால் என்ன? பூர்வபக்ஷி யார்?"
+      },
+      "description": "Before grasping the true meaning of a concept, one may interpret it differently, leading to a mistaken or even contradictory understanding. This preliminary misunderstanding is known as purva paksham, and the person who holds this view is called the purvapakshi.",
+      "en_description": "Before grasping the true meaning of a concept, one may interpret it differently, leading to a mistaken or even contradictory understanding. This preliminary misunderstanding is known as purva paksham, and the person who holds this view is called the purva pakshi.",
+      "ta_description": "ஒரு கருத்தின் உண்மையான பொருளை புரிந்து கொள்வதற்கு முன், அதனை ஒருவர் வேறு விதமாகப் புரிந்து கொள்ளலாம். இதனால் தவறான அல்லது முரண்பட்ட புரிதல் உருவாகும். இவ்வாறு ஏற்படும் இந்த ஆரம்பகட்ட தவறான புரிதலே பூர்வபக்ஷம் எனப்படுகிறது. இந்த தவறான புரிதலைக் கொண்டிருப்பவரை பூர்வபக்ஷி என அழைக்கிறார்கள்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_06",
+      "type": "default",
+      "title": {
+        "en": "Purvapaksham in Jignyasadhikaranam – Terminology",
+        "ta": "ஜிஞ்ஞாஸாதிகரணத்தில் பூர்வபக்ஷம் – சொற்பயன் விளக்கங்கள்"
+      },
+      "description": "According to the Purvapaksham in Jignyasadhikaranam, objects (padarthas) are classified into two types: those that already exist by nature and those that need to be accomplished through action. In addition, the cognition that something has to be done is termed Karyata Buddhi.",
+      "en_description": "According to the Purvapaksham in Jignyasadhikaranam, objects (padarthas) are classified into two types: those that already exist by nature and those that need to be accomplished through action. In addition, the cognition that something has to be done is termed Karyata Buddhi.",
+      "ta_description": "ஜிஞ்ஞாஸாதிகரணத்தில் முன்வைக்கப்படும் பூர்வபக்ஷத்தின் அடிப்படையில், பதார்த்தங்கள் (பொருள்கள்) இரண்டு வகைகளாகப் பிரிக்கப்படுகின்றன: இயல்பாகவே இருக்கும் அல்லது ஏற்கனவே உள்ள பொருள்கள், மற்றும் செயலில் நிறைவேற்றப்பட வேண்டிய பொருள்கள். மேலும், ஒரு செயலைச் செய்ய வேண்டும் என்ற எண்ணமே ‘கார்யதா புத்தி’ என அழைக்கப்படுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Siddha Padartham",
+            "ta": "சித்த பதார்த்தம்"
+          },
+          "description": "Siddha Padartham refers to objects that already exist or are naturally existent and do not require any action to bring them into existence.",
+          "en_description": "Siddha Padartham refers to objects that already exist or are naturally existent and do not require any action to bring them into existence.",
+          "ta_description": "சித்த பதார்த்தம் என்பது, ஏற்கனவே இருக்கும் அல்லது இயல்பாகவே உள்ள பொருள்களை குறிக்கும். இவை உருவாக எந்தச் செயலும் தேவையில்லை."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Karya Padartham",
+            "ta": "கார்ய பதார்த்தம்"
+          },
+          "description": "Karya Padartham refers to objects or results that have to be achieved or accomplished through action.",
+          "en_description": "Karya Padartham refers to objects or results that have to be achieved or accomplished through action.",
+          "ta_description": "காரிய பதார்த்தம் என்பது, செயல் மூலம் நிறைவேற்றப்பட வேண்டிய அல்லது செய்யப்பட வேண்டிய பொருள்களை குறிக்கிறது."
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Karyata Buddhi",
+            "ta": "கார்யதா புத்தி"
+          },
+          "description": "Karyata Buddhi is the cognition or understanding that a particular action has to be performed.",
+          "en_description": "Karyata Buddhi is the cognition or understanding that a particular action has to be performed.",
+          "ta_description": "கார்யதா புத்தி என்பது, ஒரு குறிப்பிட்ட செயலைச் செய்ய வேண்டும் என்ற அறிவு அல்லது எண்ணத்தை குறிக்கிறது."
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_03_07",
+      "type": "default",
+      "title": {
+        "en": "Purvapaksham in Jignyasadhikaranam",
+        "ta": "ஜிஞ்ஞாசாதிகரணத்தில் பூர்வபக்ஷம்"
+      },
+      "description": "According to the Purvapaksham, speech does not merely describe the existence (siddha padartham) of objects. Therefore, no sentence conveys mere existence alone. Every sentence necessarily conveys a kāryam—that is, something that has to be done. Hence, speech can only take the form of a command, communicating an action that requires performance.",
+      "en_description": "According to the Purvapaksham, speech does not merely describe the existence (siddha padartham) of objects. Therefore, no sentence conveys mere existence alone. Every sentence necessarily conveys a kāryam—that is, something that has to be done. Hence, speech can only take the form of a command, communicating an action that requires performance.",
+      "ta_description": "பூர்வபக்ஷத்தின் படி, பேச்சு பொருள்களின் இருப்பை மட்டும் (சித்தப் பதார்த்தம்) விவரிப்பதில்லை. ஆகையால், எந்த வாக்கியமும் வெறும் இருப்பை மட்டும் தெரிவிப்பதாக இருக்க முடியாது. ஒவ்வொரு வாக்கியமும் தவிர்க்க முடியாத வகையில் ஒரு கார்யத்தை—செய்யப்பட வேண்டிய ஒன்றை—உணர்த்துகிறது. எனவே, பேச்சு இயல்பாகவே கட்டளை வடிவிலேயே அமைகிறது; செய்யப்பட வேண்டிய செயலை அறிவிப்பதே அதன் பிரதான நோக்கமாகும்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_08",
+      "type": "default",
+      "title": {
+        "en": "Illustration – Three-Person Scenario",
+        "ta": "உதாரணம் – மூன்று நபர்களின் காட்சி"
+      },
+      "description": "Consider an elderly man (thatha), a young man (father), and a baby who does not understand words/sentences, but can observe, analyze, and relate events to what was said.",
+      "en_description": "Consider an elderly man (thatha), a young man (father), and a baby who does not understand words/sentences, but can observe, analyze, and relate events to what was said.",
+      "ta_description": "ஒரு முதியவர் (தாத்தா), ஒரு இளைஞர் (அப்பா), மற்றும் ஒரு குழந்தை ஆகியோரைக் கருத்தில் கொள்ளுங்கள். குழந்தைக்கு சொற்களையும் வாக்கியங்களையும் புரிந்து கொள்ளும் திறன் இல்லை, ஆனால் அவன் கவனித்துப் பகுத்தறிந்து, நிகழ்வுகளை சொல்லப்பட்டவற்றுடன் தொடர்புபடுத்த முடியும்.",
+      "image": {
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/01/karyathaBuddhi01.png",
+        "caption": "Three-Person Scenario Illustration"
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_09",
+      "type": "default",
+      "title": {
+        "en": "Substantiating Purvapaksham – The Command by the Elder",
+        "ta": "பூர்வபக்ஷத்தை உறுதிப்படுத்துதல் – மூத்தவரின் கட்டளை"
+      },
+      "description": "The elder (thatha) gives a command to the young man (father). The father performs the action as instructed. The child observes this sequence.",
+      "en_description": "The elder (thatha) gives a command to the young man (father). The father performs the action as instructed. The child observes this sequence.",
+      "ta_description": "மூத்தவர் (தாத்தா) இளைஞருக்கு (அப்பா) ஒரு கட்டளையை வழங்குகிறார். அப்பா அந்தக் கட்டளையின்படி செயலைச் செய்கிறார். குழந்தை இந்த வரிசையைக் கவனிக்கிறது.",
+      "image": {
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/01/karyathaBuddhi02.png",
+        "caption": "Elder Giving Command"
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_10",
+      "type": "default",
+      "title": {
+        "en": "Child Observes and Analyzes",
+        "ta": "குழந்தை கவனித்து ஆய்வு செய்கிறது"
+      },
+      "description": "The child observes the action performed by the father and analyzes that every action must be preceded by Karyatha Buddhi—the cognition that something needs to be done.",
+      "en_description": "The child observes the action performed by the father and analyzes that every action must be preceded by Karyatha Buddhi—the cognition that something needs to be done.",
+      "ta_description": "குழந்தை அப்பா செய்த செயலைக் கவனித்து, ஒவ்வொரு செயலுக்கும் முன்னால் கார்யதா புத்தி—ஏதோ ஒன்றைச் செய்ய வேண்டும் என்ற எண்ணம்—இருப்பதைப் பகுப்பாய்வு செய்கிறது.",
+      "image": {
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/01/karyathaBuddhi05.png",
+        "caption": "Child Observing and Analyzing"
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_11",
+      "type": "default",
+      "title": {
+        "en": "Speech Induces Karyata Buddhi",
+        "ta": "பேச்சு கார்யதா புத்தியைத் தூண்டுகிறது"
+      },
+      "description": "The child concludes that the Karyatha Buddhi in the father was induced by thatha’s speech. After thatha spoke, the father understood that fetching the cow is a KARYAM for him.",
+      "en_description": "The child concludes that the Karyatha Buddhi in the father was induced by thatha’s speech. After thatha spoke, the father understood that fetching the cow is a KARYAM for him.",
+      "ta_description": "குழந்தை இந்த முடிவுக்கு வருகிறது: அப்பாவின் கார்யதா புத்தி தாத்தாவின் பேச்சால் தூண்டப்பட்டது. தாத்தா பேசிய பிறகு, அப்பாவுக்கு பசுவை எடுத்து வருவது அவருக்கான ஒரு கார்யம் எனப் புரிந்தது.",
+      "image": {
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/01/karyathaBuddhi06.png",
+        "caption": "Speech Inducing Karyata Buddhi"
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+	{
+      "id": "sb_saaram_03_12",
+      "type": "default",
+      "title": {
+        "en": "Child’s Self-Reflection",
+        "ta": "குழந்தையின் சுயசிந்தனை"
+      },
+      "description": "The child reasons: \"I will fetch a ball only when I feel I HAVE to. Only when I see fetching the ball as beneficial and hence my KARYAM, will I fetch the ball.\"",
+      "en_description": "The child reasons: \"I will fetch a ball only when I feel I HAVE to. Only when I see fetching the ball as beneficial and hence my KARYAM, will I fetch the ball.\"",
+      "ta_description": "குழந்தை பகுத்தறிகிறது: \"நான் ஒரு பந்தை எடுத்து வர வேண்டும் என்று நான் உணரும்போதே அதைச் செய்வேன். பந்தை எடுத்து வருவது பயனுள்ளது என்று நான் காணும்போதும், அதுவே என் கார்யம் என்று உணரும்போதும் மட்டுமே நான் பந்தை எடுத்து வருவேன்.\"",
+      "image": {
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/01/fetchingBall.png",
+        "caption": "Child’s Self-Reflection"
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_13",
+      "type": "default",
+      "title": {
+        "en": "Purvapaksham Summary",
+        "ta": "பூர்வபக்ஷத்தின் சுருக்கம்"
+      },
+      "description": "Speech will only be in the form of a command. It will only convey an action to be done. It will not describe mere existence. To substantiate this, the three-person scenario was described. Even in yoga teacher example, Doubts come only about how a yoga posture should be done, not about whether the posture exists at all. A yoga teacher only teaches the correct way to perform the posture; the teacher does not prove that the posture exists. In the same way, speech (shabda) only gives guidance about how and why things should be done. It does not explain why things exist in the first place. Here, it does not prove the existence of Brahmam, but explains its nature and how it is to be understood.",
+      "en_description": "Speech will only be in the form of a command. It will only convey an action to be done. It will not describe mere existence. To substantiate this, the three-person scenario was described. Even in yoga teacher example, Doubts come only about how a yoga posture should be done, not about whether the posture exists at all. A yoga teacher only teaches the correct way to perform the posture; the teacher does not prove that the posture exists. In the same way, speech (shabda) only gives guidance about how and why things should be done. It does not explain why things exist in the first place. Here, it does not prove the existence of Brahmam, but explains its nature and how it is to be understood.",
+      "ta_description": "வாக்கு (Speech) எப்போதும் ஆணை (command) வடிவிலேயே இருக்கும். அது செய்ய வேண்டிய செயலை மட்டும் அறிவிக்கும்; வெறும் இருப்பை (mere existence) விவரிக்காது. இதை உறுதிப்படுத்துவதற்காக மூன்று நபர் உதாரணம் விளக்கப்பட்டது. யோக ஆசிரியர் உதாரணத்திலும், சந்தேகம் எழுவது யோகாசனத்தை எவ்வாறு செய்ய வேண்டும் என்பதிலேயே ஆகும்; அந்த ஆசனம் உள்ளதா இல்லையா என்பதில் அல்ல. யோக ஆசிரியர் ஆசனத்தை சரியான முறையில் செய்வதையே கற்பிப்பார்; அந்த ஆசனம் உள்ளது என்பதை நிரூபிப்பதில்லை. இதேபோல், வாக்கு (சப்தம்) எவ்வாறு மற்றும் ஏன் சில காரியங்கள் செய்யப்பட வேண்டும் என்பதற்கான வழிகாட்டுதலையே வழங்கும்; பொருள்கள் ஏன் உள்ளன என்பதைக் கூறுவதில்லை. இங்கே, அது பிரம்மத்தின் இருப்பை நிரூபிக்கவில்லை; அதன் ஸ்வரூபத்தையும், அதை எவ்வாறு புரிந்துகொள்ள வேண்டும் என்பதையும் விளக்குகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_14",
+      "type": "default",
+      "title": {
+        "en": "Implication for Vedas and Brahmam",
+        "ta": "வேதங்கள் மற்றும் பிரம்மத்திற்கான தாக்கம்"
+      },
+      "description": "Since all speech (shabdam) can only convey karya padartham, the Vedas—also a form of speech—can only convey karya padartha. Brahmam is not a karya; it does not need to be created, modified, or destroyed. It is a siddha padartham. Therefore, the Vedas cannot describe Brahmam.",
+      "en_description": "Since all speech (shabdam) can only convey karya padartham, the Vedas—also a form of speech—can only convey karya padartha. Brahmam is not a karya; it does not need to be created, modified, or destroyed. It is a siddha padartham. Therefore, the Vedas cannot describe Brahmam.",
+      "ta_description": "எல்லாப் பேச்சும் (சப்தம்) காரிய பதார்த்தத்தை மட்டுமே உணர்த்த முடியும் என்பதால், வேதங்களும்—பேச்சின் ஒரு வடிவமாக இருப்பதால்—காரிய பதார்த்தத்தை மட்டுமே உணர்த்த முடியும். பிரம்மம் ஒரு கார்யம் அல்ல; அது உருவாக்கப்படவோ, மாற்றப்படவோ அல்லது அழிக்கப்படவோ தேவையில்லை. அது ஒரு சித்த பதார்த்தம். எனவே, வேதங்கள் பிரம்மத்தை விவரிக்க முடியாது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_03_15",
+      "type": "default",
+      "title": {
+        "en": "No Need for Brahma Sutram",
+        "ta": "பிரம்ம சூத்திரம் தேவையில்லை"
+      },
+      "description": "Veda Vyasa wrote the Brahma Sutras to eliminate confusion in Vedanta passages describing Brahmam. But Purvapaksham says that the focus of Vedas is such that any of its sentences about exising entities like brahman is to merely encourage one to do the actions; so there is no need to get into analysis of such sentences. Therefore, there is no need for the Brahma Sutras.",
+      "en_description": "Veda Vyasa wrote the Brahma Sutras to eliminate confusion in Vedanta passages describing Brahmam. But Purvapaksham says that the focus of Vedas is such that any of its sentences about exising entities like brahman is to merely encourage one to do the actions; so there is no need to get into analysis of such sentences. Therefore, there is no need for the Brahma Sutras that try to analyse such sentences.",
+      "ta_description": "வேத வியாசர் பிரம்மத்தை விவரிக்கும் வேதாந்த பாடல்களில் உள்ள குழப்பத்தை அகற்றுவதற்காக பிரம்ம சூத்திரங்களை எழுதினார். ஆனால் பூர்வபக்ஷம் சொல்லுவது - பிரம்மத்தைப் பற்றிச் சொல்லும் வேத வாக்யங்கள், ஒருவனைக் கார்யத்தில் மூட்டுவதற்காகத் தான் இருக்கின்றன. எனவே அப்படிப்பட வேத வாக்யங்களைப் பற்றிய விசாரமே தேவையில்லை.  எனவே, அவற்றை விசாரிக்க முயல்கின்ற பிரம்ம சூத்திரங்கள் தேவையில்லை.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    }
+  ]
+}

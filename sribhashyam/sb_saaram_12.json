@@ -1,0 +1,271 @@
+{
+  "topicId": "sb_saaram_12",
+  "topicTitle": "Śāstra Yonitva Adhikaraṇam — Rāmānuja’s Siddhāntam",
+  "cards": [
+    {
+      "id": "sb_saaram_12_01",
+      "type": "default",
+      "title": {
+        "en": "Introduction to the Śāstra-Yonitva Adhikaraṇam",
+        "ta": "சாஸ்திர-யோனித்வ அதிகரணத்தின் அறிமுகம்"
+      },
+      "description": "In the previous two discourses, we examined the pūrvapakṣam (prima facie view) of the Śāstra-Yonitvādhikaraṇam. In this adhikaraṇam, the opponent is the Naiyāyikan philosopher who argues that the world must have a creator called Īśvaran. However, he claims that the existence of this creator can be established through inference (anumānam) alone and that the shastras/the vedas are not necessary to prove it.",
+      "en_description": "In the previous two discourses, we examined the pūrvapakṣam (prima facie view) of the Śāstra-Yonitvādhikaraṇam. In this adhikaraṇam, the opponent is the Naiyāyikan philosopher who argues that the world must have a creator called Īśvaran. However, he claims that the existence of this creator can be established through inference (anumānam) alone and that the shastras/the vedas are not necessary to prove it.",
+      "ta_description": "முன்னைய இரண்டு உரைகளில் சாஸ்திர-யோனித்வ அதிகரணத்தின் பூர்வபக்ஷத்தை ஆராய்ந்தோம். இந்த அதிகரணத்தில் பூர்வபக்ஷி நையாயிகர். உலகிற்கு ஒரு படைப்பாளர் இருக்க வேண்டும்; அந்த படைப்பாளர் ஈஸ்வரன் என்று அவர் கூறுகிறார். ஆனால், இந்த உண்மையை வேத சாஸ்திரங்களின் உதவியின்றி அனுமானம் மூலமே அறிய முடியும் என்றும், இதற்காக சாஸ்திரம் தேவையில்லை என்றும் அவர் வாதிடுகிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": "Me7tf2cqYUU"
+      }
+    },
+    {
+      "id": "sb_saaram_12_02",
+      "type": "default",
+      "title": {
+        "en": "The Objection Raised by the Mīmāṃsakar",
+        "ta": "மீமாம்சகரின் ஆட்சேபனை"
+      },
+      "description": "The Mīmāṃsaka philosopher objects to the Naiyāyikan’s reasoning and argues that such inference is faulty. The Naiyāyikan rejects this criticism and insists that through inference alone he can establish that the creator of the world is Sarveśvaran. Therefore, he concludes that scripture is not necessary to know Brahmam and that Brahma-vicāra through vedic scripture is unnecessary.",
+      "en_description": "The Mīmāṃsaka philosopher objects to the Naiyāyikan’s reasoning and argues that such inference is faulty. The Naiyāyikan rejects this criticism and insists that through inference alone he can establish that the creator of the world is Sarveśvaran. Therefore, he concludes that scripture is not necessary to know Brahmam and that Brahma-vicāra through vedic scripture is unnecessary.",
+      "ta_description": "நையாயிகரின் இந்த வாதத்திற்கு மீமாம்சகர் எதிர்ப்பு தெரிவிக்கிறார். இந்த அனுமானம் தவறானது என்று அவர் கூறுகிறார். ஆனால் நையாயிகர் அதை ஏற்காமல், அனுமானத்தின் மூலமே உலகின் படைப்பாளர் சர்வேஸ்வரன் என்பதை நிரூபிக்க முடியும் என்று வலியுறுத்துகிறார். ஆகவே, பிரம்மத்தை அறிய சாஸ்திரம் தேவையில்லை என்றும், சாஸ்திரத்தின் மூலம் பிரம்மவிசாரம் செய்ய வேண்டிய அவசியமில்லை என்றும் அவர் கூறுகிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_12_03",
+      "type": "default",
+      "title": {
+        "en": "Bhagavad Rāmānuja Introduces the Siddhāntam",
+        "ta": "ராமானுஜர் சித்தாந்தத்தை அறிமுகப்படுத்துகிறார்"
+      },
+      "description": "In this context, Bhagavad Rāmānuja presents the Siddhāntam. He addresses the Naiyāyikan and asks what kind of inference can establish that a single creator produced the entire universe.",
+      "en_description": "In this context, Bhagavad Rāmānuja presents the Siddhāntam. He addresses the Naiyāyikan and asks what kind of inference can establish that a single creator produced the entire universe.",
+      "ta_description": "இந்த நிலையில் பகவத் ராமானுஜர் சித்தாந்தத்தை முன்வைக்கிறார். நையாயிகரை நோக்கி அவர் கேட்கிறார்: இந்த முழு பிரபஞ்சத்தையும் ஒரே ஒருவர் படைத்தார் என்பதை நீங்கள் எந்த வகையான அனுமானத்தின் மூலம் நிரூபிக்க முடியும்?",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_12_04",
+      "type": "default",
+      "title": {
+        "en": "Creation of the Universe According to the Vedas",
+        "ta": "வேதங்களின் படி உலகின் படைப்பு"
+      },
+      "description": "The Vedas declare that at the beginning only Parabrahmam existed and that this Brahmam created the entire universe. A famous statement says: “Eko ha vai Nārāyaṇa āsīt” — At the beginning only Nārāyaṇa existed.",
+      "en_description": "The Vedas declare that at the beginning only Parabrahmam existed and that this Brahmam created the entire universe. A famous statement says: “Eko ha vai Nārāyaṇa āsīt” — At the beginning only Nārāyaṇa existed.",
+      "ta_description": "வேதங்கள் ஆரம்பத்தில் பரபிரம்மம் மட்டுமே இருந்தது என்றும், அந்த ஒரே பிரம்மமே இந்த முழு பிரபஞ்சத்தையும் படைத்தது என்றும் கூறுகின்றன. “ஏகோ ஹ வை நாராயண ஆசீத்” என்ற வேதவாக்கியம், ஆரம்பத்தில் நாராயணன் மட்டுமே இருந்தார் என்பதை அறிவிக்கிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_12_05",
+      "type": "default",
+      "title": {
+        "en": "Only Vedas reveal the creation of the universe",
+        "ta": "பிரபஞ்ச உருவாக்கத்தை அறிவிப்பது சாஸ்திரம் மட்டுமே"
+      },
+      "description": "Inference always depends on previously observed examples. For example, when we see a pot we infer the existence of a potter. But In the world, we see large constructions such as palaces or great buildings. But these are never produced by a single individual in a single moment. Instead, such structures are created by many workers over a long period of time. If this is the case even for a palace, how can we infer that the entire vast universe was produced by one individual in a single instant? Our ordinary experience does not support such an inference. Therefore, our intellect cannot arrive at this conclusion through inference alone. If knowledge of this kind is to be obtained, it must come from scripture. Inference cannot establish that a single Supreme Being created the entire universe at a particular time. Only śāstra reveals this truth. This is the first response given by Rāmānuja.",
+      "en_description": "Inference always depends on previously observed examples. For example, when we see a pot we infer the existence of a potter. But In the world, we see large constructions such as palaces or great buildings. But these are never produced by a single individual in a single moment. Instead, such structures are created by many workers over a long period of time. If this is the case even for a palace, how can we infer that the entire vast universe was produced by one individual in a single instant? Our ordinary experience does not support such an inference. Therefore, our intellect cannot arrive at this conclusion through inference alone. If knowledge of this kind is to be obtained, it must come from scripture. Inference cannot establish that a single Supreme Being created the entire universe at a particular time. Only śāstra reveals this truth. This is the first response given by Rāmānuja.",
+      "ta_description": "அனுமானம் எப்போதும் முன்பே காணப்பட்ட உதாரணங்களை அடிப்படையாகக் கொண்டே அமைகிறது. உதாரணமாக, நாம் ஒரு குடத்தைப் பார்க்கும்போது, ஒரு குயவன் இருக்க வேண்டும் என்று அனுமானிக்கிறோம். ஆனால் உலகத்தில் அரண்மனைகள் அல்லது பெரிய கட்டிடங்கள் போன்ற மிகப் பெரிய கட்டிடங்களை நாம் காண்கிறோம். இவை ஒரே ஒருவரால் ஒரே கணத்தில் உருவாக்கப்படுவதில்லை. இதற்கு பதிலாக, இப்படிப்பட்ட கட்டிடங்கள் பல தொழிலாளர்களால் நீண்ட காலப்பகுதியில் உருவாக்கப்படுகின்றன. ஒரு அரண்மனைக்கே இவ்வாறு இருப்பதாக இருந்தால், இந்த அளவற்ற பெரும் பிரபஞ்சம் ஒரே ஒருவரால் ஒரே கணத்தில் உருவாக்கப்பட்டது என்று நாம் எவ்வாறு அனுமானிக்க முடியும்? நம்முடைய சாதாரண அனுபவம் இப்படிப்பட்ட அனுமானத்தை ஆதரிக்கவில்லை. ஆகையால், அனுமானத்தின் மூலம் மட்டுமே இந்த முடிவிற்கு நம்முடைய புத்தி வர முடியாது. இத்தகைய அறிவை அறிய வேண்டுமானால், அது சாஸ்திரத்தின் மூலமாகவே பெறப்பட வேண்டும். ஒரே பரமபுருஷன் குறிப்பிட்ட ஒரு காலத்தில் முழு பிரபஞ்சத்தையும் உருவாக்கினார் என்பதை அனுமானம் நிறுவ முடியாது. இந்த உண்மையை வெளிப்படுத்துவது சாஸ்திரம் மட்டுமே. இது ராமானுஜர் அளிக்கும் முதல் பதிலாகும்.",
+      "image": {
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/03/knowingBrahmamFromVedas_01.png",
+        "caption": "Through Vedas we can learn the creation of Brahmam and not through inference."
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_12_06",
+      "type": "default",
+      "title": {
+        "en": "Knowledge of Cosmic Dissolution (Pralayam)",
+        "ta": "பிரளயத்தின் அறிவு"
+      },
+      "description": "Upanishad teaches that the universe undergoes creation and dissolution (pralayam). The world is destroyed at certain times and later recreated by the Supreme Lord. How could such knowledge be obtained through inference? From our ordinary observations, we only see things continuing as they are. At best, we might know what happened ten or fifty years ago through historical records. But we cannot infer the fact that thousands or millions of years ago the entire universe was dissolved and recreated. Such knowledge is available only through the Vedic scriptures.",
+      "en_description": "Upanishad teaches that the universe undergoes creation and dissolution (pralayam). The world is destroyed at certain times and later recreated by the Supreme Lord. How could such knowledge be obtained through inference? From our ordinary observations, we only see things continuing as they are. At best, we might know what happened ten or fifty years ago through historical records. But we cannot infer the fact that thousands or millions of years ago the entire universe was dissolved and recreated. Such knowledge is available only through the Vedic scriptures.",
+      "ta_description": "சாஸ்திரங்கள் உலகிற்கு படைப்பு மற்றும் லயம் (பிரளயம்) உள்ளதாகக் கூறுகின்றன. ஆயிரக்கணக்கான அல்லது இலட்சக்கணக்கான ஆண்டுகளுக்கு முன் நடந்த இப்படிப்பட்ட நிகழ்வுகளை பிரத்யக்ஷம் அல்லது அனுமானம் மூலம் அறிய முடியாது. இந்த அறிவை வேதங்கள் மட்டுமே வெளிப்படுத்துகின்றன.",
+      "image": {
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/03/knowingBrahmamFromVedas_02.png",
+        "caption": "Knowledge of Cosmic Dissolution (Pralayam) can be learnt only from vedas and not by inference"
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_12_07",
+      "type": "default",
+      "title": {
+        "en": "Rāmānuja’s Refutation of Inference about God",
+        "ta": "கடவுளைப் பற்றிய அனுமானத்திற்கு ராமானுஜரின் மறுப்பு"
+      },
+      "description": "Rāmānuja examines the debate between the Mīmāṃsakar and the Naiyāyikan regarding whether the existence and nature of God can be established through inference.",
+      "en_description": "Rāmānuja examines the debate between the Mīmāṃsakar and the Naiyāyikan regarding whether the existence and nature of God can be established through inference.",
+      "ta_description": "கடவுளின் இருப்பையும் தன்மையையும் அனுமானத்தின் மூலம் நிரூபிக்க முடியுமா என்பதைப் பற்றிய மீமாம்ஸகர் மற்றும் நையாயிகர் இடையிலான விவாதத்தை ராமானுஜர் ஆய்வு செய்கிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "1. The Mīmāṃsaka’s Further Objection",
+            "ta": "1. மீமாம்ஸகரின் மேலும் ஒரு எதிர்ப்பு"
+          },
+          "description": "Another debate now arises. The Mīmāṃsakar challenges the Naiyāyikan: if God is inferred by comparing Him to a potter, then the potter is an ignorant individual. Would that not imply that ignorance also belongs to God?",
+          "en_description": "Another debate now arises. The Mīmāṃsakar challenges the Naiyāyikan: if God is inferred by comparing Him to a potter, then the potter is an ignorant individual. Would that not imply that ignorance also belongs to God?",
+          "ta_description": "இப்போது மேலும் ஒரு விவாதம் எழுகிறது. மீமாம்ஸகர் நையாயிகரிடம் கேள்வி எழுப்புகிறார்: கடவுளை குயவனை உதாரணமாக கொண்டு அனுமானிக்கிறோம் என்றால், குயவன் அறியாமையுள்ள ஒரு மனிதன். அப்படியானால் அந்த அறியாமை கடவுளுக்கும் பொருந்த வேண்டாமா?",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "2. The Naiyāyikan’s Reply",
+            "ta": "2. நையாயிகரின் பதில்"
+          },
+          "description": "The Naiyāyikan replies that such reasoning is incorrect. Ignorance is not relevant to the act of making a pot. What is relevant is the skill or capability required to produce the object. Therefore, from the example of the potter we infer only the relevant quality — creative capability — and not irrelevant qualities such as ignorance.",
+          "en_description": "The Naiyāyikan replies that such reasoning is incorrect. Ignorance is not relevant to the act of making a pot. What is relevant is the skill or capability required to produce the object. Therefore, from the example of the potter we infer only the relevant quality — creative capability — and not irrelevant qualities such as ignorance.",
+          "ta_description": "இதற்கு நையாயிகர் பதிலளிக்கிறார்: இந்த தர்க்கம் சரியல்ல. ஒரு பானையை உருவாக்குவதற்கு அறியாமை தொடர்புடைய குணமல்ல. அதற்குத் தேவையானது திறமை அல்லது உற்பத்தி செய்யும் திறன். ஆகையால், குயவனை உதாரணமாக கொண்டு நாம் அனுமானிப்பது உருவாக்கும் திறனை மட்டுமே; அறியாமை போன்ற தொடர்பில்லாத குணங்களை அல்ல.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "3. Rāmānuja’s Analysis of Capability",
+            "ta": "3. திறனைப் பற்றிய ராமானுஜரின் ஆய்வு"
+          },
+          "description": "Rāmānuja now examines this reply more carefully. He observes that capability differs among individuals. A potter can make pots but cannot construct a palace. A mason or architect can build large buildings. Why does each individual possess different abilities? According to the Naiyāyikan himself, these differences arise because of karma — the accumulated merit and demerit of each individual.",
+          "en_description": "Rāmānuja now examines this reply more carefully. He observes that capability differs among individuals. A potter can make pots but cannot construct a palace. A mason or architect can build large buildings. Why does each individual possess different abilities? According to the Naiyāyikan himself, these differences arise because of karma — the accumulated merit and demerit of each individual.",
+          "ta_description": "இந்த பதிலை ராமானுஜர் மேலும் ஆராய்கிறார். மனிதர்களின் திறன்கள் வேறுபடுகின்றன என்பதை அவர் குறிப்பிடுகிறார். ஒரு குயவன் பானைகளை உருவாக்க முடியும்; ஆனால் ஒரு அரண்மனையை கட்ட முடியாது. ஒரு கட்டிடக்கலைஞர் அல்லது மிஸ்திரி பெரிய கட்டிடங்களை கட்ட முடியும். ஏன் மனிதர்களுக்கு திறன்கள் வேறுபடுகின்றன? நையாயிகரின் கருத்துப்படி, இந்த வேறுபாடுகள் ஒவ்வொருவரின் கர்மத்தின் காரணமாக ஏற்படுகின்றன.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "4. The Logical Consequence of This Reasoning",
+            "ta": "4. இந்த தர்க்கத்தின் தவிர்க்க முடியாத விளைவு"
+          },
+          "description": "If we follow this line of reasoning, then the creator of the universe would simply be a jīva atma (individual soul) who has acquired extraordinary capability through great merit. In that case, inference would establish only a very powerful individual soul, not the Supreme Transcendent Brahmam who is beyond all souls. Thus inference fails to establish the Supreme Lord.",
+          "en_description": "If we follow this line of reasoning, then the creator of the universe would simply be a jīva atma (individual soul) who has acquired extraordinary capability through great merit. In that case, inference would establish only a very powerful individual soul, not the Supreme Transcendent Brahman who is beyond all souls. Thus inference fails to establish the Supreme Lord.",
+          "ta_description": "இந்த தர்க்கத்தை தொடர்ந்து எடுத்துச் சென்றால், பிரபஞ்சத்தின் படைப்பாளர் மிகுந்த புண்ணியத்தால் விசேஷமான திறனைப் பெற்ற ஒரு ஜீவன் மட்டுமே என்று முடிவாகிவிடும். அப்படியானால் அனுமானம் நிரூபிப்பது எல்லா ஜீவர்களையும் கடந்த பரமபிரம்மத்தை அல்ல; மிகுந்த சக்தி கொண்ட ஒரு ஜீவனை மட்டுமே. ஆகையால், அனுமானம் பரமபுருஷனை நிறுவ முடியாது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "5. The Question of God’s Body",
+            "ta": "5. கடவுளின் உடல் பற்றிய கேள்வி"
+          },
+          "description": "Another issue arises in this debate. The Mīmāṃsakar points out that the potter creates the pot using a physical body. If the universe is created similarly, then God must also possess a body.",
+          "en_description": "Another issue arises in this debate. The Mīmāṃsakar points out that the potter creates the pot using a physical body. If the universe is created similarly, then God must also possess a body.",
+          "ta_description": "இந்த விவாதத்தில் மேலும் ஒரு கேள்வி எழுகிறது. குயவன் பானையை உருவாக்குவதற்கு தனது உடலைப் பயன்படுத்துகிறான். அதுபோல் உலகம் உருவாக்கப்பட்டது என்றால், கடவுளுக்கும் ஒரு உடல் இருக்க வேண்டும் என்று மீமாம்ஸகர் கூறுகிறார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "6. The Naiyāyikan’s Explanation: Creation Through Will",
+            "ta": "6. நையாயிகரின் விளக்கம்: சங்கல்பத்தின் மூலம் படைப்பு"
+          },
+          "description": "The Naiyāyikan replies that a body is not always necessary for action. Some actions occur through mental resolve (saṅkalpam) alone. For instance, a person may drive away negative influences or neutralize poison through mantra and mental resolve, without physical movement. Therefore, he argues that God could create the universe merely by His will, without possessing a body.",
+          "en_description": "The Naiyāyikan replies that a body is not always necessary for action. Some actions occur through mental resolve (saṅkalpam) alone. For instance, a person may drive away negative influences or neutralize poison through mantra and mental resolve, without physical movement. Therefore, he argues that God could create the universe merely by His will, without possessing a body.",
+          "ta_description": "இதற்கு நையாயிகர் பதிலளிக்கிறார்: ஒரு செயலைச் செய்ய உடல் அவசியமில்லை. சில செயல்கள் மன சங்கல்பத்தின் மூலமாகவே நடைபெறுகின்றன. உதாரணமாக, மந்திரமும் மன சங்கல்பமும் மூலம் சிலர் விஷத்தை நீக்கவோ அல்லது தீய சக்திகளை அகற்றவோ செய்கிறார்கள். ஆகையால், கடவுள் தனது சங்கல்பத்தின் மூலமாகவே உடல் இன்றியும் உலகத்தை உருவாக்க முடியும் என்று அவர் வாதிடுகிறார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "7. Rāmānuja’s Refutation - The Problem of Infinite Regress",
+            "ta": "7. ராமானுஜரின் மறுப்பு - முடிவில்லாத தொடர்ச்சி என்ற சிக்கல்"
+          },
+          "description": "Rāmānuja responds by pointing out an important flaw. Even in such cases, the person who makes the mental resolve still possesses a body. We have never observed anyone without a body performing such acts. Therefore, if God creates the universe through saṅkalpam, He must still possess a body. If God has a body, that body must consist of parts. According to the Naiyāyikan himself, anything composed of parts is an effect (kārya). If God's body is an effect, it must have been created by someone. Then we must ask: Who created God's body? If we say that God created His own body, we must ask with what body He created it. That would require another body, leading to an infinite regress (anavasthā). Thus the inference collapses into serious logical difficulties.",
+          "en_description": "Rāmānuja responds by pointing out an important flaw. Even in such cases, the person who makes the mental resolve still possesses a body. We have never observed anyone without a body performing such acts. Therefore, if God creates the universe through saṅkalpam, He must still possess a body. If God has a body, that body must consist of parts. According to the Naiyāyikan himself, anything composed of parts is an effect (kārya). If God's body is an effect, it must have been created by someone. Then we must ask: Who created God's body? If we say that God created His own body, we must ask with what body He created it. That would require another body, leading to an infinite regress (anavasthādvfbgrt ml; mj). Thus the inference collapses into serious logical difficulties.",
+          "ta_description": "இதற்கு ராமானுஜர் ஒரு முக்கிய குறையை சுட்டிக்காட்டுகிறார். இவ்வாறான செயல்களைச் செய்வோர் மன சங்கல்பம் செய்தாலும், அவர்களுக்கு உடல் இருக்கிறது. உடல் இல்லாமல் இத்தகைய செயல்களை யாரும் செய்வதை நாம் பார்த்ததில்லை. ஆகையால், கடவுள் சங்கல்பத்தின் மூலம் உலகத்தை உருவாக்குகிறார் என்றால், அவருக்கும் உடல் இருக்க வேண்டும். கடவுளுக்கு ஒரு உடல் இருந்தால், அது அவயவங்களால் ஆனதாக இருக்க வேண்டும். நையாயிகரின் கருத்துப்படி, அவயவங்களால் ஆன எந்தப் பொருளும் காரியம். ஆகையால் கடவுளின் உடலும் காரியம் என்றால், அதை யாரோ ஒருவர் உருவாக்கியிருக்க வேண்டும். அப்போது கேள்வி எழுகிறது: கடவுளின் உடலை யார் உருவாக்கினார்? கடவுள் தானே தனது உடலை உருவாக்கினார் என்று சொன்னால், எந்த உடலைக் கொண்டு அதை உருவாக்கினார் என்று கேட்க வேண்டும். அதற்காக இன்னொரு உடல் தேவைப்படும். இவ்வாறு தொடர்ந்து போனால் முடிவில்லாத நிலை — அனவஸ்தா — ஏற்படும். ஆகையால், இந்த அனுமானம் கடுமையான தர்க்கச் சிக்கல்களில் சிக்கி முறிந்து விடுகிறது.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/03/knowingBrahmamFromVedas_03.png",
+            "caption": "The Problem of Infinite Regress"
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_12_08",
+      "type": "default",
+      "title": {
+        "en": "Final Conclusion of the Adhikaraṇam",
+        "ta": "அதிகரணத்தின் இறுதி முடிவு"
+      },
+      "description": "Therefore, reasoning alone cannot establish the existence of the Supreme Lord who created the universe. The Veda alone is the valid means of knowing Brahmam. Because the Veda reveals Brahmam, inquiry into Brahmam through Vedānta is meaningful and necessary.",
+      "en_description": "Therefore, reasoning alone cannot establish the existence of the Supreme Lord who created the universe. The Veda alone is the valid means of knowing Brahmam. Because the Veda reveals Brahmam, inquiry into Brahmam through Vedānta is meaningful and necessary.",
+      "ta_description": "ஆகவே தர்க்கத்தின் மூலம் மட்டும் இந்த உலகத்தைப் படைத்த பரமாத்மாவை நிறுவ முடியாது. பிரம்மத்தை அறியச் செல்லுபடியாகும் ஒரே ஆதாரம் வேதமே ஆகும். வேதமே பிரம்மத்தை வெளிப்படுத்துவதால், வேதாந்தத்தின் மூலம் பிரம்மத்தை ஆராய்வது அர்த்தமுள்ளதும் அவசியமானதுமாகும்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    }
+  ]
+}

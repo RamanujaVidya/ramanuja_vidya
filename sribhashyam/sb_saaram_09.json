@@ -1,0 +1,311 @@
+{
+  "topicId": "sb_saaram_08",
+  "topicTitle": "Brahma Lakṣaṇam — Upalakṣaṇa and True Identification of Brahmam",
+  "cards": [
+    {
+      "id": "sb_saaram_08_01",
+      "type": "default",
+      "title": {
+        "en": "Can Brahmam Be Uniquely Identified?",
+        "ta": "பிரம்மம் தனித்துவமாக அடையாளம் காணப்பட முடியுமா?"
+      },
+      "description": "The Upaniṣads declare: “That from which the universe is born, by which it is sustained, and into which it dissolves — that is Brahmam.” At first glance, this appears to clearly define Brahmam through three functions — creation, sustenance, and dissolution — and thus seems to uniquely identify Brahmam.",
+      "en_description": "The Upaniṣads declare: “That from which the universe is born, by which it is sustained, and into which it dissolves — that is Brahmam.” At first glance, this appears to clearly define Brahmam through three functions — creation, sustenance, and dissolution — and thus seems to uniquely identify Brahmam.",
+      "ta_description": "உபநிஷத்துகள் அறிவிக்கின்றன: “எதிலிருந்து உலகம் தோன்றுகிறதோ, எதனால் அது நிலைபெறுகிறதோ, எதிலே அது லயமடைகிறதோ — இதுவே பிரம்மம்.” முதல் பார்வையில், படைப்பு, பாதுகாப்பு, லயம் என்ற மூன்று செயல்களால் பிரம்மம் தெளிவாக அடையாளம் காணப்படுவது போலத் தோன்றுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": "rxBcKq2bF_4"
+      }
+    },
+    {
+      "id": "sb_saaram_08_02",
+      "type": "default",
+      "title": {
+        "en": "Pūrva Pakṣam — The Objection",
+        "ta": "பூர்வபக்ஷம் — எதிர்வாதம்"
+      },
+      "description": "The opponent argues that three attributes imply three entities. Since creation, sustenance, and dissolution are distinct functions, they should indicate three different Brahmams, not one. Adjectives are meant to separate objects, not merge them.",
+      "en_description": "The opponent argues that three attributes imply three entities. Since creation, sustenance, and dissolution are distinct functions, they should indicate three different Brahmams, not one. Adjectives are meant to separate objects, not merge them.",
+      "ta_description": "பூர்வபக்ஷி வாதிடுவது: மூன்று பண்புகள் என்றால் மூன்று தனி பொருள்கள். படைப்பு, பாதுகாப்பு, லயம் ஆகியவை வேறு வேறு செயல்கள் என்பதால், அவை ஒரே பிரம்மத்தை அல்ல, மூன்று பிரம்மங்களைச் சுட்ட வேண்டும். விவரிப்புகள் (விசேஷணங்கள்) பொருள்களைப் பிரிப்பதற்கே பயன்படும், ஒன்றிணைப்பதற்கல்ல.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "example",
+          "title": {
+            "en": "The Cow Analogy",
+            "ta": "மாடு உதாரணம்"
+          },
+          "description": "If someone says, “There is a cow that is hornless, one-horned, and two-horned,” we naturally imagine three cows, not one. Likewise, three attributes should imply three Brahmams, not one.",
+          "en_description": "If someone says, “There is a cow that is hornless, one-horned, and two-horned,” we naturally imagine three cows, not one. Likewise, three attributes should imply three Brahmams, not one.",
+          "ta_description": "“கொம்பற்ற மாடு, ஒரு கொம்புடைய மாடு, இரண்டு கொம்புடைய மாடு” என்று சொன்னால், மனம் ஒரே மாட்டை அல்ல, மூன்று மாடுகளை கற்பனை செய்கிறது. அதுபோல, மூன்று பண்புகள் மூன்று பிரம்மங்களைச் சுட்ட வேண்டும் என்பதே பூர்வபக்ஷியின் வாதம்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_08_03",
+      "type": "default",
+      "title": {
+        "en": "Rāmānuja’s Siddhānta — Compatible Attributes",
+        "ta": "ராமானுஜரின் சித்தாந்தம் — பொருந்தும் பண்புகள்"
+      },
+      "description": "Śrī Rāmānuja explains that adjectives do not always divide objects. They remove incompatible qualities. Only contradictory attributes create multiple objects, compatible attributes unite into one identity.",
+      "en_description": "Śrī Rāmānuja explains that adjectives do not always divide objects. They remove incompatible qualities. Only contradictory attributes create multiple objects, compatible attributes unite into one identity.",
+      "ta_description": "ஸ்ரீ ராமானுஜர் விளக்குகிறார்: விவரிப்புகள் பொருள்களை எப்போதும் பிரிப்பதில்லை. அவை பொருந்தாத பண்புகளை மட்டுமே நீக்குகின்றன. முரண்படும் பண்புகள் மட்டுமே பல பொருள்களை உருவாக்கும்; பொருந்தும் பண்புகள் ஒரே அடையாளமாக ஒன்றிணையும்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Why the Cow Example Fails",
+            "ta": "மாடு உதாரணம் ஏன் பொருந்தாது"
+          },
+          "description": "Hornless, one-horned, and two-horned are mutually contradictory states. Hence the mind imagines many cows. But creating, sustaining, and dissolving are not contradictory — they happen at different times.",
+          "en_description": "Hornless, one-horned, and two-horned are mutually contradictory states. Hence the mind imagines many cows. But creating, sustaining, and dissolving are not contradictory — they happen at different times.",
+          "ta_description": "கொம்பற்றது, ஒரு கொம்புடையது, இரண்டு கொம்புடையது — இவை ஒன்றுக்கொன்று முரண்படும் நிலைகள். அதனால் பல மாடுகள் கற்பனை செய்யப்படுகின்றன. ஆனால் படைப்பு, பாதுகாப்பு, லயம் ஆகியவை முரண்பாடுகள் அல்ல — அவை வெவ்வேறு காலங்களில் நடைபெறும் செயல்கள்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Application to Brahmam",
+            "ta": "பிரம்மத்தில் பயன்பாடு"
+          },
+          "description": "One Brahmam can create, sustain, and dissolve the universe at different times. Therefore, these three functions do not divide Brahmam, but together identify one single Brahmam.",
+          "en_description": "One Brahmam can create, sustain, and dissolve the universe at different times. Therefore, these three functions do not divide Brahmam, but together identify one single Brahmam.",
+          "ta_description": "ஒரே பிரம்மமே வெவ்வேறு காலங்களில் படைப்பு, பாதுகாப்பு, லயம் ஆகிய மூன்றையும் செய்ய முடியும். ஆகவே இந்த மூன்று செயல்களும் பிரம்மத்தைப் பிரிப்பதில்லை; அவை ஒரே பிரம்மத்தைச் சுட்டுகின்றன.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_08_04",
+      "type": "default",
+      "title": {
+        "en": "Can Brahmam Be Uniquely Identified?",
+        "ta": "பிரம்மம் தனித்துவமாக அடையாளம் காணப்பட முடியுமா?"
+      },
+      "description": "If Brahman is identified as “the creator of the world”, then during Pralaya (cosmic dissolution) — when creation is not happening — does Brahman still exist?If creation is the identifying mark, then without creation, how can Brahman be known?",
+      "en_description": "If Brahman is identified as “the creator of the world”, then during Pralaya (cosmic dissolution) — when creation is not happening — does Brahman still exist?If creation is the identifying mark, then without creation, how can Brahman be known?",
+      "ta_description": "பிரம்மன் உலகத்தை உருவாக்குபவன்” என்று அடையாளப்படுத்தப்படுகிறான் என்றால், ப்ரளயம் (பிரபஞ்ச லய நிலை) காலத்தில் — படைப்பு நடைபெறாத நேரத்தில் — பிரம்மன் அப்போதும் இருக்கிறானா? படைப்பே பிரம்மனின் அடையாளம் என்றால், படைப்பு இல்லாத நிலையில், பிரம்மனை எப்படித் தெரிந்து கொள்ள முடியும்?",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_08_05",
+      "type": "default",
+      "title": {
+        "en": "Answering the doubt - Upalakṣaṇam — Indirect Indication",
+        "ta": "சந்தேகத்திற்கான விடை - உபலட்சணம் — மறைமுக சுட்டிக்காட்டல்"
+      },
+      "description": "When we say that Brahmam is the creator of this universe, the deeper meaning (Upalakṣaṇam — the pointer or the indicator) is not just the act of creation itself. The real message is this: a supreme reality that can create such a vast, complex, and perfectly ordered universe must be having Sarvajñatvam (omniscience) and Sarvaśaktitvam (omnipotence).",
+      "en_description": "When we say that Brahmam is the creator of this universe, the deeper meaning (Upalakṣaṇam — the pointer or the indicator) is not just the act of creation itself. The real message is this: a supreme reality that can create such a vast, complex, and perfectly ordered universe must be having Sarvajñatvam (omniscience) and Sarvaśaktitvam (omnipotence).",
+      "ta_description": "பிரம்மம் இந்த பிரபஞ்சத்தின் படைப்பாளர் என்று கூறப்படும் போது, அதன் ஆழ்ந்த பொருள் (உபலட்சணம் — சுட்டிக்காட்டல்) வெறும் படைப்புச் செயல் மட்டும் அல்ல. இவ்வளவு பெரிய, சிக்கலான, ஒழுங்கமைந்த பிரபஞ்சத்தை உருவாக்கும் சக்தி உள்ளவரானால், அவர் சர்வஜ்ஞத்துவம் (எல்லாம் அறிதல்) மற்றும் சர்வசக்தித்துவம் (எல்லாம் வல்லமை) கொண்டவராக இருக்க வேண்டும் என்பதே உண்மையான கருத்தாகும்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Sarvajñatva — Omniscience",
+            "ta": "சர்வஜ்ஞத்துவம் — எல்லாம் அறிதல்"
+          },
+          "description": "Sarvajñatvam (omniscience) means that Brahmam knows everything. Such complete knowledge is necessary to design and sustain a universe of this scale and order.",
+          "en_description": "Sarvajñatvam (omniscience) means that Brahmam knows everything. Such complete knowledge is necessary to design and sustain a universe of this scale and order.",
+          "ta_description": "சர்வஜ்ஞத்துவம் (எல்லாம் அறிதல்) என்பதன் பொருள், பிரம்மம் அனைத்தையும் அறிவான். இத்தகைய முழுமையான அறிவே இவ்வளவு பெரிய பிரபஞ்சத்தை உருவாக்கவும் பாதுகாக்கவும் தேவையான அடிப்படை ஆகும்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Sarvaśaktitva — Omnipotence",
+            "ta": "சர்வசக்தித்துவம் — எல்லாம் வல்லமை"
+          },
+          "description": "Sarvaśaktitva (omnipotence) means that Brahmam has unlimited power. He has the ability to bring the universe into existence, to sustain it, and to dissolve it — without depending on anything else.",
+          "en_description": "Sarvaśaktitva (omnipotence) means that Brahmam has unlimited power. He has the ability to bring the universe into existence, to sustain it, and to dissolve it — without depending on anything else.",
+          "ta_description": "சர்வசக்தித்துவம் (எல்லாம் வல்லமை) என்பதன் பொருள், பிரம்மத்திற்கு எல்லையற்ற சக்தி உள்ளது. அவர் எந்த ஆதாரத்தையும் சாராமல் பிரபஞ்சத்தை உருவாக்கவும், காக்கவும், லயப்படுத்தவும் வல்லவர்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "True Meaning of “Creator of the Universe”",
+            "ta": "‘பிரபஞ்சத்தின் படைப்பாளர்’ என்ற சொல்லின் உண்மை பொருள்"
+          },
+          "description": "Here, scripture is not using creation as a permanent defining quality of Brahmam.\tIt is not treating creation as Brahmam’s essential identity.\tInstead, creation is used only as an indicator that points to deeper and eternal attributes.\nThere are two kinds of descriptive terms:\tViśeṣaṇa — a defining quality that is permanently present in the entity being defined, and is one of the main identifying qualities.\tUpalakṣaṇa — an indirect indicator that helps recognition, but is not retained in the final understanding.\nIn this teaching, creation is an Upalakṣaṇa, not a Viśeṣaṇa.",
+          "en_description": "Here, scripture is not using creation as a permanent defining quality of Brahmam.\tIt is not treating creation as Brahmam’s essential identity.\tInstead, creation is used only as an indicator that points to deeper and eternal attributes.\nThere are two kinds of descriptive terms:\tViśeṣaṇa — a defining quality that is permanently present in the entity being defined, and is one of the main identifying qualities.\tUpalakṣaṇa — an indirect indicator that helps recognition, but is not retained in the final understanding.\nIn this teaching, creation is an Upalakṣaṇa, not a Viśeṣaṇa.",
+          "ta_description": "இங்கே, வேதசாஸ்திரம் படைப்பை பிரம்மத்தின் நிலையான அடையாளமாக பயன்படுத்தவில்லை.\tஅது ஆழ்ந்த மற்றும் நித்தியமான தெய்வீக பண்புகளைச் சுட்டிக்காட்டும் ஒரு குறியீடாக மட்டுமே பயன்படுத்தப்படுகிறது.\nவிளக்கச் சொற்கள் இரண்டு வகை:\t**விசேஷணம் (Viśeṣaṇa)** — ஒரு பொருளின் உண்மை இயல்பை நிரந்தரமாக வரையறுக்கும் சொல்.\t**உபலக்ஷணம் (Upalakṣaṇa)** — அடையாளம் காண உதவும் சுட்டிக்காட்டல்; ஆனால் இறுதி உணர்வில் நிலைத்திருக்காத குறியீடு.\nஇந்த தத்துவத்தில், படைப்பு என்பது **உபலக்ஷணம்** தான் — **விசேஷணம் அல்ல**.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_08_06",
+      "type": "default",
+      "title": {
+        "en": "Upalakṣaṇa and Viśeṣaṇa — Indicator vs True Qualifier",
+        "ta": "உபலட்சணம் மற்றும் விசேஷணம் — சுட்டிக்காட்டல் மற்றும் உண்மை வரையறை"
+      },
+      "description": "Scripture and logic distinguish between two kinds of descriptive terms. Some words are used only to help recognition and are later discarded. Others are real defining qualities that remain part of meaning. These are known as Upalakṣaṇam (indicator) and Viśeṣaṇam (true qualifier).",
+      "en_description": "Scripture and logic distinguish between two kinds of descriptive terms. Some words are used only to help recognition and are later discarded. Others are real defining qualities that remain part of meaning. These are known as Upalakṣaṇam (indicator) and Viśeṣaṇam (true qualifier).",
+      "ta_description": "வேதமும் தர்க்கமும் இரண்டு வகையான விளக்கச் சொற்களை வேறுபடுத்துகின்றன. சில சொற்கள் அடையாளம் காண உதவுவதற்காக மட்டும் பயன்படுகின்றன; பின்னர் அவை நீக்கப்படுகின்றன. சில சொற்கள் உண்மையான வரையறைப் பண்புகளாக இருந்து அர்த்தத்தில் நிலைத்திருக்கின்றன. இவை முறையே உபலட்சணம் (சுட்டிக்காட்டல்) மற்றும் விசேஷணம் (உண்மை வரையறை) எனப்படுகின்றன.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Devadatta’s House — Upalakṣaṇam (Indicator)",
+            "ta": "தேவதத்தனின் வீடு — உபலட்சணம் (சுட்டிக்காட்டல்)"
+          },
+          "description": "“Devadatta’s house is the one where the crow is sitting.” Here, the crow is not the real identity of the house. It is only a temporary sign to help us locate it. The crow may fly away, another bird may come, and it does not belong to the house itself. Once the house is found, we remember it as “the green, two-storey house” or “Devadatta’s house near the temple,” not as “the crow’s house.” Thus, the crow is only a pointer for recognition, not a defining feature. This is Upalakṣaṇam.",
+          "en_description": "“Devadatta’s house is the one where the crow is sitting.” Here, the crow is not the real identity of the house. It is only a temporary sign to help us locate it. The crow may fly away, another bird may come, and it does not belong to the house itself. Once the house is found, we remember it as “the green, two-storey house” or “Devadatta’s house near the temple,” not as “the crow’s house.” Thus, the crow is only a pointer for recognition, not a defining feature. This is Upalakṣaṇam.",
+          "ta_description": "“காகம் உட்கார்ந்திருக்கிற  வீடே தேவதத்தனின் வீடு” என்றால், அந்த காகம் வீட்டு உண்மை அடையாளம் அல்ல. அது வீட்டை கண்டுபிடிக்க உதவும் ஒரு தற்காலிக சுட்டிக்காட்டல் மட்டும். காகம் பறந்து போகலாம், வேறு பறவை வந்து உட்காரலாம்; அது வீட்டுக்குச் சொந்தமானதும் அல்ல. வீட்டைக் கண்ட பிறகு நாம் அதை “காகத்தின் வீடு” என்று நினைவில் வைத்துக் கொள்ளவில்லை. மாறாக, “பச்சை நிறம் கொண்ட இரு மாடி வீடு” அல்லது “கோயிலருகே உள்ள தேவதத்தனின் வீடு” என்று தான் நினைவில் வைத்துக் கொள்கிறோம். ஆகவே காகம் என்பது அடையாளத்திற்கான சுட்டிக்காட்டல் மட்டுமே; உண்மை வரையறை அல்ல. இதுவே உபலட்சணம்.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/upalakshanam.png",
+            "caption": "Upalakshanam"
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Angry Person — Viśeṣaṇam (True Qualifier)",
+            "ta": "கோபமான மனிதன் — விசேஷணம் (உண்மை வரையறை)"
+          },
+          "description": "“Do not seek help from a person who is prone to  anger.” Here, anger is not a temporary sign used only to identify someone. It is a real quality of the person. Even after identification, the meaning remains: he is an angry person. The word “angry” is not removed from understanding. The sentence would lose its meaning if it were removed. This is Viśeṣaṇam — a real defining quality that remains part of the meaning.",
+          "en_description": "“Do not seek help from a person who is prone to  anger.” Here, anger is not a temporary sign used only to identify someone. It is a real quality of the person. Even after identification, the meaning remains: he is an angry person. The word “angry” is not removed from understanding. The sentence would lose its meaning if it were removed. This is Viśeṣaṇam — a real defining quality that remains part of the meaning.",
+          "ta_description": "“கோபக்கார மனிதனிடம் உதவி நாடாதே” என்றால், இங்கே கோபம் என்பது ஒருவரை அடையாளம் காணும் தற்காலிக சுட்டிக்காட்டல் அல்ல. அது அந்த மனிதனின் உண்மை பண்பு. ஒருவரை அடையாளம் கண்ட பிறகும் அர்த்தம் இப்படியே இருக்கும் — அவர் கோபமான மனிதன். “கோபமான” என்ற சொல் அர்த்தத்திலிருந்து நீக்கப்படுவதில்லை. அதை நீக்கினால் வாக்கியமே அர்த்தம் இழக்கும். இதுவே விசேஷணம் — உண்மை வரையறைப் பண்பு.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/visesanam.png",
+            "caption": "Viseshanam"
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Philosophical Application to Brahmam",
+            "ta": "பிரம்மத்திற்கான தத்துவப் பயன்பாடு"
+          },
+          "description": "Just as the crow is not the real identity of the house, creation is not the real identity of Brahmam. Creation is only a pointer (Upalakṣaṇam) used to help the mind recognize Brahmam’s deeper nature — infinite knowledge (Sarvajñatvam) and infinite power (Sarvaśaktitvam). Creation is not Brahmam’s defining essence; it is only an indicating sign.",
+          "en_description": "Just as the crow is not the real identity of the house, creation is not the real identity of Brahmam. Creation is only a pointer (Upalakṣaṇam) used to help the mind recognize Brahmam’s deeper nature — infinite knowledge (Sarvajñatvam) and infinite power (Sarvaśaktitvam). Creation is not Brahmam’s defining essence; it is only an indicating sign.",
+          "ta_description": "காகம் வீட்டின் உண்மை அடையாளம் அல்லாதது போலவே, படைப்பு பிரம்மத்தின் எப்போதும் உள்ள அடையாளம் அல்ல (படைக்காத காலத்தில் இந்த அடையாளம் இருககாது). படைப்பு என்பது உபலட்சணம் — மனத்திற்கு பிரம்மத்தின் ஆழ்ந்த இயல்புகளை உணர்த்தும் சுட்டிக்காட்டல் மட்டும். அதாவது சர்வஜ்ஞத்துவம் (எல்லாவற்றையும் அறியும் அறிவு) மற்றும் சர்வசக்தித்துவம் (எல்லையற்ற சக்தி). படைப்பு என்பது பிரம்மத்தின் வரையறை சாரம் அல்ல; அது சுட்டிக்காட்டும் அடையாளம் மட்டுமே.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/upalakshnam_brahmam.png",
+            "caption": "Upalakshanam in Brahmam"
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_08_07",
+      "type": "default",
+      "title": {
+        "en": "True Nature of Brahmam",
+        "ta": "பிரம்மத்தின் உண்மை இயல்பு"
+      },
+      "description": "Creation only points to Brahmam’s eternal qualities: omniscience (Sarvajñatva) and omnipotence (Sarvaśaktitva). Even during Pralayam, Brahmam remains all-knowing and all-powerful, and thus always exists and is always knowable.",
+      "en_description": "Creation only points to Brahmam’s eternal qualities: omniscience (Sarvajñatva) and omnipotence (Sarvaśaktitva). Even during Pralayam, Brahmam remains all-knowing and all-powerful, and thus always exists and is always knowable.",
+      "ta_description": "படைப்பு என்பது சுட்டிக்காட்டல் மட்டுமே. அது பிரம்மத்தின் நிலையான பண்புகளைச் சுட்டுகிறது — சர்வஜ்ஞத்துவம் (எல்லாம் அறிதல்) மற்றும் சர்வசக்தித்துவம் (எல்லாம் வல்லமை). பிரளயத்தின்போதும் பிரம்மம் அனைத்தையும் அறிந்ததும், அனைத்தும் வல்லதுமாகவே உள்ளது. ஆகவே அது எப்போதும் உள்ளது, எப்போதும் அறியத்தக்கது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    },
+    {
+      "id": "sb_saaram_08_08",
+      "type": "default",
+      "title": {
+        "en": "Conclusion",
+        "ta": "முடிவு"
+      },
+      "description": "The Upaniṣadic definition identifies Brahmam not through contradictory attributes, but through Upalakṣaṇam. Creation, sustenance, and dissolution point to one eternal, all-knowing, all-powerful reality. Thus, Brahmam is one, indivisible, and uniquely identifiable.",
+      "en_description": "The Upaniṣadic definition identifies Brahmam not through contradictory attributes, but through Upalakṣaṇam. Creation, sustenance, and dissolution point to one eternal, all-knowing, all-powerful reality. Thus, Brahmam is one, indivisible, and uniquely identifiable.",
+      "ta_description": "பகவானைப் பற்றி உபநிஷத் வரையறை முரண்படும் பண்புகளால் அல்ல, உபலட்சணத்தின் மூலம் பிரம்மத்தை அடையாளம் காண்கிறது. படைப்பு, பாதுகாப்பு, லயம் — இவை அனைத்தும் ஒரே நித்தியமான, சர்வஜ்ஞமான, சர்வசக்தியான உண்மையைச் சுட்டுகின்றன. ஆகவே பிரம்மம் ஒன்று, பகுக்க முடியாதது, தனித்துவமாக அடையாளம் காணத்தக்கது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    }
+  ]
+}

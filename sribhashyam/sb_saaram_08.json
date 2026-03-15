@@ -1,0 +1,184 @@
+{
+  "topicId": "sb_saaram_07",
+  "topicTitle": "Janmādyadhikaraṇam —  Siddhāntam",
+  "cards": [
+    {
+      "id": "sb_saaram_07_01",
+      "type": "default",
+      "title": {
+        "en": "Janmādyadhikaraṇam — Pūrvapakṣam and Siddhāntam",
+        "ta": "ஜன்மாத்யாதிகரணம் — பூர்வபக்ஷமும் சித்தாந்தமும்"
+      },
+      "description": "The Janmādyadhikaraṇam inquires the nature of Brahmam whether Brahmam can be distinctly and uniquely identified. The Upaniṣads declare:“That from which this universe is born, by which it is sustained, and into which it dissolves — that is Brahmam.”This passage is proposed as a lakṣaṇa-vākya, a defining statement intended to distinguish Brahmam from all other entities.",
+      "en_description": "The Janmādyadhikaraṇam inquires the nature of Brahmam whether Brahmam can be distinctly and uniquely identified. The Upaniṣads declare:“That from which this universe is born, by which it is sustained, and into which it dissolves — that is Brahmam.”This passage is proposed as a lakṣaṇa-vākya, a defining statement intended to distinguish Brahmam from all other entities.",
+      "ta_description": "ஜன்மாத்யாதிகரணம், பிரம்மம் தனித்துவமாகவும் தெளிவாகவும் அடையாளம் காணப்பட முடியுமா என்பதையே விசாரிக்கிறது. உபநிஷத்துகள் அறிவிக்கின்றன: “எதிலிருந்து இந்தப் பிரபஞ்சம் தோன்றுகிறதோ, எதனால் இது நிலைபெறுகிறதோ, எதிலே இது லயமடைகிறதோ — இதுவே பிரம்மம்.” இந்த வாசகம், பிரம்மத்தை மற்ற அனைத்திலிருந்தும் வேறுபடுத்திக் காட்டும் லக்ஷண-வாக்கியமாக (வரையறை வாக்கியம்) முன்வைக்கப்படுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": "WxJ-dUdCGfQ"
+      }
+    },
+    {
+      "id": "sb_saaram_07_02",
+      "type": "default",
+      "title": {
+        "en": "Pūrvapakṣam — The Objection",
+        "ta": "பூர்வபக்ஷம் — எதிர்வாதம்"
+      },
+      "description": "The Pūrvapakṣhi argues that this definition does not establish one single Brahmam, because it uses three different descriptions — creation, sustenance, and dissolution. An adjective (viśeṣaṇa) is meant to distinguish one thing from another. Therefore, when multiple adjectives are used, it naturally suggests that multiple different entities are being described, not one single reality.",
+      "en_description": "The Pūrvapakṣhi argues that this definition does not establish one single Brahmam, because it uses three different descriptions — creation, sustenance, and dissolution. An adjective (viśeṣaṇa) is meant to distinguish one thing from another. Therefore, when multiple adjectives are used, it naturally suggests that multiple different entities are being described, not one single reality.",
+      "ta_description": "பூர்வபக்ஷி வாதிடுவது என்னவெனில், இந்த வரையறை ஒரே ஒரு பிரம்மத்தை நிறுவுவதில்லை; ஏனெனில் இதில் மூன்று வேறுபட்ட குறிப்புகள் உள்ளன — படைப்பு, பாதுகாப்பு, லயம். விசேஷணம் (viśeṣaṇa) என்பதே இயல்பாகவே ஒன்றை மற்றொன்றிலிருந்து வேறுபடுத்துவதற்காக உள்ளது. ஆகவே பல விசேஷணங்கள் பயன்படுத்தப்படும்போது, அது ஒரே பொருளை அல்ல, பல தனித்தனி பொருள்களைச் சுட்டுகிறது என்றே இயல்பாகப் புரிந்துகொள்ளப்படுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "example",
+          "title": {
+            "en": "The Cow Analogy",
+            "ta": "மாடு உதாரணம்"
+          },
+          "description": "An analogy is given: If someone says, “A cow that is hornless, half-horned, and fully horned stands in the shed,” no one can understand this as referring to one cow. It must be understood as three different cows, because these descriptions cannot apply to one single animal.\nIn the same way, since Brahmam is described through three separate functions — creation, sustenance, and dissolution — the Pūrvapakṣhi argues that these must point to three separate Brahmams. Therefore, this definition cannot serve as a unique identifier of a single Brahmam. This is the Pūrvapakṣam.",
+          "en_description": "An analogy is given: If someone says, “A cow that is hornless, half-horned, and fully horned stands in the shed,” no one can understand this as referring to one cow. It must be understood as three different cows, because these descriptions cannot apply to one single animal.\nIn the same way, since Brahmam is described through three separate functions — creation, sustenance, and dissolution — the Pūrvapakṣhi argues that these must point to three separate Brahmams. Therefore, this definition cannot serve as a unique identifier of a single Brahmam. This is the Pūrvapakṣam.",
+          "ta_description": "ஒரு உதாரணம் வழங்கப்படுகிறது: “கொம்பற்ற மாடு, அரைகொம்புடைய மாடு, முழுக் கொம்புடைய மாடு தொழுவத்தில் உள்ளது” என்று கூறினால், இதை ஒரே மாடு என்று யாராலும் புரிந்துகொள்ள முடியாது. இயல்பாகவே இது மூன்று மாடுகள் என்று தான் புரிந்துகொள்ளப்படும்; ஏனெனில் இந்த மூன்று குறிப்புகளும் ஒரே மாட்டிற்கு பொருந்த முடியாது.\nஅதேபோல், பிரம்மம் குறித்து மூன்று செயல்கள் — படைப்பு, பாதுகாப்பு, லயம் — கூறப்படுவதால், இவை மூன்று தனித்தனி பிரம்மங்களைச் சுட்டுவதாகவே புரிந்துகொள்ள வேண்டும் என்று பூர்வபக்ஷி வாதிடுகிறார். ஆகவே, இந்த வரையறை ஒரே பிரம்மத்தைத் தனித்துவமாக அடையாளம் காண உதவாது. இதுவே பூர்வபக்ஷம் ஆகும்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_07_03",
+      "type": "default",
+      "title": {
+        "en": "Rāmānuja’s Response — Unity through Compatible Descriptions",
+        "ta": "ராமானுஜரின் பதில் — ஒத்த பண்புகளின் ஒருமை"
+      },
+      "description": "Śrī Rāmānuja agrees with one basic point: a defining description does remove things that do not fit. This is true and accepted by everyone. But this removal does not divide one object into many objects. It only removes incompatible qualities from that one object.",
+      "en_description": "Śrī Rāmānuja agrees with one basic point: a defining description does remove things that do not fit. This is true and accepted by everyone. But this removal does not divide one object into many objects. It only removes incompatible qualities from that one object.",
+      "ta_description": "ஸ்ரீ ராமானுஜர் ஒரு அடிப்படை உண்மையை ஏற்றுக்கொள்கிறார்: ஒரு வரையறை அல்லது விவரிப்பு பொருந்தாதவற்றை நீக்குகிறது. இது அனைவராலும் ஏற்றுக்கொள்ளப்பட்ட உண்மை. ஆனால் அந்த நீக்கம் ஒரே பொருளை பல பொருள்களாகப் பிரிப்பதில்லை. அது அந்த ஒரே பொருளிலிருந்து பொருந்தாத பண்புகளை மட்டுமே அகற்றுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "How the Mind Understands Descriptions/Adjectives",
+            "ta": "மனம் விவரிப்புகளை எவ்வாறு புரிந்துகொள்கிறது"
+          },
+          "description": "For example, if someone asks for white flowers, all non-white flowers are excluded. But this does not mean the mind imagines many different flowers. The mind understands one flower, simply without other colors. This shows that an adjective does not split objects — it removes incompatible qualities.",
+          "en_description": "For example, if someone asks for white flowers, all non-white flowers are excluded. But this does not mean the mind imagines many different flowers. The mind understands one flower, simply without other colors. This shows that an adjective does not split objects — it removes incompatible qualities.",
+          "ta_description": "உதாரணமாக, ஒருவர் வெள்ளை மலர்களைக் கேட்கிறார் என்றால், வெள்ளை அல்லாத மலர்கள் தானாகவே நீக்கப்படுகின்றன. ஆனால் அதனால் மனம் பல மலர்களை கற்பனை செய்யாது. மனம் ஒரே மலரையே புரிந்துகொள்கிறது — மற்ற நிறங்கள் இல்லாத மலராக. இதனால் ஒரு விவரிப்பு பொருள்களைப் பிரிப்பதில்லை; பொருந்தாத பண்புகளை மட்டுமே நீக்குகிறது என்பது தெளிவாகிறது.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/whiteflower.png",
+            "caption": "Adjective does not split objects — it removes incompatible qualities"
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Compatible adjectives unite",
+            "ta": "பொருந்தும் விவரிப்புகள் ஒன்றாக இணைகின்றன"
+          },
+          "description": "When adjectives are compatible, they naturally come together as one single object. For example, “white flower” removes non-white colors, and “bloomed flower” removes unbloomed or withered states — but both adjectives can belong to the same one flower. The mind understands one object, not many. This shows that compatible adjectives merge into a single identity, rather than creating multiple objects.",
+          "en_description": "When adjectives are compatible, they naturally come together as one single object. For example, “white flower” removes non-white colors, and “bloomed flower” removes unbloomed or withered states — but both adjectives can belong to the same one flower. The mind understands one object, not many. This shows that compatible adjectives merge into a single identity, rather than creating multiple objects.",
+          "ta_description": "விவரிப்புகள் ஒன்றுக்கொன்று பொருந்தினால், அவை இயல்பாகவே ஒரே பொருளாக ஒன்றிணைகின்றன. உதாரணமாக, “வெள்ளை மலர்” என்பது வெள்ளை அல்லாத நிறங்களை நீக்குகிறது; “மலர்ந்த மலர்” என்பது மலராத அல்லது வாடிய நிலைகளை நீக்குகிறது — ஆனால் இந்த இரு விவரிப்புகளும் ஒரே மலருக்கே பொருந்தக்கூடியவை. மனம் பல பொருள்களை அல்ல, ஒரே பொருளையே புரிந்துகொள்கிறது. இதனால் பொருந்தும் விவரிப்புகள் பல பொருள்களை உருவாக்காது; ஒரே அடையாளத்தில் ஒன்றிணைகின்றன என்பது தெளிவாகிறது.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/bloomedflower.png",
+            "caption": "Compatible adjectives Unite"
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Contradictory adjectives create many objects",
+            "ta": "முரண்படும் விவரிப்புகள் பல பொருள்களை உருவாக்குகின்றன"
+          },
+          "description": "Only when adjectives contradict each other does the mind think of different objects. “White flower” clearly refers to one flower. But “white red flower” is contradictory, because white and red cannot exist together in the same place at the same time. Because of this contradiction, the mind cannot unite them as one object and naturally imagines two different flowers.",
+          "en_description": "Only when adjectives contradict each other does the mind think of different objects. “White flower” clearly refers to one flower. But “white red flower” is contradictory, because white and red cannot exist together in the same place at the same time. Because of this contradiction, the mind cannot unite them as one object and naturally imagines two different flowers.",
+          "ta_description": "விவரிப்புகள் ஒன்றுக்கொன்று முரண்பட்டால் மட்டுமே, மனம் அவற்றை வெவ்வேறு பொருள்களாகப் புரிந்துகொள்கிறது. “வெள்ளை மலர்” என்பது தெளிவாக ஒரே மலரை குறிக்கிறது. ஆனால் “வெள்ளை சிவப்பு மலர்” என்பது முரண்பாடு; ஏனெனில் ஒரே இடத்தில் ஒரே நேரத்தில் வெள்ளையும் சிவப்பும் ஒன்றாக இருக்க முடியாது. இந்த முரண்பாட்டினால், மனம் அவற்றை ஒரே பொருளாக இணைக்க முடியாமல், இரண்டு தனித்தனி மலர்களாக கற்பனை செய்கிறது.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/redAndWhiteflower.png",
+            "caption": "Red white flower - Contradictory adjectives create many objects"
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "The Cow Example: Clear Mental विभाजन",
+            "ta": "மாடு உதாரணம்: தெளிவான மனப் பிரிவு"
+          },
+          "description": "The same rule applies in the cow example. “Hornless cow,” “half-horned cow,” and “fully horned cow” cannot exist in one cow at the same time, because these are mutually contradictory states. Therefore, the mind cannot unite them into one animal and naturally understands them as different cows. This clearly shows the principle: compatible descriptions create one object, while contradictory descriptions create many objects.",
+          "en_description": "The same rule applies in the cow example. “Hornless cow,” “half-horned cow,” and “fully horned cow” cannot exist in one cow at the same time, because these are mutually contradictory states. Therefore, the mind cannot unite them into one animal and naturally understands them as different cows. This clearly shows the principle: compatible descriptions create one object, while contradictory descriptions create many objects.",
+          "ta_description": "இதே விதி மாடு உதாரணத்திலும் பொருந்துகிறது. “கொம்பற்ற மாடு,” “அரை கொம்புடைய மாடு,” “முழு கொம்புடைய மாடு” — இவை ஒரே மாட்டில் ஒரே நேரத்தில் இருக்க முடியாது; ஏனெனில் இவை அனைத்தும் ஒன்றுக்கொன்று முரண்படும் நிலைகள். ஆகவே மனம் அவற்றை ஒரே மிருகமாக இணைக்க முடியாமல், தனித்தனி மாடுகளாகவே புரிந்துகொள்கிறது. இதனால் விதி தெளிவாகிறது: \n\t→பொருந்தும் விவரிப்புகள் \t→ ஒரே பொருள், முரண்படும் விவரிப்புகள் \t→ பல பொருள்கள்.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/purvapaksham_1.1.2_01.png",
+            "caption": "The cow example"
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Application to Brahmam",
+            "ta": "பிரம்மத்தில் பயன்பாடு"
+          },
+          "description": "Brahmam is described as the one who creates, sustains, and dissolves the universe. These actions are not contradictory because they happen at different times. Just as one potter can make a pot, use it, and later break it — all belonging to one person — one single Brahmam can perform all three cosmic functions. Therefore, these descriptions do not divide Brahmam. They unite to point to one entity — one Brahmam, not many.",
+          "en_description": "Brahmam is described as the one who creates, sustains, and dissolves the universe. These actions are not contradictory because they happen at different times. Just as one potter can make a pot, use it, and later break it — all belonging to one person — one single Brahmam can perform all three cosmic functions. Therefore, these descriptions do not divide Brahmam. They unite to point to one entity — one Brahmam, not many.",
+          "ta_description": "பிரம்மம் படைப்பவன், பாதுகாப்பவன், லயிப்பவன் என்று வரையறுக்கப்படுகிறது. இந்த செயல்கள் ஒன்றுக்கொன்று முரண்பட்டவை அல்ல; ஏனெனில் அவை வெவ்வேறு காலங்களில் நடைபெறுகின்றன. ஒரே குயவன் ஒரு பானையை உருவாக்கி, பயன்படுத்தி, பின்னர் உடைப்பது போல — இந்த செயல்கள் அனைத்தும் ஒரே மனிதனுக்கே உரியது. அதுபோல், ஒரே பிரம்மமே இந்த மூன்று பிரபஞ்சச் செயல்களையும் செய்யக்கூடியது. ஆகவே, இந்த விவரிப்புகள் பிரம்மத்தைப் பிரிப்பதில்லை; அவை ஒன்றிணைந்து ஒரே உச்ச உண்மையைச் சுட்டுகின்றன — பல பிரம்மங்கள் அல்ல, ஒரே பிரம்மம்.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/02/differentTiming.png",
+            "caption": "Actions happening at different times"
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_07_04",
+      "type": "default",
+      "title": {
+        "en": "Conclusion and Forward Indication",
+        "ta": "முடிவு மற்றும் முன்னோக்கி குறிப்பு"
+      },
+      "description": "The Upaniṣadic statement successfully functions as a lakṣaṇa-vākya. The three divine functions do not contradict one another, and thus jointly establish one non-dual Brahmam.A further refinement remains — the distinction between Viśeṣaṇa (qualifier) and Upalakṣaṇa (indirect indication), which explains how scriptural definitions point to Brahmam beyond literal attributes.",
+      "en_description": "The Upaniṣadic statement successfully functions as a lakṣaṇa-vākya. The three divine functions do not contradict one another, and thus jointly establish one non-dual Brahmam.\nA further refinement remains — the distinction between Viśeṣaṇa (qualifier) and Upalakṣaṇa (indirect indication), which explains how scriptural definitions point to Brahmam beyond literal attributes.",
+      "ta_description": "உபநிஷத் வாக்கியம் ஒரு சரியான இலக்கண வாக்கியமாக செயல்படுகிறது. மூன்று தெய்வீக செயல்களும் முரண்படாதவை என்பதால், அவை ஒரே அத்வைத பிரம்மத்தை நிறுவுகின்றன.\nமேலும், விசேஷணம் மற்றும் உபலட்சணம் ஆகிய இரண்டிற்கிடையேயான வேறுபாடு எதிர்காலத்தில் ஆராயப்படும் — இது வேத வாக்கியங்கள் பிரம்மத்தை எவ்வாறு ஆழமாக சுட்டிக்காட்டுகின்றன என்பதை விளக்கும்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      }
+    }
+  ]
+}
