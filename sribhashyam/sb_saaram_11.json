@@ -1,9 +1,9 @@
 {
-  "topicId": "sb_saaram_10",
+  "topicId": "sb_saaram_11",
   "topicTitle": "Śāstra Yonitva Adhikaraṇam- Nyaya vs Mimamsa",
   "cards": [
     {
-      "id": "sb_saaram_10_01",
+      "id": "sb_saaram_11_01",
       "type": "default",
       "title": {
         "en": "The Naiyāyikan’s statement as Pūrvapakṣam:",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": "sb_saaram_10_02",
+      "id": "sb_saaram_11_02",
       "type": "default",
       "title": {
         "en": "The Mīmāṃsaka’s Objections",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "id": "sb_saaram_10_03",
+      "id": "sb_saaram_11_03",
       "type": "default",
       "title": {
         "en": "Reply by Naiyayikan to Siddha–Sādhana doṣa",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "id": "sb_saaram_10_04",
+      "id": "sb_saaram_11_04",
       "type": "default",
       "title": {
         "en": "Reply to Sōpādhika Dosham",
@@ -129,7 +129,7 @@
       }
     },
     {
-      "id": "sb_saaram_10_05",
+      "id": "sb_saaram_11_05",
       "type": "default",
       "title": {
         "en": "Reply to Viruddha Doṣham",
@@ -147,7 +147,7 @@
       }
     },
     {
-      "id": "sb_saaram_10_06",
+      "id": "sb_saaram_11_06",
       "type": "default",
       "title": {
         "en": "Conclusion of the Naiyāyikan",

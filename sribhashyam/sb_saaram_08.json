@@ -1,9 +1,9 @@
 {
-  "topicId": "sb_saaram_07",
+  "topicId": "sb_saaram_08",
   "topicTitle": "Janmādyadhikaraṇam —  Siddhāntam",
   "cards": [
     {
-      "id": "sb_saaram_07_01",
+      "id": "sb_saaram_08_01",
       "type": "default",
       "title": {
         "en": "Janmādyadhikaraṇam — Pūrvapakṣam and Siddhāntam",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "sb_saaram_07_02",
+      "id": "sb_saaram_08_02",
       "type": "default",
       "title": {
         "en": "Pūrvapakṣam — The Objection",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "id": "sb_saaram_07_03",
+      "id": "sb_saaram_08_03",
       "type": "default",
       "title": {
         "en": "Rāmānuja’s Response — Unity through Compatible Descriptions",
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "id": "sb_saaram_07_04",
+      "id": "sb_saaram_08_04",
       "type": "default",
       "title": {
         "en": "Conclusion and Forward Indication",

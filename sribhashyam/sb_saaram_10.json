@@ -1,9 +1,9 @@
 {
-  "topicId": "sb_saaram_09",
+  "topicId": "sb_saaram_10",
   "topicTitle": "Śāstra Yonitva Adhikaraṇam — Can Brahmam Be Known Through Inference?",
   "cards": [
     {
-      "id": "sb_saaram_09_01",
+      "id": "sb_saaram_10_01",
       "type": "default",
       "title": {
         "en": "Jijñāsā Adhikaraṇam — Pūrvapakṣam Recap",
@@ -21,7 +21,7 @@
       }
     },
 	 {
-      "id": "sb_saaram_09_02",
+      "id": "sb_saaram_10_02",
       "type": "default",
       "title": {
         "en": "Janmādyadhikaraṇam — Identification of Brahmam",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "id": "sb_saaram_09_03",
+      "id": "sb_saaram_10_03",
       "type": "default",
       "title": {
         "en": "Pūrvapakṣam: The Naiyāyikan's Argument for Inference",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "id": "sb_saaram_09_04",
+      "id": "sb_saaram_10_04",
       "type": "default",
       "title": {
         "en": "The Naiyāyikan’s Logical Inference (Anumānam)",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "id": "sb_saaram_09_05",
+      "id": "sb_saaram_10_05",
       "type": "default",
       "title": {
         "en": "The Mīmāṃsaka's Objections",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "id": "sb_saaram_09_06",
+      "id": "sb_saaram_10_06",
       "type": "default",
       "title": {
         "en": "Conclusion of the Pūrvapakṣam",

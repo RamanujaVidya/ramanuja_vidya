@@ -1,9 +1,9 @@
 {
-  "topicId": "sb_saaram_03",
+  "topicId": "sb_saaram_04",
   "topicTitle": "Is All Speech a Command? Jignyasadhikaranam Poorvapaksham",
   "cards": [
     {
-      "id": "sb_saaram_03_01",
+      "id": "sb_saaram_04_01",
       "type": "default",
       "title": {
         "en": "अधिकरणम् (Adhikaranam)",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_02",
+      "id": "sb_saaram_04_02",
       "type": "default",
       "title": {
         "en": "अधिकरणस्य षडङ्गानि (The Six Components of Adhikaranam)",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "id": "sb_saaram_03_03",
+      "id": "sb_saaram_04_03",
       "type": "default",
       "title": {
         "en": "Focus on Pūrvapaksham and Siddhānta",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_04",
+      "id": "sb_saaram_04_04",
       "type": "default",
       "title": {
         "en": "पूर्वपक्षः (Pūrvapakṣa)",
@@ -149,7 +149,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_05",
+      "id": "sb_saaram_04_05",
       "type": "default",
       "title": {
         "en": "What is Purvapaksham and Who is Purva pakshi?",
@@ -167,7 +167,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_06",
+      "id": "sb_saaram_04_06",
       "type": "default",
       "title": {
         "en": "Purvapaksham in Jignyasadhikaranam – Terminology",
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "id": "sb_saaram_03_07",
+      "id": "sb_saaram_04_07",
       "type": "default",
       "title": {
         "en": "Purvapaksham in Jignyasadhikaranam",
@@ -235,7 +235,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_08",
+      "id": "sb_saaram_04_08",
       "type": "default",
       "title": {
         "en": "Illustration – Three-Person Scenario",
@@ -253,7 +253,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_09",
+      "id": "sb_saaram_04_09",
       "type": "default",
       "title": {
         "en": "Substantiating Purvapaksham – The Command by the Elder",
@@ -271,7 +271,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_10",
+      "id": "sb_saaram_04_10",
       "type": "default",
       "title": {
         "en": "Child Observes and Analyzes",
@@ -289,7 +289,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_11",
+      "id": "sb_saaram_04_11",
       "type": "default",
       "title": {
         "en": "Speech Induces Karyata Buddhi",
@@ -307,7 +307,7 @@
       }
     },
 	{
-      "id": "sb_saaram_03_12",
+      "id": "sb_saaram_04_12",
       "type": "default",
       "title": {
         "en": "Child’s Self-Reflection",
@@ -325,7 +325,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_13",
+      "id": "sb_saaram_04_13",
       "type": "default",
       "title": {
         "en": "Purvapaksham Summary",
@@ -343,7 +343,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_14",
+      "id": "sb_saaram_04_14",
       "type": "default",
       "title": {
         "en": "Implication for Vedas and Brahmam",
@@ -361,7 +361,7 @@
       }
     },
     {
-      "id": "sb_saaram_03_15",
+      "id": "sb_saaram_04_15",
       "type": "default",
       "title": {
         "en": "No Need for Brahma Sutram",

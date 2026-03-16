@@ -1,9 +1,9 @@
 {
-  "topicId": "sb_saaram_02",
+  "topicId": "sb_saaram_03",
   "topicTitle": "Śrī Bhāṣyam – Maṅgalācaraṇa and Structure",
   "cards": [
     {
-      "id": "sb_saaram_02_01",
+      "id": "sb_saaram_03_01",
       "type": "default",
       "title": {
         "en": "Maṅgala-kriyā before a Treatise",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "id": "sb_saaram_02_02",
+      "id": "sb_saaram_03_02",
       "type": "default",
       "title": {
         "en": "Purpose of Maṅgalācaraṇa",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "id": "sb_saaram_02_03",
+      "id": "sb_saaram_03_03",
       "type": "default",
       "title": {
         "en": "Viśiṣṭādvaita Reflected in the Maṅgala Ślokam",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "id": "sb_saaram_02_04",
+      "id": "sb_saaram_03_04",
       "type": "default",
       "title": {
         "en": "Structure of Śrī Bhāṣya and Brahma Sūtras",
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "id": "sb_saaram_02_05",
+      "id": "sb_saaram_03_05",
       "type": "default",
       "title": {
         "en": "Viṣaya, Viṣayi, Knowledge, and Attainment",

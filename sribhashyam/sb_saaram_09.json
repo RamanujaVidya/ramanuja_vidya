@@ -1,9 +1,9 @@
 {
-  "topicId": "sb_saaram_08",
+  "topicId": "sb_saaram_09",
   "topicTitle": "Brahma Lakṣaṇam — Upalakṣaṇa and True Identification of Brahmam",
   "cards": [
     {
-      "id": "sb_saaram_08_01",
+      "id": "sb_saaram_09_01",
       "type": "default",
       "title": {
         "en": "Can Brahmam Be Uniquely Identified?",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "sb_saaram_08_02",
+      "id": "sb_saaram_09_02",
       "type": "default",
       "title": {
         "en": "Pūrva Pakṣam — The Objection",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "id": "sb_saaram_08_03",
+      "id": "sb_saaram_09_03",
       "type": "default",
       "title": {
         "en": "Rāmānuja’s Siddhānta — Compatible Attributes",
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "id": "sb_saaram_08_04",
+      "id": "sb_saaram_09_04",
       "type": "default",
       "title": {
         "en": "Can Brahmam Be Uniquely Identified?",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": "sb_saaram_08_05",
+      "id": "sb_saaram_09_05",
       "type": "default",
       "title": {
         "en": "Answering the doubt - Upalakṣaṇam — Indirect Indication",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": "sb_saaram_08_06",
+      "id": "sb_saaram_09_06",
       "type": "default",
       "title": {
         "en": "Upalakṣaṇa and Viśeṣaṇa — Indicator vs True Qualifier",
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "id": "sb_saaram_08_07",
+      "id": "sb_saaram_09_07",
       "type": "default",
       "title": {
         "en": "True Nature of Brahmam",
@@ -290,7 +290,7 @@
       }
     },
     {
-      "id": "sb_saaram_08_08",
+      "id": "sb_saaram_09_08",
       "type": "default",
       "title": {
         "en": "Conclusion",
