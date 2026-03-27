@@ -1,0 +1,180 @@
+{
+  "topicId": "sb_saaram_15",
+  "topicTitle": "Refutation of Advaita in Sri Bhashyam",
+  "cards": [
+    {
+      "id": "sb_saaram_15_01",
+      "type": "default",
+      "title": {
+        "en": "Introduction and Context",
+        "ta": "அறிமுகமும் பின்னணியும்"
+      },
+      "description": "So far, we have studied the first four adhikaraṇams (topics) of the Sri Bhashyamm. This forms the introduction (Upodghātam). We have also briefly reviewed the ideas presented in this introduction. Now, let us very concisely examine how Adi Shankaracharya’s philosophy—Advaita—is refuted in the Sri Bhashyamm.",
+      "en_description": "So far, we have studied the first four adhikaraṇams (topics) of the Sri Bhashyamm. This forms the introduction (Upodghātam). We have also briefly reviewed the ideas presented in this introduction. Now, let us very concisely examine how Adi Shankaracharya’s philosophy—Advaita—is refuted in the Sri Bhashyamm.",
+      "ta_description": "இதுவரை ஸ்ரீபாஷ்யத்தின் முதல் நான்கு அதிகரணங்களைப் பார்த்தோம். இது உபோத்காதம் (முன்னுரை) ஆகும். அந்த முன்னுரையில் கூறப்பட்ட அம்சங்களையும் சுருக்கமாக மீண்டும் பார்த்தோம். இப்போது, ஆதிசங்கராசார்யரின் அத்வைத தத்துவம் ஸ்ரீபாஷ்யத்தில் எவ்வாறு கண்டிக்கப்படுகிறது என்பதை சுருக்கமாகப் பார்ப்போம்.",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "2oKaaMeViyo" }
+    }, 
+    {
+      "id": "sb_saaram_15_02",
+      "type": "default",
+      "title": {
+        "en": "Why Advaita is Critiqued",
+        "ta": "அத்வைதம் ஏன் கண்டிக்கப்படுகிறது"
+      },
+      "description": "It is well known that in the Sri Bhashyam, Ramanuja critiques Shankara’s philosophy. Why is Advaita criticized? Because, as explained by scholars, during that time Advaita was a widely prevalent system. Even today, it is widely followed and often identified with Vedānta. However, though the terminology may appear similar, the meanings differ. Because of these differences in meaning, it became necessary to refute it.",
+      "en_description": "It is well known that in the Sri Bhashyam, Ramanuja critiques Shankara’s philosophy. Why is Advaita criticized? Because, as explained by scholars, during that time Advaita was a widely prevalent system. Even today, it is widely followed and often identified with Vedānta. However, though the terminology may appear similar, the meanings differ. Because of these differences in meaning, it became necessary to refute it.",
+      "ta_description": "ஸ்ரீபாஷ்யத்தில் இராமானுஜர் சங்கரரின் தத்துவத்தை கண்டிக்கிறார் என்பது அறிந்ததே. அத்வைதம் ஏன் கண்டிக்கப்படுகிறது? அந்த காலத்தில் அத்வைதம் மிகவும் பரவலாக இருந்தது. இன்றும் அது வேதாந்தமாகக் கருதப்படுகிறது. ஆனால் சொற்கள் ஒரே மாதிரி இருந்தாலும், அர்த்தங்கள் வேறுபடுகின்றன. இந்த அர்த்த வேறுபாடுகளால் அதனை கண்டிக்க வேண்டிய அவசியம் ஏற்பட்டது.",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "" }
+    },
+    {
+      "id": "sb_saaram_15_03",
+      "type": "default",
+      "title": {
+        "en": "Refutation in Jijñāsā Adhikaraṇa",
+        "ta": "ஜிஜ்ஞாசா அதிகரணத்தில் கண்டனம்"
+      },
+      "description": "In many sūtras, Ramanuja refutes Advaita, and this refutation is especially extensive in the first sūtra of the Jijñāsā Adhikaraṇa.",
+      "en_description": "In many sūtras, Ramanuja refutes Advaita, and this refutation is especially extensive in the first sūtra of the Jijñāsā Adhikaraṇa.",
+      "ta_description": "பல சூத்திரங்களில் இராமானுஜர் அத்வைதத்தை கண்டிக்கிறார். குறிப்பாக ஜிஜ்ஞாசா அதிகரணத்தின் முதல் சூத்திரத்தில் இந்த கண்டனம் விரிவாக உள்ளது.",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "" },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Sequence of Inquiry",
+            "ta": "விசாரணையின் வரிசை"
+          },
+          "description": "In that first sūtra- 'Athato Brahma Jijnasa', we saw that there are three terms: “Brahma-jijñāsā,” meaning inquiry into Brahmam must be undertaken; “atha,” meaning “after”; and this “after” indicates after what? After inquiry into karma. From karma inquiry, one understands that the fruits of karma are limited and impermanent. Since karma yields only perishable results, one develops dispassion. Then the question arises: is there a permanent and great result? This leads to the idea of Brahmam. Thus one proceeds to Brahma-vichāra. This is the sequence: first karma inquiry, then Brahmam inquiry.",
+          "en_description": "In that first sūtra-'Athato Brahma Jijnasa', we saw that there are three terms: “Brahma-jijñāsā,” meaning inquiry into Brahmam must be undertaken; “atha,” meaning “after”; and this “after” indicates after what? After inquiry into karma. From karma inquiry, one understands that the fruits of karma are limited and impermanent. This is the sequence: first karma inquiry, then Brahmam inquiry.",
+          "ta_description": "முதல் சூத்திரத்தில் - 'அதாதோ பிரம்ம ஜிக்ஞாஸா', மூன்று முக்கிய சொற்கள் உள்ளன: “பிரம்ம ஜிஜ்ஞாசா” – பிரம்மத்தை விசாரிக்க வேண்டும்; “அத” – பிறகு; இந்த ‘பிறகு’ என்பது கர்ம விசாரணைக்கு பிறகு என்று பொருள். கர்ம விசாரணையால் அதன் பலன் நிலையற்றது என்று தெரிகிறது. இந்த வரிசை இதுவாகும்: முதலில் கர்ம விசாரணை, அதன் பிறகு பிரம்ம விசாரணை.",
+          "image": { "src": "", "caption": "" },
+          "video": { "videoname": "" }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Ramanuja vs Shankara",
+            "ta": "இராமானுஜர் மற்றும் சங்கரர் வேறுபாடு"
+          },
+          "description": "From Brahma-vichāra, one learns that Bhakti-yoga is the means to attain Bhagavān, and even within Bhakti-yoga, karma has a role. Hence Ramanuja interprets the sūtra as: after karma inquiry comes Brahmam inquiry. Shankara says Brahmam inquiry does not depend on karma and requires four qualifications: discrimination, discipline, dispassion, and desire for liberation.",
+          "en_description": "From Brahma-vichāra, one learns that Bhakti-yoga is the means to attain Bhagavān, and even within Bhakti-yoga, karma has a role. Hence Ramanuja interprets the sūtra as: after karma inquiry comes Brahmam inquiry. Shankara says Brahmam inquiry does not depend on karma and requires four qualifications: discrimination, discipline, dispassion, and desire for liberation.",
+          "ta_description": "பிரம்ம விசாரணையின் மூலம், பக்தி யோகம் தான் பகவானை அடையும் சாதனம் என்று அறியப்படுகிறது; மேலும், பக்தி யோகத்திற்குள்ளும் கர்மத்திற்கு ஒரு பங்கு உள்ளது. ஆகவே, இராமானுஜர் இந்த சூத்திரத்தை, “கர்ம விசாரணைக்கு பிறகு பிரம்ம விசாரணை வருகிறது” என்று விளக்குகிறார்.\nஆனால் சங்கரர், பிரம்ம விசாரணை கர்மத்தை சார்ந்ததல்ல என்று கூறுகிறார்; அதற்குப் பதிலாக நான்கு தகுதிகள் அவசியம் என்று சொல்கிறார்: நித்ய-அநித்ய பொருள் விவேகம் (பிரித்தறிதல்), சாம-தமம் போன்ற ஒழுக்கம் (அடக்கம்), வைராக்யம் (பற்றின்மை), மற்றும் மோக்ஷத்தை அடைய விருப்பம் (முமுக்ஷுத்துவம்).",
+          "image": { "src": "", "caption": "" },
+          "video": { "videoname": "" }
+        },
+		{
+		  "type": "default",
+		  "title": {
+			"en": "Shankara’s View on Eligibility for Brahmam Inquiry",
+			"ta": "பிரம்ம விசாரணைக்கான தகுதி குறித்து சங்கரரின் கருத்து"
+		  },
+		  "description": "Shankara says Brahmam inquiry does not necessarily follow karma inquiry. Some may directly enter Brahmam inquiry without performing karma inquiry. What is required instead are four qualifications:\nDiscrimination between eternal and non-eternal (nitya-anitya vastu viveka)\nPossession of discipline such as control of mind and senses (śama, dama, etc.)\nDispassion towards worldly and heavenly enjoyments (vairāgya)\nDesire for liberation (mumukṣutva)",
+		  "en_description": "Shankara says Brahmam inquiry does not necessarily follow karma inquiry. Some may directly enter Brahmam inquiry without performing karma inquiry. What is required instead are four qualifications:\nDiscrimination between eternal and non-eternal (nitya-anitya vastu viveka)\nPossession of discipline such as control of mind and senses (śama, dama, etc.)\nDispassion towards worldly and heavenly enjoyments (vairāgya)\nDesire for liberation (mumukṣutva)",
+		  "ta_description": "ஆனால் இது சங்கரரின் தர்மத்தில் ஏற்றுக்கொள்ளப்படவில்லை. சங்கரர், பிரம்ம விசாரணை கர்ம விசாரணைக்கு பிறகே வர வேண்டும் என்று அவசியமில்லை என்று கூறுகிறார். சிலர் கர்ம விசாரணை செய்யாமல் நேரடியாகவே பிரம்ம விசாரணைக்குள் செல்லலாம் என்றும் கூறுகிறார். அதற்கு பதிலாக, நான்கு தகுதிகள் அவசியம்:\nநித்ய-அநித்ய பொருள் விவேகம் (நிலையானது மற்றும் நிலையற்றது என்பதைக் பிரித்தறிதல்)\nசமம், தமம் போன்ற மனம் மற்றும் இந்திரிய அடக்கம்\nவைராக்யம் (இஹ மற்றும் பரலோக அனுபவங்களின் மீது பற்றின்மை)\nமுமுக்ஷுத்துவம் (மோக்ஷத்தை அடைய வேண்டும் என்ற ஆவல்)",
+		  "image": {
+			"src": "",
+			"caption": ""
+		  },
+		  "video": {
+			"videoname": "" 
+		  }
+		}
+      ]
+    },
+    {
+      "id": "sb_saaram_15_04",
+      "type": "default",
+      "title": {
+        "en": "Core Ideas of Advaita",
+        "ta": "அத்வைதத்தின் முக்கிய கருத்துகள்"
+      },
+      "description": "According to Shankara, only Brahmam truly exists—there is only one reality. Everything else is false, like mistaking a rope for a snake. The snake is not real, but it appears real and causes fear. Similarly, the world is only an appearance; Brahmam alone is real. Superimposing the world onto Brahmam is called adhyāsa.",
+      "en_description": "According to Shankara, only Brahmam truly exists—there is only one reality. Everything else is false, like mistaking a rope for a snake. The snake is not real, but it appears real and causes fear. Similarly, the world is only an appearance; Brahmam alone is real. Superimposing the world onto Brahmam is called adhyāsa.",
+      "ta_description": "சங்கரரின் கருத்துப்படி, பிரம்மம் மட்டுமே உண்மையாக உள்ளது — ஒரே ஒரு பரமார்த்த சத்தியமே உள்ளது. மற்ற அனைத்தும் பொய்யானவை; கயிற்றை பாம்பாகத் தவறாக எண்ணுவது போல. அந்த பாம்பு உண்மையில் இல்லை; ஆனால் அது உண்மையாகத் தோன்றி பயத்தை உண்டாக்குகிறது. அதைப் போலவே, இந்த உலகம் ஒரு தோற்றம் மட்டுமே; பிரம்மம் மட்டுமே உண்மை. உலகத்தை பிரம்மத்தின் மீது மேலேற்றிப் பார்க்கப்படுவது “அத்யாசம்” என்று அழைக்கப்படுகிறது.",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "" },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Nature of the World",
+            "ta": "உலகத்தின் தன்மை"
+          },
+          "description": "The world is false (appearance). Objects like tables and chairs are not ultimately real.",
+          "en_description": "The world is false (appearance).",
+          "ta_description": "உலகம் மாயையான தோற்றம்; மேஜை, நாற்காலி போன்றவை உண்மையல்ல.",
+          "image": { "src": "", "caption": "" },
+          "video": { "videoname": "" }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Meaning of Mokṣa",
+            "ta": "மோக்ஷத்தின் பொருள்"
+          },
+          "description": "Mokṣa is the disappearance of this false appearance of the world. Just as the snake disappears when one realizes it is a rope, the world disappears when true knowledge arises.",
+          "en_description": "Mokṣa is the disappearance of this false appearance of the world. Just as the snake disappears when one realizes it is a rope, the world disappears when true knowledge arises.",
+          "ta_description": "மோக்ஷம் என்பது இந்த உலகின் மாயையான தோற்றம் நீங்குவதையே குறிக்கிறது. கயிறு என்பதை உணரும்போது பாம்பு தோற்றம் மறையும் போல, உண்மையான அறிவு உதிக்கும் போது உலகத்தின் தோற்றமும் நீங்குகிறது.",
+          "image": { "src": "", "caption": "" },
+          "video": { "videoname": "" }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_15_05",
+      "type": "default",
+      "title": {
+        "en": "Means to Mokṣa in Advaita",
+        "ta": "அத்வைதத்தில் மோக்ஷ சாதனம்"
+      },
+      "description": "Only knowledge (jñāna). Specifically, the knowledge that “Brahmam alone is real; the world is false.” When this knowledge arises, the illusion disappears. In the rope-snake example, no amount of action (karma), like clapping, can remove the snake. Only knowledge—“this is a rope”—removes the illusion. Similarly, karma cannot remove the illusion of the world; only knowledge can.",
+      "en_description": "Only knowledge (jñāna). Specifically, the knowledge that “Brahmam alone is real; the world is false.” When this knowledge arises, the illusion disappears.In the rope-snake example, no amount of action (karma), like clapping, can remove the snake. Only knowledge—“this is a rope”—removes the illusion. Similarly, karma cannot remove the illusion of the world; only knowledge can.",
+      "ta_description": "அறிவே (ஞானம்) மட்டுமே சாதனம். குறிப்பாக, “பிரம்மம் மட்டுமே உண்மை; உலகம் பொய்” என்ற அறிவு. இந்த அறிவு உதிக்கும் போது மாயை நீங்குகிறது.\nகயிறு–பாம்பு உதாரணத்தில், எவ்வளவு செயல்களை (கர்மம்) செய்தாலும் — உதாரணமாக கைத்தட்டினாலும் — அந்த பாம்பு நீங்காது. “இது கயிறு தான்” என்ற அறிவே அந்த மாயையை நீக்குகிறது. அதைப் போலவே, கர்மம் உலக மாயையை நீக்க முடியாது; அறிவே அதை நீக்க முடியும்.",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "" },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Role of Karma",
+            "ta": "கர்மத்தின் பங்கு"
+          },
+          "description": "Shankara argues that karma is not only useless but even विरोध (opposed) to liberation. Why? Because knowledge requires seeing unity (non-duality), whereas karma involves distinctions—this place, that time, this object, that ritual. These distinctions contradict non-dual knowledge. Thus:\n*Mokṣa comes only through knowledge\n*Karma does not help; rather, it obstructs.\nHowever, karma has one limited role—it purifies the mind and creates the desire to know Brahmam (vividiṣā). Once knowledge arises, karma is no longer needed.",
+          "en_description": "Shankara argues that karma is not only useless but even विरोध (opposed) to liberation. Why? Because knowledge requires seeing unity (non-duality), whereas karma involves distinctions—this place, that time, this object, that ritual. These distinctions contradict non-dual knowledge. Thus:\n*Mokṣa comes only through knowledge\n*Karma does not help; rather, it obstructs.\nHowever, karma has one limited role—it purifies the mind and creates the desire to know Brahmam (vividiṣā). Once knowledge arises, karma is no longer needed.",
+          "ta_description": "சங்கரர், கர்மம் பயனற்றது மட்டுமல்ல; அது மோக்ஷத்துக்கு எதிரானது (விரோதம்) என்றும் கூறுகிறார். ஏன்? அறிவு (ஞானம்) ஒன்றே உண்மை (அத்வைதம்) என்பதை காண வேண்டும். ஆனால் கர்மம் “இந்த இடம், அந்த காலம், இந்த பொருள், அந்த யாகம்” போன்ற வேறுபாடுகளை அடிப்படையாகக் கொண்டது. இந்த வேறுபாடுகள், அத்வைத அறிவிற்கு முரணாக உள்ளன.\nஅதனால்:\n*மோக்ஷம் அறிவினாலே மட்டுமே கிடைக்கும்.\n*கர்மம் உதவாது; மாறாக அது தடையாக இருக்கும்.\nஆனால், கர்மத்திற்கு ஒரு வரையறுக்கப்பட்ட பங்கு உள்ளது — அது மனதை சுத்தப்படுத்தி, பிரம்மத்தை அறிய வேண்டும் என்ற ஆசையை (விவிதிஷா) உண்டாக்குகிறது. அறிவு உதித்த பின், கர்மம் தேவையில்லை.",
+          "image": { "src": "", "caption": "" },
+          "video": { "videoname": "" }
+        }
+      ]
+    },
+    {
+      "id": "sb_saaram_15_06",
+      "type": "default",
+      "title": {
+        "en": "Summary of Shankara’s Philosophy",
+        "ta": "சங்கர தத்துவ சுருக்கம்"
+      },
+      "description": "Therefore, in Advaita:\n*Brahmam alone is real.\n*The world is false (an appearance).\n*Mokṣam is removal of illusion Knowledge alone is the means.\n*Karma is only preparatory and later abandoned.\n*Even though the Vedas prescribe karma, Shankara explains that karma is meant only to prepare the seeker, not to directly give liberation.\n*Thus, the summary of Shankara’s philosophy is:\n*Only Brahmam exists (non-dual reality).\n*The world is superimposed illusion.\n*Mokṣam is removal of this illusion through knowledge.\n*Karma does not lead to mokṣa.",
+      "en_description": "Therefore, in Advaita:\n*Brahmam alone is real.\n*The world is false (an appearance).\n*Mokṣam is removal of illusion Knowledge alone is the means.\n*Karma is only preparatory and later abandoned.\n*Even though the Vedas prescribe karma, Shankara explains that karma is meant only to prepare the seeker, not to directly give liberation.\n*Thus, the summary of Shankara’s philosophy is:\n*Only Brahmam exists (non-dual reality).\n*The world is superimposed illusion.\n*Mokṣam is removal of this illusion through knowledge.\n*Karma does not lead to mokṣa.",
+      "ta_description": "ஆகவே, அத்வைதத்தில்:\n*பிரம்மம் மட்டுமே உண்மை.\n*உலகம் பொய் (ஒரு தோற்றம்).\n*மோக்ஷம் என்பது மாயை நீங்குவது.\n*அறிவே ஒரே சாதனம்.\n*கர்மம் முன்னோட்டமாக மட்டுமே உள்ளது.\n* பின்னர் கைவிடப்படுகிறது.\n*வேதங்கள் கர்மத்தை உபதேசித்தாலும், சங்கரர் அது சாதகனைத் தயாரிப்பதற்கே என்று கூறுகிறார்.\n*நேரடியாக மோக்ஷத்தை அளிப்பதற்கல்ல.\nஇதனால், சங்கரரின் தத்துவ சுருக்கம்:\n*பிரம்மம் மட்டுமே உள்ளது (அத்வைத சத்தியம்).\n*உலகம் மேலேற்றப்பட்ட மாயை (அத்யாசம்).\n*மோக்ஷம் என்பது இந்த மாயையை அறிவின் மூலம் நீக்குவது.\n*கர்மம் மோக்ஷத்திற்கு காரணமல்ல",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "" }
+    },
+    {
+      "id": "sb_saaram_15_07",
+      "type": "default",
+      "title": {
+        "en": "Conclusion and Transition",
+        "ta": "முடிவும் அடுத்த கட்டமும்"
+      },
+      "description": "In contrast, Ramanuja establishes a different meaning for the sūtra, asserting the role of karma and Bhakti. How he refutes this Advaita position will be seen in the next discourse.",
+      "en_description": "In contrast, Ramanuja establishes a different meaning for the sūtra, asserting the role of karma and Bhakti. How he refutes this Advaita position will be seen in the next discourse.",
+      "ta_description": "இராமானுஜர் கர்மமும் பக்தியும் முக்கியம் என்று நிறுவுகிறார். இந்த அத்வைத கண்டனம் அடுத்த பகுதியில் விரிவாக வரும்.",
+      "image": { "src": "", "caption": "" },
+      "video": { "videoname": "" }
+    }
+  ]
+}

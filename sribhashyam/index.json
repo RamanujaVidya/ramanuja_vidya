@@ -86,6 +86,12 @@
       "topicId": "sb_saaram_14",
       "title": "14. Summary of First Four Adhikaraṇams",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_14.json"
+    },
+    {
+      "order": 15,
+      "topicId": "sb_saaram_15",
+      "title": "15. Introduction to the Advaita philosophy",
+      "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_15.json"
     }
   ]
 }
