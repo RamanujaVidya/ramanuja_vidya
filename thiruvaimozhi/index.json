@@ -1,12 +1,12 @@
 {
-  "collectionId": "thiruvaimozhi",
+  "collectionId": "Thiruvaimozhi",
   "collectionTitle": "Thiruvaimozhi Sāram",
   "defaultTopic": "tms_saaram_01",
   "topics": [
     {
       "order": 1,
       "topicId": "tms_saaram_01",
-      "title": "1.  Greatness of Thiruvaaimozhi",
+      "title": "1.  Greatness of Thiruvaimozhi",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/thiruvaimozhi/tms_saaram_01.json"
     }
   ]
