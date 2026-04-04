@@ -1,16 +1,16 @@
 {
   "topicId": "tms_saaram_01",
-  "topicTitle": "Thiruvaaimozhi Saaram – Part 1 – Greatness of Thiruvaaimozhi",
+  "topicTitle": "Thiruvaimozhi Saaram – Part 1 – Greatness of Thiruvaimozhi",
   "cards": [
     {
       "id": "tms_saaram_01_01",
       "type": "default",
       "title": {
-        "en": "Thiruvaaimozhi and Sri Bhashyam",
+        "en": "Thiruvaimozhi and Sri Bhashyam",
         "ta": "திருவாய்மொழியும் ஸ்ரீபாஷ்யமும்"
       },
-      "description": "Thiruvaaimozhi itself served as the foundational authority for Swami Ramanuja in establishing the Sri Bhashyam. Wherever inconsistencies appeared in the Brahma Sutras, the Sri Bhashyakara resolved them by harmonizing the sutra statements using Thiruvaaimozhi. This has been established by Swami Azhagiya Manavala Perumal Nayanar in Acharya Hridayam.",
-      "en_description": "Thiruvaaimozhi itself served as the foundational authority for Swami Ramanuja in establishing the Sri Bhashyam. Wherever inconsistencies appeared in the Brahma Sutras, the Sri Bhashyakara resolved them by harmonizing the sutra statements using Thiruvaaimozhi. This has been established by Swami Azhagiya Manavala Perumal Nayanar in Acharya Hridayam.",
+      "description": "Thiruvaimozhi itself served as the foundational authority for Swami Ramanuja in establishing the Sri Bhashyam. Wherever inconsistencies appeared in the Brahma Sutras, the Sri Bhashyakara resolved them by harmonizing the sutra statements using Thiruvaimozhi. This has been established by Swami Azhagiya Manavala Perumal Nayanar in Acharya Hridayam.",
+      "en_description": "Thiruvaimozhi itself served as the foundational authority for Swami Ramanuja in establishing the Sri Bhashyam. Wherever inconsistencies appeared in the Brahma Sutras, the Sri Bhashyakara resolved them by harmonizing the sutra statements using Thiruvaimozhi. This has been established by Swami Azhagiya Manavala Perumal Nayanar in Acharya Hridayam.",
       "ta_description": "ஸ்வாமி எம்பெருமானார் ஸ்ரீபாஷ்யத்தை ஸாதிப்பதற்கு ஆதாரமாக இருந்தது திருவாய்மொழியே. ஸ்ரீபாஷ்யகாரர், ஸூத்ரங்களில் எங்கெங்கெல்லாம் பொருந்தாமை தோன்றுகிறதோ, அந்தச் சிக்கல்களை நீக்க திருவாய்மொழியைக் கொண்டே ஸூத்ர வாக்கியங்களை ஒருங்க விடுவர். இதை ஆசார்ய ஹ்ருதயத்தில், ஸ்வாமி அழகிய மணவாளப் பெருமாள் நாயனார் ஸாதித்தருளியுள்ளார்.",
       "image": {
         "src": "",
@@ -67,8 +67,8 @@
         "en": "Uniqueness of Thaniyan",
         "ta": "திருவாய்மொழியின் தனியன் – சிறப்பு"
       },
-      "description": "The Thaniyan states: 'Bhaktamrutam Vishvajanānumodanam… Namamyaham Dravida Veda Sāgaram.' While the Thaniyans of other Divya Prabandhams praise the Azhwar who composed them, the Thaniyan of Thiruvaaimozhi uniquely glorifies Thiruvaaimozhi itself. The phrase 'Namamyaham Dravida Veda Sāgaram' highlights its supreme exalted status.",
-      "en_description": "The Thaniyan states: 'Bhaktamrutam Vishvajanānumodanam… Namamyaham Dravida Veda Sāgaram.' While the Thaniyans of other Divya Prabandhams praise the Azhwar who composed them, the Thaniyan of Thiruvaaimozhi uniquely glorifies Thiruvaaimozhi itself. The phrase 'Namamyaham Dravida Veda Sāgaram' highlights its supreme exalted status.",
+      "description": "The Thaniyan states: 'Bhaktamrutam Vishvajanānumodanam… Namamyaham Dravida Veda Sāgaram.' While the Thaniyans of other Divya Prabandhams praise the Azhwar who composed them, the Thaniyan of Thiruvaimozhi uniquely glorifies Thiruvaimozhi itself. The phrase 'Namamyaham Dravida Veda Sāgaram' highlights its supreme exalted status.",
+      "en_description": "The Thaniyan states: 'Bhaktamrutam Vishvajanānumodanam… Namamyaham Dravida Veda Sāgaram.' While the Thaniyans of other Divya Prabandhams praise the Azhwar who composed them, the Thaniyan of Thiruvaimozhi uniquely glorifies Thiruvaimozhi itself. The phrase 'Namamyaham Dravida Veda Sāgaram' highlights its supreme exalted status.",
       "ta_description": "பக்தாம்ருதம் விஶ்வஜநாநுமோதநம் ஸர்வார்த்ததம் ஸ்ரீஶடகோபவாங்மயம் | ஸஹஸ்ர ஸாகோபநிஷத் ஸமாகமம் நமாம்யஹம் த்ராவிட வேத ஸாகரம் || மற்ற திவ்ய ப்ரபந்தங்களின் தனியன், அந்த ப்ரபந்தத்தை அருளிச்செய்த ஆழ்வாரைப் பற்றியது. ஆனால் திருவாய்மொழியின் தனியன் மட்டும் திருவாய்மொழியையே வணங்குகிறது. “நமாம்யஹம் த்ராவிட வேத ஸாகரம்” இது அதன் உயர்ந்த ஏற்றத்தைக் காட்டுகிறது.",
       "image": {
         "src": "",
@@ -90,8 +90,8 @@
         "en": "When does Vaishnavatvam arise?",
         "ta": "வைஷ்ணவத்வம் ஸித்திப்பது எப்போது?"
       },
-      "description": "Study of the Vedas + understanding their meaning + practice leads to Brahmanhood. Similarly, learning Thiruvaaimozhi (Dravida Veda), understanding its meaning, and living according to it leads to the attainment of Vaishnavatvam.",
-      "en_description": "Study of the Vedas + understanding their meaning + practice leads to Brahmanhood. Similarly, learning Thiruvaaimozhi (Dravida Veda), understanding its meaning, and living according to it leads to the attainment of Vaishnavatvam.",
+      "description": "Study of the Vedas + understanding their meaning + practice leads to Brahmanhood. Similarly, learning Thiruvaimozhi (Dravida Veda), understanding its meaning, and living according to it leads to the attainment of Vaishnavatvam.",
+      "en_description": "Study of the Vedas + understanding their meaning + practice leads to Brahmanhood. Similarly, learning Thiruvaimozhi (Dravida Veda), understanding its meaning, and living according to it leads to the attainment of Vaishnavatvam.",
       "ta_description": "வேத அத்யயநம் + அர்த்த ஜ்ஞானம் + அனுஷ்டானம் → ப்ராஹ்மண்யம். அதுபோல, த்ராவிட வேதம் (திருவாய்மொழி) கற்பது, அதன் அர்த்தத்தை அறிவது, அதன்படி நடப்பது → வைஷ்ணவத்வ ஸித்தி.",
       "image": {
         "src": "",
@@ -107,7 +107,7 @@
       "id": "tms_saaram_01_06",
       "type": "default",
       "title": {
-        "en": "Special Greatness of Thiruvaaimozhi",
+        "en": "Special Greatness of Thiruvaimozhi",
         "ta": "திருவாய்மொழியின் தனிச்சிறப்பு"
       },
       "description": "",
@@ -164,8 +164,8 @@
             "en": "Pleasant to the Lord",
             "ta": "எம்பெருமானுக்கு இன்பம்"
           },
-          "description": "The Lord listens to Thiruvaaimozhi and joyfully exclaims 'Thenna!' (An expression of deep आनंद (joy) and aesthetic enjoyment) in delight.",
-          "en_description": "The Lord listens to Thiruvaaimozhi and joyfully exclaims 'Thenna!' (An expression of deep आनंद (joy) and aesthetic enjoyment) in delight.",
+          "description": "The Lord listens to Thiruvaimozhi and joyfully exclaims 'Thenna!' (An expression of deep आनंद (joy) and aesthetic enjoyment) in delight.",
+          "en_description": "The Lord listens to Thiruvaimozhi and joyfully exclaims 'Thenna!' (An expression of deep आनंद (joy) and aesthetic enjoyment) in delight.",
           "ta_description": "எம்பெருமான் திருவாய்மொழியைத் திருச்செவி ஸாற்றியருளி “தென்னா” என்று ஆலாபனம் செய்கிறான்.",
           "image": {
             "src": "",
@@ -182,8 +182,8 @@
             "en": "Teaches Artha Panchakam",
             "ta": "அர்த்த பஞ்சகம்"
           },
-          "description": "Thiruvaaimozhi fully grants the knowledge of the Artha Panchakam that is essential for the soul — namely, the true nature of the individual soul (jīva-svarūpa), the true nature of the Supreme Being (Paramātma-svarūpa), the means (upāya-svarūpa), the obstacles (virodhi-svarūpa), and the ultimate goal (phala-svarūpa).",
-          "en_description": "Thiruvaaimozhi fully grants the knowledge of the Artha Panchakam that is essential for the soul — namely, the true nature of the individual soul (jīva-svarūpa), the true nature of the Supreme Being (Paramātma-svarūpa), the means (upāya-svarūpa), the obstacles (virodhi-svarūpa), and the ultimate goal (phala-svarūpa).",
+          "description": "Thiruvaimozhi fully grants the knowledge of the Artha Panchakam that is essential for the soul — namely, the true nature of the individual soul (jīva-svarūpa), the true nature of the Supreme Being (Paramātma-svarūpa), the means (upāya-svarūpa), the obstacles (virodhi-svarūpa), and the ultimate goal (phala-svarūpa).",
+          "en_description": "Thiruvaimozhi fully grants the knowledge of the Artha Panchakam that is essential for the soul — namely, the true nature of the individual soul (jīva-svarūpa), the true nature of the Supreme Being (Paramātma-svarūpa), the means (upāya-svarūpa), the obstacles (virodhi-svarūpa), and the ultimate goal (phala-svarūpa).",
           "ta_description": "ஜீவனுக்குத் தேவையான அர்த்த பஞ்சக ஜ்ஞானத்தை - ஜீவ ஸ்வரூபம், பரமாத்ம ஸ்வரூபம், உபாய ஸ்வரூபம், விரோதி ஸ்வரூபம்,பல ஸ்வரூபம் இவை அனைத்தையும் திருவாய்மொழி முழுமையாகக் கொடுத்தருளுகிறது.",
           "image": {
             "src": "",
@@ -200,8 +200,8 @@
             "en": "Unique Glory",
             "ta": "அபூர்வ பெருமை"
           },
-          "description": "The Vedas are apauruṣeya—that is, they are not composed by any human being and possess that unique distinction. Thiruvaaimozhi, however, was divinely revealed through an Azhwar, a supreme devotee; therefore, it has a greatness that is unmatched by anything else.",
-          "en_description": "The Vedas are apauruṣeya—that is, they are not composed by any human being and possess that unique distinction. Thiruvaaimozhi, however, was divinely revealed through an Azhwar, a supreme devotee; therefore, it has a greatness that is unmatched by anything else.",
+          "description": "The Vedas are apauruṣeya—that is, they are not composed by any human being and possess that unique distinction. Thiruvaimozhi, however, was divinely revealed through an Azhwar, a supreme devotee; therefore, it has a greatness that is unmatched by anything else.",
+          "en_description": "The Vedas are apauruṣeya—that is, they are not composed by any human being and possess that unique distinction. Thiruvaimozhi, however, was divinely revealed through an Azhwar, a supreme devotee; therefore, it has a greatness that is unmatched by anything else.",
           "ta_description": "வேதம் அபௌருஷேயம். அதாவது, ஒரு புருஷனாலே இயற்றப்படாதது என்கிற சிறப்புப் பெற்றது. திருவாய்மொழி – பரம பக்தரான ஆழ்வாராலே அருளிச்செய்யப்பட்டதால் அதற்குரிய பெருமை வேறு எதற்கும் இல்லை.",
           "image": {
             "src": "",
@@ -218,8 +218,8 @@
             "en": "Essence of Sama Veda",
             "ta": "ஸாமவேத ஸாரம்"
           },
-          "description": "Thiruvaaimozhi is the essence of the Sama Veda.",
-          "en_description": "Thiruvaaimozhi is the essence of the Sama Veda.",
+          "description": "Thiruvaimozhi is the essence of the Sama Veda.",
+          "en_description": "Thiruvaimozhi is the essence of the Sama Veda.",
           "ta_description": "திருவாய்மொழியானது ஸாம வேதத்தின் ஸாரமாக அமைந்துள்ளது.",
           "image": {
             "src": "",
@@ -236,11 +236,11 @@
       "id": "tms_saaram_01_07",
       "type": "default",
       "title": {
-        "en": "Thiruvaaimozhi Swallows Maya",
+        "en": "Thiruvaimozhi Swallows Maya",
         "ta": "மாயையை விழுங்கும் திருவாய்மொழி"
       },
-      "description": "Thiruvaaimozhi swallows the deluding māyā that deceives us. It serves as the shore for samsārīs who are struggling in the ocean of worldly existence. For those who reach this shore, Emperumān—the Lord of Mahālakṣmī—reveals Himself directly. The Lord, who cannot be perceived even by searching through the four Vedas, becomes manifest to the devotees of the Azhwar.",
-      "en_description": "Thiruvaaimozhi swallows the deluding māyā that deceives us. It serves as the shore for samsārīs who are struggling in the ocean of worldly existence. For those who reach this shore, Emperumān—the Lord of Mahālakṣmī—reveals Himself directly. The Lord, who cannot be perceived even by searching through the four Vedas, becomes manifest to the devotees of the Azhwar.",
+      "description": "Thiruvaimozhi swallows the deluding māyā that deceives us. It serves as the shore for samsārīs who are struggling in the ocean of worldly existence. For those who reach this shore, Emperumān—the Lord of Mahālakṣmī—reveals Himself directly. The Lord, who cannot be perceived even by searching through the four Vedas, becomes manifest to the devotees of the Azhwar.",
+      "en_description": "Thiruvaimozhi swallows the deluding māyā that deceives us. It serves as the shore for samsārīs who are struggling in the ocean of worldly existence. For those who reach this shore, Emperumān—the Lord of Mahālakṣmī—reveals Himself directly. The Lord, who cannot be perceived even by searching through the four Vedas, becomes manifest to the devotees of the Azhwar.",
       "ta_description": "நம்மை ஏமாற்றக்கூடிய மாயையைத் திருவாய்மொழி விழுங்குகிறது. ஸம்ஸார ஸாகரத்திலே உழன்றுகொண்டிருக்கக்கூடிய ஸம்ஸாரிகளுக்குக் கரையாக இருக்கிறது.கரையை அடைந்தவர்களுக்கு, திருமகள் கேள்வனான எம்பெருமான் ப்ரத்யக்ஷமாக வெளிப்படுகிறான். நான்மறைகள் தேடியும் காண முடியாத எம்பெருமான், ஆழ்வாருடைய அடியவர்களுக்குப் புலப்படுகிறான்.",
       "image": {
         "src": "",
