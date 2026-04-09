@@ -99,6 +99,7 @@
       "video": {
         "videoname": ""
       },
+      "slokam": null,
       "cards": [
         {
           "type": "default",
@@ -215,6 +216,7 @@
       "video": {
         "videoname": ""
       },
+      "slokam": null,
       "cards": [
         {
           "type": "slokam",
@@ -439,12 +441,12 @@
             "videoname": ""
           },
           "slokam": {
-            "sanskrit": "கண்கள் சிவந்து பெரியவாய் வாயும் சிவந்து கனிந்து\nபண்டை நாளால் என் திருவருளும் பங்கயத்தாள் திருவருளும்\nகொண்டு கோயில் சீத்து பல்படிகால் கொடிகொடி வழிவந்து\nஆடச் செய்யும் தொண்டர் என்று...",
-            "transliteration": "kaṇkaḷ sivandhu periyavāy vāyum sivandhu kanindhu\npaṇdai nāḷāl en thiruvaruḷum paṅkayatthāḷ thiruvaruḷum\nkoṇdu kōyil sītthu palpadikāl koḍikoḍi vazhivandhu\nāḍac cheyyum thoṇdar enRu..."
+            "sanskrit": "கண்கள் சிவந்து பெரியவாய் வாயும் சிவந்து கனிந்து உள்ளே\nவெண்பல் இலகு சுடர் இலகு விலகு மகரக் குண்டலத்தன்\nகொண்டல் வண்ணன் சுடர் முடியன் நான்கு தோளன் குனி சார்ங்கன்\nஒண் சங்கதை வாள் ஆழியான் ஒருவன் அடியேன் உள்ளானே ||",
+            "transliteration": "kaNgaL sivandhu periyavAy vAyum sivandhu kanindhu uLLE\nveN pal ilagu sudar ilagu vilagu magara kuNdalaththan\nkoNdal vaNNan sudar mudiyan nAngu thOLan kuni sArngan\noN sangadhai vAL AzhiyAn oruvan adiyEn uLLAnE ||"
           }
         },
         {
-          "type": "slokam",
+          "type": "default",
           "title": {
             "en": "Meaning of Namah - 8.9",
             "ta": "நம: என்பதின் அர்த்தம் - 8.9"
@@ -458,14 +460,10 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": {
-            "sanskrit": "கருமாணிக்க மலைமேல் மணித்தடம் தாமரைக்காடு\nதிருமால் திருமார்பு திருக்கண்கள் திருக்கைகள்\nஅருள் மாரி பொழியும் திருவேங்கடம்...",
-            "transliteration": "karumāṇikka malaimēl maṇitthadam thāmaraikkāḍu\nthirumāl thirumārbu thirukkaṇkaḷ thirukkaikaḷ\naruḷ māri pozhiyum thiruvēṅkaḍam..."
           }
         },
         {
-          "type": "slokam",
+          "type": "default",
           "title": {
             "en": "Inner Meaning of Namah - 8.10",
             "ta": "நம: பதத்தின் உள்ளுறை பொருள் - 8.10"
@@ -479,14 +477,10 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": {
-            "sanskrit": "நெடுமாற்கடிமை செய்வேன் போல் அவனைக் கருத வஞ்சித்து\nதடுமாற்றற்ற தீக்கதிகள் தம்மைக் கடந்து தமர்களாய்\nஅடியார் அடியார் அடியார் அடியார் அடியான் என்று...",
-            "transliteration": "neḍumāRkaḍimai seyvēn pōl avanaik karudha vañjitthu\nthaḍumāRRaRRa thīkkadhigaḷ thammaik kaḍandhu thamargaḷāy\naḍiyār aḍiyār aḍiyār aḍiyār aḍiyān enRu..."
           }
         },
         {
-          "type": "slokam",
+          "type": "default",
           "title": {
             "en": "Meaning of Narayana - 9.1",
             "ta": "நாராயண சப்தத்தின் அர்த்தம் - 9.1"
@@ -500,14 +494,10 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": {
-            "sanskrit": "கொண்ட பெண்டிர் மக்கள் உற்றார் சுற்றத்தவர் பிறரும்\nகண்டதோடு பட்டதல்லால் காதல் மற்று யாதுமில்லை\nஎண்திசையும் ஏழ் உலகும் உண்டான் தன் ஏமமே...",
-            "transliteration": "koṇḍa peṇḍir makkaḷ uRRār suRRatthavar piRarum\nkaṇḍadhōḍu paṭṭadhallāl kādhal maRRu yādhumillai\neṇḍisaiyum ēzh ulagum uṇḍān than ēmamē..."
           }
         },
         {
-          "type": "slokam",
+          "type": "default",
           "title": {
             "en": "Meaning of Aaya (Kainkaryam) - 9.2",
             "ta": "ஆய (சதுர்த்தி) - கைங்கரியம் - 9.2"
@@ -521,14 +511,10 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": {
-            "sanskrit": "பண்டை நாளாலே நின் திருவருளும் பங்கயத்தாள் திருவருளும்\nகொண்டு கோயில் சீத்து பல்படிகால் கொடிகொடி வழிவந்து\nஆடச் செய்யும் தொண்டரோம்...",
-            "transliteration": "paṇḍai nāḷālē nin thiruvaruḷum paṅkayatthāḷ thiruvaruḷum\nkoṇḍu kōyil sītthu palpadikāl koḍikoḍi vazhivandhu\nāḍac cheyyum thoṇdarōm..."
           }
         },
         {
-          "type": "slokam",
+          "type": "default",
           "title": {
             "en": "Glory of the Holy Name - 9.3",
             "ta": "திருநாமத்தின் ஏற்றம் - 9.3"
@@ -542,10 +528,6 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": {
-            "sanskrit": "ஓராயிரமாய் உலகேழ் அளிக்கும் பேராயிரம் கொண்டதோர் பீருடையன்\nகாராயண காடனன் நேமியினன் நாராயணன் நங்கள் பிரான் அவனே ||",
-            "transliteration": "ōrāyiramāy ulagēzh aḷikkum pērāyiram koṇḍadhōr pīruḍaiyan\nkārāyaṇak kāḍanan nēmiyinan nārāyaṇan naṅgaḷ pirān avanē ||"
           }
         }
       ]
@@ -567,6 +549,7 @@
       "video": {
         "videoname": ""
       },
+      "slokam": null,
       "cards": [
         {
           "type": "default",
@@ -583,7 +566,8 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         },
         {
           "type": "default",
@@ -600,7 +584,8 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         },
         {
           "type": "default",
@@ -617,7 +602,8 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         }
       ]
     }
