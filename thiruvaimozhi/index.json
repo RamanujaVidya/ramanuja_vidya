@@ -8,6 +8,12 @@
       "topicId": "tms_saaram_01",
       "title": "1.  Greatness of Thiruvaimozhi",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/thiruvaimozhi/tms_saaram_01.json"
+    },
+	{
+      "order": 2,
+      "topicId": "tms_saaram_02",
+      "title": "1.  Greatness of Eedu vyakyanam",
+      "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/thiruvaimozhi/tms_saaram_02.json"
     }
   ]
 }
