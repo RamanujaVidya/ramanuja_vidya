@@ -1,18 +1,82 @@
-{
-  "videos": [
-    {
-      "id": "XFl6VUPlhJw",
-      "title": "Episode 1 - Our Foundation: Ubaya Vedantam",
-      "thumbnail": "https://img.youtube.com/vi/XFl6VUPlhJw/hqdefault.jpg",
-      "description_en": "This podcast explains how Vishishtadvaita stands on Sanskrit Vedas and Dravida Vedam.",
-      "description_ta": "இந்த பாட்காஸ்ட் விசிஷ்டாத்வைதம் சமஸ்கிருத வேதங்களும் திராவிட வேதமும் மீது நிலைபெற்றுள்ளது என்பதை விளக்குகிறது."
+[
+  {
+    "id": 1,
+    "youtubeId": "XFl6VUPlhJw",
+    "category": "sribhashyam",
+    "title": {
+      "en": "Introduction to Vishishtadvaita - Sri Bhashyam Overview",
+      "ta": "விசிஷ்டாத்வைதம் அறிமுகம் - ஸ்ரீ பாஷ்ய மேலோட்டம்"
     },
-    {
-      "id": "dQw4w9WgXcQ",
-      "title": "Episode 2 - Vedanta Basics",
-      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
-      "description_en": "A simple introduction to Vedantic foundations.",
-      "description_ta": "வேதாந்தத்தின் அடிப்படை கருத்துக்களுக்கு எளிய அறிமுகம்."
-    }
-  ]
-}
+    "description": {
+      "en": "A foundational session exploring the core principles of Vishishtadvaita Vedanta through the teachings of Ramanujacharya. This video covers the philosophical foundations, historical context, and practical applications of this school of thought in modern spiritual practice.",
+      "ta": "இராமானுஜாசாரியரின் போதனைகள் மூலம் விசிஷ்டாத்வைத வேதாந்தத்தின் அடிப்படைக் கொள்கைகளை ஆராயும் அடிப்படை அமர்வு. இந்த வீடியோ இந்த சிந்தனைப் பள்ளியின் தத்துவ அடிப்படைகள், வரலாற்று சூழல் மற்றும் நவீன ஆன்மீகப் பயிற்சியில் நடைமுறைப் பயன்பாடுகளை உள்ளடக்கியது."
+    },
+    "thumbnail": "https://img.youtube.com/vi/XFl6VUPlhJw/0.jpg",
+    "duration": "24:18",
+    "publishedDate": "2024-03-15"
+  },
+  {
+    "id": 2,
+    "youtubeId": "dQw4w9WgXcQ",
+    "category": "sribhashyam",
+    "title": {
+      "en": "The Essence of Ubhaya Vedanta - Sri Bhashyam Deep Dive",
+      "ta": "உபய வேதாந்தத்தின் சாரம் - ஸ்ரீ பாஷ்ய ஆழ்ந்தாய்வு"
+    },
+    "description": {
+      "en": "Understanding the synthesis of Sanskrit and Tamil scriptures in Sri Vaishnava tradition. This discussion highlights how Ramanuja integrated both streams of revelation into a cohesive theological system.",
+      "ta": "ஸ்ரீ வைஷ்ணவ மரபில் சமஸ்கிருத மற்றும் தமிழ் வேதங்களின் தொகுப்பைப் புரிந்துகொள்வது. இராமானுஜர் இரண்டு வெளிப்பாட்டு நீரோடைகளையும் ஒரு ஒத்திசைவான இறையியல் முறைக்கு எவ்வாறு ஒருங்கிணைத்தார் என்பதை இந்த விவாதம் எடுத்துக்காட்டுகிறது."
+    },
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+    "duration": "32:05",
+    "publishedDate": "2024-03-10"
+  },
+  {
+    "id": 3,
+    "youtubeId": "abc123xyz78",
+    "category": "tarkam",
+    "title": {
+      "en": "Tarka Shastra - Logical Reasoning in Visishtadvaita",
+      "ta": "தர்க்க சாஸ்திரம் - விசிஷ்டாத்வைதத்தில் தர்க்கரீதியான பகுத்தறிவு"
+    },
+    "description": {
+      "en": "Exploring the role of Tarka (logic) and Nyaya in understanding Vedantic principles. This session covers the methods of logical analysis used by Ramanuja to establish the supremacy of Vishishtadvaita.",
+      "ta": "வேதாந்தக் கொள்கைகளைப் புரிந்துகொள்வதில் தர்க்கம் மற்றும் நியாயத்தின் பங்கை ஆராய்தல். விசிஷ்டாத்வைதத்தின் மேன்மையை நிலைநிறுத்த இராமானுஜர் பயன்படுத்திய தர்க்கரீதியான பகுப்பாய்வு முறைகளை இந்த அமர்வு உள்ளடக்கியது."
+    },
+    "thumbnail": "https://img.youtube.com/vi/abc123xyz78/0.jpg",
+    "duration": "28:42",
+    "publishedDate": "2024-03-05"
+  },
+  {
+    "id": 4,
+    "youtubeId": "xyz789pqr45",
+    "category": "tarkam",
+    "title": {
+      "en": "Nyaya Prakarana - Debates and Dialectics",
+      "ta": "நியாய பிரகரணம் - வாதங்கள் மற்றும் இயங்கியல்"
+    },
+    "description": {
+      "en": "An introduction to the Nyaya school of logic and its application in Sri Vaishnava theology. Learn how dialectical methods help in defending the doctrine of surrender (prapatti).",
+      "ta": "நியாய தர்க்கப் பள்ளி மற்றும் ஸ்ரீ வைஷ்ணவ இறையியலில் அதன் பயன்பாடு பற்றிய அறிமுகம். பிரபத்தி (சரணாகதி) கொள்கையை பாதுகாப்பதில் இயங்கியல் முறைகள் எவ்வாறு உதவுகின்றன என்பதை அறிக."
+    },
+    "thumbnail": "https://img.youtube.com/vi/xyz789pqr45/0.jpg",
+    "duration": "35:20",
+    "publishedDate": "2024-02-28"
+  },
+  {
+    "id": 5,
+    "youtubeId": "pqr456stu90",
+    "category": "sribhashyam",
+    "title": {
+      "en": "Sri Bhashyam - Commentary on Brahma Sutras",
+      "ta": "ஸ்ரீ பாஷ்யம் - பிரம்ம சூத்திரங்களின் விளக்கம்"
+    },
+    "description": {
+      "en": "Detailed exposition of Ramanuja's magnum opus, the Sri Bhashyam. Understand how the Brahma Sutras are interpreted from a Visishtadvaitic perspective.",
+      "ta": "இராமானுஜரின் மகத்தான படைப்பான ஸ்ரீ பாஷ்யத்தின் விரிவான விளக்கம். விசிஷ்டாத்வைதக் கண்ணோட்டத்தில் பிரம்ம சூத்திரங்கள் எவ்வாறு விளக்கப்படுகின்றன என்பதைப் புரிந்து கொள்ளுங்கள்."
+    },
+    "thumbnail": "https://img.youtube.com/vi/pqr456stu90/0.jpg",
+    "duration": "45:15",
+    "publishedDate": "2024-02-20"
+  }
+]
