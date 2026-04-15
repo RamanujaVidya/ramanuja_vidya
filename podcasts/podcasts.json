@@ -1,0 +1,18 @@
+{
+  "videos": [
+    {
+      "id": "XFl6VUPlhJw",
+      "title": "Episode 1 - Our Foundation: Ubaya Vedantam",
+      "thumbnail": "https://img.youtube.com/vi/XFl6VUPlhJw/hqdefault.jpg",
+      "description_en": "This podcast explains how Vishishtadvaita stands on Sanskrit Vedas and Dravida Vedam.",
+      "description_ta": "இந்த பாட்காஸ்ட் விசிஷ்டாத்வைதம் சமஸ்கிருத வேதங்களும் திராவிட வேதமும் மீது நிலைபெற்றுள்ளது என்பதை விளக்குகிறது."
+    },
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Episode 2 - Vedanta Basics",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+      "description_en": "A simple introduction to Vedantic foundations.",
+      "description_ta": "வேதாந்தத்தின் அடிப்படை கருத்துக்களுக்கு எளிய அறிமுகம்."
+    }
+  ]
+}
