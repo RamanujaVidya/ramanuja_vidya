@@ -1,0 +1,431 @@
+{
+  "topicId": "tms_saaram_03",
+  "topicTitle": "Emperumaan Blesses Aazhwaar",
+  "cards": [
+    {
+      "id": "tms_saaram_03_01",
+      "type": "default",
+      "title": {
+        "en": "Three Aspects Explained in Commentaries",
+        "ta": "வ்யாக்யானங்களில் சொல்லப்படும் மூன்று விஷயங்கள்"
+      },
+      "description": "Traditional commentaries generally highlight three special aspects: the greatness of the speaker (Vaktru Vailakshanyam), the uniqueness of the grantham itself (Prabandha Vailakshanyam), and the greatness of the subject expounded, namely Bhagavan (Vishaya Vailakshanyam). These three together create reverence and eagerness in the minds of readers to understand the sacred text deeply.",
+      "en_description": "Traditional commentaries generally highlight three special aspects: the greatness of the speaker (Vaktru Vailakshanyam), the uniqueness of the grantham itself (Prabandha Vailakshanyam), and the greatness of the subject expounded, namely Bhagavan (Vishaya Vailakshanyam). These three together create reverence and eagerness in the minds of readers to understand the sacred text deeply.",
+      "ta_description": "வ்யாக்யானங்களில் பொதுவாக மூன்று விஷயங்கள் எடுத்துரைக்கப்படுகின்றன: சொல்பவரின் ஏற்றம் (வக்த்ரு வைலக்ஷண்யம்), ப்ரபந்தத்தின் தனிச்சிறப்பு (ப்ரபந்த வைலக்ஷண்யம்), மற்றும் அந்தப் ப்ரபந்தம் விளக்கும் எம்பெருமானின் ஏற்றம் (விஷய வைலக்ஷண்யம்). இந்த மூன்றும் சேர்ந்து வாசிப்பவர்களுக்கு அந்த க்ரந்தத்தின் மேல் பக்தியையும் அறிந்துகொள்ளும் ஆவலையும் உருவாக்குகின்றன.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Vaktru Vailakshanyam",
+            "ta": "வக்த்ரு வைலக்ஷண்யம்"
+          },
+          "description": "Vaktru Vailakshanyam refers to the greatness and exalted nature of the Azhwar or Acharya who revealed the grantham.",
+          "en_description": "Vaktru Vailakshanyam refers to the greatness and exalted nature of the Azhwar or Acharya who revealed the grantham.",
+          "ta_description": "வக்தா என்றால் சொல்பவர். ப்ரபந்தத்தை அருளிச்செய்த ஆழ்வார் அல்லது ஆசார்யரின் ஏற்றமே வக்த்ரு வைலக்ஷண்யம் ஆகும்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Prabandha Vailakshanyam",
+            "ta": "ப்ரபந்த வைலக்ஷண்யம்"
+          },
+          "description": "Every prabandham has a unique excellence. Tiruppallandu, for example, is neither too brief like the Pranavam nor too vast like the Mahabharata. Its concise and memorable structure makes its meanings easier to grasp.",
+          "en_description": "Every prabandham has a unique excellence. Tiruppallandu, for example, is neither too brief like the Pranavam nor too vast like the Mahabharata. Its concise and memorable structure makes its meanings easier to grasp.",
+          "ta_description": "ஒவ்வொரு ப்ரபந்தத்திற்கும் ஒரு தனிச்சிறப்பு உண்டு. திருப்பல்லாண்டு ப்ரணவம் போல மிகச் சுருக்கமாகவும் இல்லை; மஹாபாரதம் போல மிக விரிவாகவும் இல்லை. 12 பாசுரங்களால் அமைந்த இதன் வடிவம் நினைவில் வைத்துக்கொள்ள எளிதாகவும், அர்த்தங்களைப் புரிந்துகொள்ள ஏதுவாகவும் உள்ளது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Vishaya Vailakshanyam",
+            "ta": "விஷய வைலக்ஷண்யம்"
+          },
+          "description": "Vishaya Vailakshanyam refers to the greatness of the Lord who is revealed through the grantham.",
+          "en_description": "Vishaya Vailakshanyam refers to the greatness of the Lord who is revealed through the grantham.",
+          "ta_description": "அந்தப் ப்ரபந்தம் எடுத்துரைக்கும் எம்பெருமானின் ஏற்றமே விஷய வைலக்ஷண்யம் ஆகும்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_03_02",
+      "type": "default",
+      "title": {
+        "en": "The Greatness of Swami Nammazhwar",
+        "ta": "ஸ்வாமி நம்மாழ்வாரின் ஏற்றம்"
+      },
+      "description": "Nammazhwar declares that he wandered through countless births in samsara before finally attaining the divine feet of the Lord and immersing himself in an endless flood of bliss.",
+      "en_description": "Nammazhwar declares that he wandered through countless births in samsara before finally attaining the divine feet of the Lord and immersing himself in an endless flood of bliss.",
+      "ta_description": "“மாறி மாறி பல பிறப்பும் பிறந்து அடியை அடைந்து உள்ளம் தேறி ஈரில் இன்பத் திருவெள்ளம் யான் மூழ்கினன்” என்று ஆழ்வார் தாமே அருளிச்செய்துள்ளார். அநாதி காலமாக ஸம்ஸாரத்தில் உழன்ற அவர், எம்பெருமானின் திருவடியை அடைந்து எல்லையற்ற ஆனந்த வெள்ளத்தில் மூழ்கினார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Analogy of Carrying the Palanquin",
+            "ta": "பல்லக்கு தாங்கும் உதாரணம்"
+          },
+          "description": "Acharyas compare the soul’s repeated births to a servant carrying a heavy palanquin, shifting it repeatedly from one shoulder to another due to unbearable strain. Similarly, the soul moves from one body to another under the burden of karma.",
+          "en_description": "Acharyas compare the soul’s repeated births to a servant carrying a heavy palanquin, shifting it repeatedly from one shoulder to another due to unbearable strain. Similarly, the soul moves from one body to another under the burden of karma.",
+          "ta_description": "பல்லக்கைத் தாங்கும் சேவகன் பாரத்தைத் தாங்க முடியாமல் ஒரு தோளிலிருந்து மற்றொரு தோளுக்கு மாற்றிக்கொள்வதைப் போல, கர்மத்தின் காரணமாக ஜீவாத்மா ஒரு உடம்பிலிருந்து மற்றொரு உடம்பிற்கு மாறி மாறி பிறவி எடுக்கிறது என்று ஆசார்யர்கள் விளக்குகின்றனர்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Attaining the Divine Feet",
+            "ta": "திருவடியை அடைந்து ஆனந்தம் பெறுதல்"
+          },
+          "description": "After reaching the divine feet of the Lord, Azhwar’s mind attained clarity and supreme bliss, ending the sufferings of samsara.",
+          "en_description": "After reaching the divine feet of the Lord, Azhwar’s mind attained clarity and supreme bliss, ending the sufferings of samsara.",
+          "ta_description": "எம்பெருமானின் திருவடியை அடைந்த பிறகு, ஆழ்வாரின் உள்ளம் தெளிவு பெற்று, எல்லையற்ற ஆனந்தத்தை அனுபவித்தது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_03_03",
+      "type": "default",
+      "title": {
+        "en": "The Purifying Presence of Sri Rama",
+        "ta": "ராமபிரானுடைய ஸந்நிதான மஹிமை"
+      },
+      "description": "After Vali’s death in Kishkindha Kandam, Tara came grieving and initially wished to condemn Sri Rama. However, upon reaching His divine presence, her mind became purified and she instead praised Him.",
+      "en_description": "After Vali’s death in Kishkindha Kandam, Tara came grieving and initially wished to condemn Sri Rama. However, upon reaching His divine presence, her mind became purified and she instead praised Him.",
+      "ta_description": "கிஷ்கிந்தா காண்டத்தில் வாலி வதம் நடந்தபோது, தாரை துயரத்துடன் வந்து ராமபிரானை குற்றம் சொல்ல நினைத்தாள். ஆனால் ராமபிரானின் ஸந்நிதியை அடைந்தவுடன் அவளுடைய மனம் தூய்மையடைந்து, குற்றம் சொல்ல வந்த வாயாலேயே அவரை வாழ்த்தினாள்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_03_04",
+      "type": "default",
+      "title": {
+        "en": "The Lord Made Azhwar Sing",
+        "ta": "ஆழ்வாரை எம்பெருமான் பாடுவித்தல்"
+      },
+      "description": "Unlike ordinary poets who compose through their own intellect, Nammazhwar sang Tiruvaymozhi only through the divine grace of the Lord. This is the unique greatness of Azhwar.",
+      "en_description": "Unlike ordinary poets who compose through their own intellect, Nammazhwar sang Tiruvaymozhi only through the divine grace of the Lord. This is the unique greatness of Azhwar.",
+      "ta_description": "மற்ற கவிகளைப் போல தன்னுடைய அறிவால் ஆழ்வார் பாடவில்லை. எம்பெருமானின் அருளால் தான் திருவாய்மொழி போன்ற திவ்யப் ப்ரபந்தத்தை அருளிச்செய்தார். இதுவே ஆழ்வாரின் தனி ஏற்றம்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_03_05",
+      "type": "default",
+      "title": {
+        "en": "Transformation of Brindavanam",
+        "ta": "ப்ருந்தாவனத்தின் மாற்றம்"
+      },
+      "description": "Brindavanam was once a thorn-filled forest. Krishna transformed it into a lush and beautiful place through His divine sankalpam for the welfare of the cows. Similarly, He transformed Nammazhwar into a being filled with Jnana, Bhakti, and Vairagya for the upliftment of all souls.",
+      "en_description": "Brindavanam was once a thorn-filled forest. Krishna transformed it into a lush and beautiful place through His divine sankalpam for the welfare of the cows. Similarly, He transformed Nammazhwar into a being filled with Jnana, Bhakti, and Vairagya for the upliftment of all souls.",
+      "ta_description": "ப்ருந்தாவனம் முதலில் நெருஞ்சி முள் நிறைந்த காடாக இருந்தது. கண்ணன் எம்பெருமான் தன் ஸங்கல்பத்தால் அதை பசுமையான அழகிய வனமாக மாற்றினார். அதுபோலவே, ஸம்ஸாரத்தில் இருந்த நம்மாழ்வாரை ஜ்ஞானம், பக்தி, வைராக்யம் கொண்டவராக எம்பெருமான் மாற்றினார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_03_06",
+      "type": "default",
+      "title": {
+        "en": "True Knowledge of Tattva Trayam",
+        "ta": "தத்வத்ரய ஜ்ஞானம்"
+      },
+      "description": "True knowledge means understanding reality as it is. The three eternal truths are Chit (sentient souls), Achit (matter), and Ishvara (the Supreme Lord). The Lord governs both souls and matter, and only through His grace can the soul attain liberation.",
+      "en_description": "True knowledge means understanding reality as it is. The three eternal truths are Chit (sentient souls), Achit (matter), and Ishvara (the Supreme Lord). The Lord governs both souls and matter, and only through His grace can the soul attain liberation.",
+      "ta_description": "உண்மையான ஜ்ஞானம் என்பது சித், அசித், ஈஶ்வரன் என்ற தத்வத்ரயத்தை அறிதல் ஆகும். ஜீவாத்மாவையும் அசித்தையும் நியமிப்பவன் எம்பெருமான். அவனுடைய அருளால் மட்டுமே ஜீவன் மோட்சத்தை அடைகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": {
+        "sanskrit": "ப்ரதான க்ஷேத்ரக்ஞ பதிர் குணேஷஹா ஸம்ஸார பந்த ஸ்திதி மோக்ஷ ஹேதுஹு",
+        "transliteration": "pradhāna kṣetrajña patir guṇeśaḥ saṁsāra bandha sthiti mokṣa hetuḥ"
+      },
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_03_07",
+      "type": "default",
+      "title": {
+        "en": "The Work of Maya",
+        "ta": "மாயையின் வேலை"
+      },
+      "description": "Arjuna asks why people become attached to worldly pleasures even when the Lord is infinitely sweet. The Lord explains that through Prakriti and Maya, souls experience delusion according to their karma.",
+      "en_description": "Arjuna asks why people become attached to worldly pleasures even when the Lord is infinitely sweet. The Lord explains that through Prakriti and Maya, souls experience delusion according to their karma.",
+      "ta_description": "எம்பெருமான் இவ்வளவு இனிமையானவராக இருந்தும் மக்கள் ஏன் உலக விஷயங்களில் மயங்குகிறார்கள் என்று அர்ஜுனன் கேட்க, ஜீவாத்மாக்களின் கர்மத்திற்கு ஏற்ப ப்ரக்ருதியின் மூலம் தானே இவ்வாறு லீலை செய்கிறேன் என்று எம்பெருமான் விளக்குகிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Two Functions of Maya",
+            "ta": "மாயையின் இரண்டு செயல்கள்"
+          },
+          "description": "Maya hides the sweetness of Bhagavan and falsely presents insignificant worldly pleasures as highly valuable.",
+          "en_description": "Maya hides the sweetness of Bhagavan and falsely presents insignificant worldly pleasures as highly valuable.",
+          "ta_description": "மாயை இரண்டு வேலை செய்கிறது: எம்பெருமானின் இனிமையை மறைக்கிறது; அற்பமான உலக விஷயங்களை உயர்வாக காட்டுகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_03_08",
+      "type": "default",
+      "title": {
+        "en": "The State of the Kaivalyarthi",
+        "ta": "கைவல்யார்த்தியின் நிலை"
+      },
+      "description": "The Kaivalyarthi understands the defects of worldly existence and wishes to escape bodily suffering. However, he does not seek Bhagavan; he seeks only isolated self-experience (Atma Anubhavam).",
+      "en_description": "The Kaivalyarthi understands the defects of worldly existence and wishes to escape bodily suffering. However, he does not seek Bhagavan; he seeks only isolated self-experience (Atma Anubhavam).",
+      "ta_description": "உலக துன்பங்களை உணர்ந்த கைவல்யார்த்தி, இந்த உடம்பிலிருந்து விடுபட வேண்டும் என்று நினைக்கிறான். ஆனால் எம்பெருமானை அடைய விரும்பாமல், ஆத்ம அனுபவத்திலேயே நின்றுவிடுகிறான்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "What is Experienced in Kaivalyam?",
+            "ta": "கைவல்யத்தில் கிடைக்கும் அனுபவம்"
+          },
+          "description": "In Kaivalyam, only self-experience exists. There is no Bhagavad Anubhavam. It is compared to a dull happiness experienced in deep sleep, extended endlessly.",
+          "en_description": "In Kaivalyam, only self-experience exists. There is no Bhagavad Anubhavam. It is compared to a dull happiness experienced in deep sleep, extended endlessly.",
+          "ta_description": "கைவல்யத்தில் ஆத்ம அனுபவம் மட்டுமே கிடைக்கும். பகவத் அனுபவம் கிடையாது. தூக்கத்தில் இருக்கும் மந்தமான சுகம் முடிவில்லாமல் நீடிப்பது போல அது விளக்கப்படுகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_03_09",
+      "type": "default",
+      "title": {
+        "en": "The Miserable Journey of the Soul",
+        "ta": "ஜீவனின் பரிதாபமான நிலை"
+      },
+      "description": "The Upanishads describe through Panchagni Vidya the painful journey of the soul after death—passing through Yama’s realm, heaven, rebirth, and suffering again in the womb.",
+      "en_description": "The Upanishads describe through Panchagni Vidya the painful journey of the soul after death—passing through Yama’s realm, heaven, rebirth, and suffering again in the womb.",
+      "ta_description": "உபநிஷத்துகள் ‘பஞ்சாக்னி வித்யை’ மூலம் ஜீவனின் துயரமான பயணத்தை விளக்குகின்றன—மரணத்திற்குப் பிறகு எமலோகம், நரக அனுபவம், சுவர்க்கம், பின்னர் மறுபிறவி என தொடரும் சுழற்சி.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Journey of Rebirth",
+            "ta": "மறுபிறவி பயணம்"
+          },
+          "description": "After exhausting punya, the soul descends through clouds, rain, crops, enters the male body, and finally reaches the mother’s womb for another birth.",
+          "en_description": "After exhausting punya, the soul descends through clouds, rain, crops, enters the male body, and finally reaches the mother’s womb for another birth.",
+          "ta_description": "புண்ணியம் முடிந்த பிறகு ஜீவன் மேகமாக, மழையாக, நெல்லாக, பின்னர் புருஷனுடைய உடம்பு வழியாக ஸ்திரீ கர்ப்பத்தை அடைந்து மறுபிறவி எடுக்கிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Suffering in the Womb",
+            "ta": "கர்ப்பவாஸ துன்பம்"
+          },
+          "description": "The soul undergoes immense suffering inside the womb. Even the mother’s food habits affect the unborn child intensely.",
+          "en_description": "The soul undergoes immense suffering inside the womb. Even the mother’s food habits affect the unborn child intensely.",
+          "ta_description": "கர்ப்பத்தில் ஜீவன் மிகுந்த துன்பம் அனுபவிக்கிறது. தாயின் உணவு பழக்கங்களும் சிசுவை நேரடியாக பாதிக்கின்றன.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_03_10",
+      "type": "default",
+      "title": {
+        "en": "Three Types of Seekers",
+        "ta": "மூன்று வகை அதிகாரிகள்"
+      },
+      "description": "Sri Vaishnava Siddhanta describes three kinds of people: Samsaris, Kaivalyarthis, and Bhagavallabharthis like the Azhwars.",
+      "en_description": "Sri Vaishnava Siddhanta describes three kinds of people: Samsaris, Kaivalyarthis, and Bhagavallabharthis like the Azhwars.",
+      "ta_description": "ஸ்ரீவைஷ்ணவ சித்தாந்தத்தில் மூன்று வகை அதிகாரிகள் சொல்லப்படுகின்றனர்: ஸம்ஸாரி, கைவல்யார்த்தி, மற்றும் பகவல்லாபார்த்தி.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Samsari",
+            "ta": "ஸம்ஸாரி"
+          },
+          "description": "The Samsari is attached to the body and worldly pleasures, remaining deluded by matter (Achit).",
+          "en_description": "The Samsari is attached to the body and worldly pleasures, remaining deluded by matter (Achit).",
+          "ta_description": "அசித்திலே மயங்கி உடம்பையே போக்யமாக நினைப்பவன் ஸம்ஸாரி.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Kaivalyarthi",
+            "ta": "கைவல்யார்த்தி"
+          },
+          "description": "The Kaivalyarthi understands the defects of matter but stops with self-experience instead of reaching Bhagavan.",
+          "en_description": "The Kaivalyarthi understands the defects of matter but stops with self-experience instead of reaching Bhagavan.",
+          "ta_description": "அசித்தின் தோஷத்தை அறிந்தாலும், எம்பெருமானை அடையாமல் ஆத்ம அனுபவத்திலேயே நின்றுவிடுகிறவன் கைவல்யார்த்தி.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Bhagavallabharthi / Azhwar",
+            "ta": "பகவல்லாபார்த்தி / ஆழ்வார்"
+          },
+          "description": "Azhwar transcends both worldly matter and self-centered experience, holding only to Bhagavan. This is the unique greatness of the Azhwars.",
+          "en_description": "Azhwar transcends both worldly matter and self-centered experience, holding only to Bhagavan. This is the unique greatness of the Azhwars.",
+          "ta_description": "அசித்தையும் சித்தையும் தாண்டி எம்பெருமானை மட்டுமே பற்றிக்கொண்டவர் ஆழ்வார். இதுவே அவரின் தனி ஏற்றம்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    }
+  ]
+}

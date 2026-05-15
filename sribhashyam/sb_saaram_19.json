@@ -1,0 +1,416 @@
+{
+  "topicId": "ab_saaram_19",
+  "topicTitle": "The History of Vedanta: A Vaishnava Perspective",
+  "cards": [
+    {
+      "id": "ab_saaram_19_01",
+      "type": "default",
+      "title": {
+        "en": "Introduction: Uttamur Swami and His Legacy",
+        "ta": "முன்னுரை: உத்தமூர் ஸ்வாமியும் அவரது பாரம்பரியமும்"
+      },
+      "description": "In the last century, the Srivaishnava tradition was graced by a towering intellectual, Uttamur Viraraghavacharya Swami. His scholarship was so profound that even the Kanchi Kamakoti Peethadhipati, Sri Chandrasekharendra Saraswati Swamigal—a master of Advaita—sought him out. It is said that the Periyava wished to study the complex text Advaita Siddhi and chose to approach Uttamur Swami, requesting him to visit the Mutt to teach him, recognizing his peerless grasp of diverse philosophical systems.",
+      "en_description": "In the last century, the Srivaishnava tradition was graced by a towering intellectual, Uttamur Viraraghavacharya Swami. His scholarship was so profound that even the Kanchi Kamakoti Peethadhipati, Sri Chandrasekharendra Saraswati Swamigal—a master of Advaita—sought him out. It is said that the Periyava wished to study the complex text Advaita Siddhi and chose to approach Uttamur Swami, requesting him to visit the Mutt to teach him, recognizing his peerless grasp of diverse philosophical systems.",
+      "ta_description": "கடந்த நூற்றாண்டில் ஸ்ரீவைஷ்ணவ சம்பிரதாயத்தில் ஒப்புயர்வற்ற மகா வித்வானாக விளங்கியவர் உத்தமூர் வீரராகவாச்சாரிய ஸ்வாமிகள். அவருடைய பாண்டித்யம் அவ்வளவு ஆழ்ந்ததாய் இருந்ததால், அத்வைத சித்தாந்தத்தில் பேரறிவுடைய காஞ்சி காமகோடி பீடாதிபதியான ஸ்ரீ சந்திரசேகரேந்திர சரஸ்வதி ஸ்வாமிகளும் அவரை நாடிச் சென்றதாக கூறப்படுகிறது. “அத்வைத சித்தி” போன்ற மிகவும் சிக்கலான நூலைப் படிக்க விரும்பிய பெரியவர், பல்வேறு தத்துவ முறைமைகளில் உத்தமூர் ஸ்வாமிகளுக்கிருந்த இணையற்ற புலமையை உணர்ந்து, அவரையே அணுகி மடத்திற்கு வந்து தமக்குப் பாடம் நடத்துமாறு வேண்டிக்கொண்டதாக பரம்பரையாக சொல்லப்படுகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Sri Bhashya Bhumika",
+            "ta": "ஸ்ரீபாஷ்ய பூமிகை"
+          },
+          "description": "Uttamur Swami published a monumental edition of the Sri Bhashyam (Ramanuja’s commentary on the Brahma Sutras). In it’s Bhumika (Introduction), he did not merely list the contents but provided a deep, historical analysis of how Vedantic thought evolved from ancient times. While this perspective is rooted in the Vaishnava tradition, it offers invaluable insights into the historical spread of different schools of thought.",
+          "en_description": "Uttamur Swami published a monumental edition of the Sri Bhashyam (Ramanuja’s commentary on the Brahma Sutras). In it’s Bhumika (Introduction), he did not merely list the contents but provided a deep, historical analysis of how Vedantic thought evolved from ancient times. While this perspective is rooted in the Vaishnava tradition, it offers invaluable insights into the historical spread of different schools of thought.",
+          "ta_description": "உத்தமூர் ஸ்வாமிகள், ஸ்ரீபாஷ்யத்தின் (பிரம்ம சூத்திரங்களுக்கு ஸ்ரீ ராமானுஜர் அருளிய உரை) ஒரு மகத்தான பதிப்பை வெளியிட்டார். அதன் “பூமிகை” (முன்னுரை) பகுதியில், அவர் வெறுமனே உள்ளடக்கங்களை பட்டியலிடாமல், வேதாந்த சிந்தனை பண்டைய காலத்திலிருந்து எவ்வாறு வளர்ச்சி பெற்றது என்பதை ஆழமான வரலாற்றுப் பார்வையுடன் விளக்குகிறார். இந்த அணுகுமுறை வைஷ்ணவ சம்பிரதாய அடிப்படையில் அமைந்திருந்தாலும், பல்வேறு தத்துவப் பள்ளிகள் வரலாற்றில் எவ்வாறு பரவின என்பதைக் குறித்து அரிய மற்றும் மதிப்புமிக்க விளக்கங்களை வழங்குகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "ab_saaram_19_02",
+      "type": "default",
+      "title": {
+        "en": "Ancient Tradition of Vedantic Inquiry",
+        "ta": "வேதாந்த விசாரணையின் பண்டைய மரபு"
+      },
+      "description": "Vedanta is a living philosophical tradition rooted in inquiry and reflection, not a frozen or unquestionable ideology. It began as a Vichara (investigation) among ancient Rishis. The Brahma Sutras were born from these collective deliberations. Just as Sage Panini composed concise sutras for Grammar (Vyakarana) and Sage Patanjali later wrote the Mahabhashya (Great Commentary) to explain them, Sage Vyasa condensed the essence of the Upanishads into the Brahma Sutras.",
+      "en_description": "Vedanta is a living philosophical tradition rooted in inquiry and reflection, not a frozen or unquestionable ideology. It began as a Vichara (investigation) among ancient Rishis. The Brahma Sutras were born from these collective deliberations. Just as Sage Panini composed concise sutras for Grammar (Vyakarana) and Sage Patanjali later wrote the Mahabhashya (Great Commentary) to explain them, Sage Vyasa condensed the essence of the Upanishads into the Brahma Sutras.",
+      "ta_description": "வேதாந்தம் என்பது நிலையான கோட்பாடு அல்ல; அது முனிவர்களின் ஆழமான விசாரணைகளும் விவாதங்களும் மூலம் வளர்ந்தது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Birth of the Brahma Sutras",
+            "ta": "பிரம்ம சூத்திரங்களின் தோற்றம்"
+          },
+          "description": "Sage Vyasa condensed the essence of the Upanishads into concise Brahma Sutras.",
+          "en_description": "Sage Vyasa condensed the essence of the Upanishads into concise Brahma Sutras.",
+          "ta_description": "மஹரிஷி வியாசர் உபநிஷத்துகளின் சாரத்தை சுருக்கமாக பிரம்ம சூத்திரங்களாக அமைத்தார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Debates Among Rishis",
+            "ta": "ரிஷிகளின் விவாதங்கள்"
+          },
+          "description": "The Brahma Sutras preserve debates about renunciation, liberation, and the nature of the soul.",
+          "en_description": "The Brahma Sutras preserve debates about renunciation, liberation, and the nature of the soul.",
+          "ta_description": "சந்நியாசம், மோக்ஷம் மற்றும் ஜீவாத்மாவின் இயல்பு போன்ற தலைப்புகளில் முனிவர்களின் விவாதங்கள் பிரம்ம சூத்திரங்களில் காணப்படுகின்றன.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "ab_saaram_19_03",
+      "type": "default",
+      "title": {
+        "en": "Three Ancient Views on Soul and God",
+        "ta": "ஜீவாத்மா மற்றும் பரமாத்மா பற்றிய மூன்று பண்டைய கருத்துகள்"
+      },
+      "description": "Ancient sages proposed different interpretations of the relationship between the soul and God.",
+      "en_description": "Ancient sages proposed different interpretations of the relationship between the soul and God.",
+      "ta_description": "ஜீவாத்மாவுக்கும் பரமாத்மாவுக்கும் உள்ள உறவைப் பற்றி பண்டைய முனிவர்கள் பல்வேறு கருத்துகளை முன்வைத்தனர்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Ashmarathya’s View",
+            "ta": "ஆஷ்மரத்யரின் கருத்து"
+          },
+          "description": "The soul and God are essentially one, like a clay pot arising from clay.",
+          "en_description": "The soul and God are essentially one, like a clay pot arising from clay.",
+          "ta_description": "மண் பானை மண்ணிலிருந்து தோன்றுவது போல, ஜீவாத்மாவும் பரமாத்மாவும் அடிப்படையில் ஒன்றே என்று ஆஷ்மரத்யர் கூறினார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Audulomi’s View",
+            "ta": "ஆஉதுலோமியின் கருத்து"
+          },
+          "description": "The soul is different during samsara but becomes one with God in liberation.",
+          "en_description": "The soul is different during samsara but becomes one with God in liberation.",
+          "ta_description": "சம்சார நிலையில் ஜீவன் வேறுபட்டதாக இருந்தாலும், மோக்ஷத்தில் பகவானுடன் ஒன்றாகிறது என்று ஆஉதுலோமி கூறினார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Kasakritsna’s View",
+            "ta": "காசக்ருத்ஸ்னரின் கருத்து"
+          },
+          "description": "God exists within the soul as the Inner Controller (Antaryami), forming an inseparable relationship.",
+          "en_description": "God exists within the soul as the Inner Controller (Antaryami), forming an inseparable relationship.",
+          "ta_description": "பரமாத்மா ஜீவனுள் அந்தர்யாமியாக இருப்பதால், இருவருக்கும் பிரிக்க முடியாத உறவு உள்ளது என்று காசக்ருத்ஸ்னர் கூறினார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "ab_saaram_19_04",
+      "type": "default",
+      "title": {
+        "en": "Rise of Advaita",
+        "ta": "அத்வைதத்தின் பரவல்"
+      },
+      "description": "Uttamur Swami explains historically how Advaita philosophy became dominant in India.",
+      "en_description": "Uttamur Swami explains historically how Advaita philosophy became dominant in India.",
+      "ta_description": "அத்வைதம் இந்தியாவில் எவ்வாறு பரவலாக ஆதிக்கம் பெற்றது என்பதை உத்தமூர் ஸ்வாமிகள் வரலாற்று அடிப்படையில் விளக்குகிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Loss of Earlier Vaishnava Texts",
+            "ta": "பழைய வைஷ்ணவ நூல்களின் இழப்பு"
+          },
+          "description": "Many ancient Vaishnava commentaries had become rare or lost during Adi Shankara’s period.",
+          "en_description": "Many ancient Vaishnava commentaries had become rare or lost during Adi Shankara’s period.",
+          "ta_description": "ஆதி சங்கரரின் காலத்தில் பல பண்டைய வைஷ்ணவ பாஷ்யங்கள் அரிதாகவோ அல்லது இழந்துபோயோ இருந்தன.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Influence of Gaudapada",
+            "ta": "கௌடபாதரின் தாக்கம்"
+          },
+          "description": "Gaudapada’s idea that the world is an illusion strongly influenced Advaita philosophy.",
+          "en_description": "Gaudapada’s idea that the world is an illusion strongly influenced Advaita philosophy.",
+          "ta_description": "உலகம் மாயை என்ற கௌடபாதரின் சிந்தனை அத்வைத தத்துவத்தில் பெரும் தாக்கத்தை ஏற்படுத்தியது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Conversion of Northern India",
+            "ta": "வடஇந்தியாவின் மாற்றம்"
+          },
+          "description": "The ritual-focused Mimamsakas of the North were attracted to Shankara’s philosophical approach.",
+          "en_description": "The ritual-focused Mimamsakas of the North were attracted to Shankara’s philosophical approach.",
+          "ta_description": "கர்மகாண்டத்தில் மட்டும் ஈடுபட்டிருந்த வடஇந்திய மீமாம்ஸகர்கள் சங்கரரின் ஞானமார்க்க விளக்கத்தால் ஈர்க்கப்பட்டனர்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "ab_saaram_19_05",
+      "type": "default",
+      "title": {
+        "en": "Vaishnava Resistance in the South",
+        "ta": "தென்னிந்திய வைஷ்ணவ எதிர்ப்பு"
+      },
+      "description": "Southern Vaishnava scholars preserved an unbroken tradition that rejected the idea of the world as illusion.",
+      "en_description": "Southern Vaishnava scholars preserved an unbroken tradition that rejected the idea of the world as illusion.",
+      "ta_description": "உலகம் மாயை என்ற கருத்தை ஏற்காமல் தென்னிந்திய வைஷ்ணவ அறிஞர்கள் இடையறாத பாரம்பரியத்தை பாதுகாத்தனர்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Jnana and Karma Together",
+            "ta": "ஞானமும் கர்மமும் ஒன்றாக"
+          },
+          "description": "Vaishnava acharyas accepted both knowledge and action as meaningful spiritual paths.",
+          "en_description": "Vaishnava acharyas accepted both knowledge and action as meaningful spiritual paths.",
+          "ta_description": "வைஷ்ணவ ஆசார்யர்கள் ஞானத்தையும் கர்மத்தையும் இரண்டையும் முக்கியமான ஆன்மீக சாதனைகளாக ஏற்றனர்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Lineage Through Nathamuni and Ramanuja",
+            "ta": "நாதமுனி முதல் எம்பெருமானார் வரை"
+          },
+          "description": "The Vaishnava tradition continued through Nathamuni, Alavandar, and Ramanuja.",
+          "en_description": "The Vaishnava tradition continued through Nathamuni, Alavandar, and Ramanuja.",
+          "ta_description": "நாதமுனி, ஆளவந்தார், எம்பெருமானார் ஆகியோரின் மூலம் வைஷ்ணவ சமயம் இடையறாது தொடர்ந்தது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "ab_saaram_19_06",
+      "type": "default",
+      "title": {
+        "en": "Madhva and Northern Vaishnava Traditions",
+        "ta": "மத்வரும் வடஇந்திய வைஷ்ணவ மரபுகளும்"
+      },
+      "description": "Later Vaishnava schools also opposed the Advaita idea of an impersonal and illusory reality.",
+      "en_description": "Later Vaishnava schools also opposed the Advaita idea of an impersonal and illusory reality.",
+      "ta_description": "பின்னர் தோன்றிய வைஷ்ணவ மரபுகளும் அத்வைதத்தின் நிர்குண மற்றும் மாயா கோட்பாட்டை எதிர்த்தன.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Madhvacharya’s Dvaita",
+            "ta": "மத்வாசார்யரின் த்வைதம்"
+          },
+          "description": "Madhvacharya established the Dvaita school to strongly oppose Advaita philosophy.",
+          "en_description": "Madhvacharya established the Dvaita school to strongly oppose Advaita philosophy.",
+          "ta_description": "அத்வைதத்தை எதிர்க்க மத்வாசார்யர் த்வைத தத்துவத்தை நிறுவினார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Northern Vaishnava Sampradayas",
+            "ta": "வடஇந்திய வைஷ்ணவ சம்பிரதாயங்கள்"
+          },
+          "description": "Traditions like Gaudiya, Ramanandi, and Swaminarayan emphasized devotion to a personal God.",
+          "en_description": "Traditions like Gaudiya, Ramanandi, and Swaminarayan emphasized devotion to a personal God.",
+          "ta_description": "கௌடிய, ராமானந்தி, சுவாமிநாராயண போன்ற மரபுகள் தனிப்பட்ட பரமாத்மாவிடம் பக்தியை வலியுறுத்தின.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "ab_saaram_19_07",
+      "type": "default",
+      "title": {
+        "en": "Conclusion",
+        "ta": "முடிவுரை"
+      },
+      "description": "From the Vaishnava perspective, Vedantic history preserves the reality of the world, the individuality of the soul, and the grace of Sriman Narayana.",
+      "en_description": "From the Vaishnava perspective, Vedantic history preserves the reality of the world, the individuality of the soul, and the grace of Sriman Narayana.",
+      "ta_description": "வைஷ்ணவ பார்வையில் வேதாந்த வரலாறு உலகின் உண்மைத்தன்மை, ஜீவனின் தனித்துவம் மற்றும் ஸ்ரீமன் நாராயணனின் அருளை நிலைநிறுத்துகிறது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Reality of the World",
+            "ta": "உலகின் உண்மைத்தன்மை"
+          },
+          "description": "Vaishnava philosophy accepts the world as a real manifestation of Bhagavan.",
+          "en_description": "Vaishnava philosophy accepts the world as a real manifestation of Bhagavan.",
+          "ta_description": "வைஷ்ணவ சித்தாந்தம் உலகை பகவானின் உண்மையான வெளிப்பாடாக ஏற்கிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Grace of Sriman Narayana",
+            "ta": "ஸ்ரீமன் நாராயணனின் அருள்"
+          },
+          "description": "Liberation is ultimately attained through the infinite grace of Sriman Narayana.",
+          "en_description": "Liberation is ultimately attained through the infinite grace of Sriman Narayana.",
+          "ta_description": "இறுதியில் மோக்ஷம் ஸ்ரீமன் நாராயணனின் எல்லையற்ற அருளால் கிடைக்கிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    }
+  ]
+}
