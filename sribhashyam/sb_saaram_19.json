@@ -1,9 +1,9 @@
 {
-  "topicId": "ab_saaram_19",
+  "topicId": "sb_saaram_19",
   "topicTitle": "The History of Vedanta: A Vaishnava Perspective",
   "cards": [
     {
-      "id": "ab_saaram_19_01",
+      "id": "sb_saaram_19_01",
       "type": "default",
       "title": {
         "en": "Introduction: Uttamur Swami and His Legacy",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "id": "ab_saaram_19_02",
+      "id": "sb_saaram_19_02",
       "type": "default",
       "title": {
         "en": "Ancient Tradition of Vedantic Inquiry",
@@ -49,10 +49,10 @@
       },
       "description": "Vedanta is a living philosophical tradition rooted in inquiry and reflection, not a frozen or unquestionable ideology. It began as a Vichara (investigation) among ancient Rishis. The Brahma Sutras were born from these collective deliberations. Just as Sage Panini composed concise sutras for Grammar (Vyakarana) and Sage Patanjali later wrote the Mahabhashya (Great Commentary) to explain them, Sage Vyasa condensed the essence of the Upanishads into the Brahma Sutras.",
       "en_description": "Vedanta is a living philosophical tradition rooted in inquiry and reflection, not a frozen or unquestionable ideology. It began as a Vichara (investigation) among ancient Rishis. The Brahma Sutras were born from these collective deliberations. Just as Sage Panini composed concise sutras for Grammar (Vyakarana) and Sage Patanjali later wrote the Mahabhashya (Great Commentary) to explain them, Sage Vyasa condensed the essence of the Upanishads into the Brahma Sutras.",
-      "ta_description": "வேதாந்தம் என்பது நிலையான கோட்பாடு அல்ல; அது முனிவர்களின் ஆழமான விசாரணைகளும் விவாதங்களும் மூலம் வளர்ந்தது.",
+      "ta_description": "வேதாந்தம் என்பது கேள்விக்கிடமற்ற அல்லது உறைந்த கோட்பாடு அல்ல; அது விசாரணையும் ஆழ்ந்த சிந்தனையும் அடிப்படையாகக் கொண்ட துடிப்பான தத்துவ மரபாகும். இது பண்டைய ரிஷிகளுக்கிடையே நடைபெற்ற “விசாரம்” (தத்துவ ஆராய்ச்சி) மூலம் ஆரம்பமானது. அந்தக் கூட்டு விவாதங்களும் தத்துவ பரிசீலனைகளும் ஒன்றிணைந்து பிரம்ம சூத்திரங்களாக உருவாயின. இலக்கணத்திற்காக (வியாகரணம்) பாணினி முனிவர் சுருக்கமான சூத்திரங்களை இயற்றியதுபோலவும், பின்னர் பதஞ்சலி முனிவர் அவற்றை விளக்க மகாபாஷ்யத்தை அருளியதுபோலவும், மகரிஷி வியாசர் உபநிஷத்துகளின் சாரத்தைச் சுருக்கமாக பிரம்ம சூத்திரங்களாக அமைத்தார்.",
       "image": {
-        "src": "",
-        "caption": ""
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/05/sb_saaram_19_img01.png",
+        "caption": "Birth of brahmasutras from philosophical debate"
       },
       "video": {
         "videoname": ""
@@ -79,12 +79,12 @@
         {
           "type": "default",
           "title": {
-            "en": "Debates Among Rishis",
-            "ta": "ரிஷிகளின் விவாதங்கள்"
+            "en": "Living Debates in the Commentaries",
+            "ta": "உரைகளில் உயிரோட்டமுள்ள விவாதங்கள்"
           },
-          "description": "The Brahma Sutras preserve debates about renunciation, liberation, and the nature of the soul.",
-          "en_description": "The Brahma Sutras preserve debates about renunciation, liberation, and the nature of the soul.",
-          "ta_description": "சந்நியாசம், மோக்ஷம் மற்றும் ஜீவாத்மாவின் இயல்பு போன்ற தலைப்புகளில் முனிவர்களின் விவாதங்கள் பிரம்ம சூத்திரங்களில் காணப்படுகின்றன.",
+          "description": "Reading the commentaries on the Brahma Sutras feels like witnessing a live philosophical debate. One scholar raises objections (Purvapaksha), while another responds with the established conclusion (Siddhanta). Uttamur Swami notes that the Brahma Sutras themselves record these early debates among Rishis on topics such as the necessity of Sanyasa (renunciation) and the nature of the soul.",
+          "en_description": "Reading the commentaries on the Brahma Sutras feels like witnessing a live philosophical debate. One scholar raises objections (Purvapaksha), while another responds with the established conclusion (Siddhanta). Uttamur Swami notes that the Brahma Sutras themselves record these early debates among Rishis on topics such as the necessity of Sanyasa (renunciation) and the nature of the soul.",
+          "ta_description": "பிரம்ம சூத்திர உரைகளை வாசிக்கும் போது, நேரடியாக நடைபெறும் தத்துவ விவாதத்தைப் பார்ப்பது போன்ற அனுபவம் ஏற்படுகிறது. ஒருவர் ‘பூர்வபக்ஷம்’ எனும் எதிர்வாதத்தை முன்வைக்க, மற்றொருவர் ‘சித்தாந்தம்’ மூலம் அதற்கான தீர்வை வழங்குகிறார். சந்நியாசத்தின் அவசியம் மற்றும் ஜீவாத்மாவின் இயல்பு போன்ற தலைப்புகளில் ரிஷிகளுக்கிடையே நடைபெற்ற பண்டைய விவாதங்களைப் பிரம்ம சூத்திரங்களே பதிவு செய்து பாதுகாத்துள்ளன என்று உத்தமூர் ஸ்வாமிகள் குறிப்பிடுகிறார்.",
           "image": {
             "src": "",
             "caption": ""
@@ -97,18 +97,18 @@
       ]
     },
     {
-      "id": "ab_saaram_19_03",
+      "id": "sb_saaram_19_03",
       "type": "default",
       "title": {
-        "en": "Three Ancient Views on Soul and God",
+        "en": "Three Ancient Views on the Soul and God",
         "ta": "ஜீவாத்மா மற்றும் பரமாத்மா பற்றிய மூன்று பண்டைய கருத்துகள்"
       },
-      "description": "Ancient sages proposed different interpretations of the relationship between the soul and God.",
-      "en_description": "Ancient sages proposed different interpretations of the relationship between the soul and God.",
-      "ta_description": "ஜீவாத்மாவுக்கும் பரமாத்மாவுக்கும் உள்ள உறவைப் பற்றி பண்டைய முனிவர்கள் பல்வேறு கருத்துகளை முன்வைத்தனர்.",
+      "description": "In the Vakyanvaya Adhikarana of the Brahma Sutras, Sage Vyasa presents a profound philosophical discussion concerning the relationship between the individual soul (Jivatma) and the Supreme Reality (Paramatma). Rather than declaring a single view without discussion, Vyasa carefully records multiple interpretations that were already being debated among ancient Rishis and Vedantic thinkers. This demonstrates that Vedanta evolved through deep inquiry and intellectual deliberation.\n Within this section, Vyasa mentions three significant viewpoints proposed by different sages. One group understood the soul and God to be fundamentally one in essence. Another accepted a distinction during worldly existence but believed that the soul ultimately becomes one with the Supreme upon liberation. A third interpretation explained that the Paramatma eternally exists within the Jivatma as the Antaryami (Inner Controller), making their relationship inseparable while still preserving distinction.\nBy preserving these differing perspectives within the Brahma Sutras themselves, Vyasa reveals the richness and diversity of early Vedantic thought. These discussions later became the philosophical foundations upon which major Vedantic schools such as Advaita, Vishishtadvaita, and other traditions developed their interpretations.",
+      "en_description": "In the Vakyanvaya Adhikarana of the Brahma Sutras, Sage Vyasa presents a profound philosophical discussion concerning the relationship between the individual soul (Jivatma) and the Supreme Reality (Paramatma). Rather than declaring a single view without discussion, Vyasa carefully records multiple interpretations that were already being debated among ancient Rishis and Vedantic thinkers. This demonstrates that Vedanta evolved through deep inquiry and intellectual deliberation.\n Within this section, Vyasa mentions three significant viewpoints proposed by different sages. One group understood the soul and God to be fundamentally one in essence. Another accepted a distinction during worldly existence but believed that the soul ultimately becomes one with the Supreme upon liberation. A third interpretation explained that the Paramatma eternally exists within the Jivatma as the Antaryami (Inner Controller), making their relationship inseparable while still preserving distinction.\nBy preserving these differing perspectives within the Brahma Sutras themselves, Vyasa reveals the richness and diversity of early Vedantic thought. These discussions later became the philosophical foundations upon which major Vedantic schools such as Advaita, Vishishtadvaita, and other traditions developed their interpretations.",
+      "ta_description": "பிரம்ம சூத்திரங்களின் “வாக்க்யான்வய அதிகாரத்தில்”, ஜீவாத்மாவுக்கும் பரமாத்மாவுக்கும் உள்ள உறவைப் பற்றிய ஆழமான தத்துவ விவாதத்தை மகரிஷி வியாசர் முன்வைக்கிறார். அவர் எந்த ஒரு கருத்தையும் விவாதமின்றி இறுதியான உண்மையாக அறிவிக்காமல், ஏற்கனவே பண்டைய ரிஷிகளும் வேதாந்த சிந்தனையாளர்களும் ஆராய்ந்து வந்த பல்வேறு விளக்கங்களை கவனமாக பதிவு செய்கிறார். இதன் மூலம், வேதாந்தம் என்பது ஆழமான விசாரணை மற்றும் அறிவுசார் பரிசீலனைகளின் மூலம் வளர்ச்சி பெற்ற மரபு என்பதை உணர முடிகிறது.\nஇந்த அதிகாரத்தில், பல்வேறு முனிவர்களால் முன்வைக்கப்பட்ட மூன்று முக்கியமான கருத்துகளை வியாசர் எடுத்துரைக்கிறார். ஒரு கருத்துப்படி, ஜீவாத்மாவும் பரமாத்மாவும் அடிப்படையில் ஒன்றே. மற்றொரு கருத்துப்படி, சம்சார நிலையில் ஜீவன் பரமாத்மாவிலிருந்து வேறுபட்டதாக இருந்தாலும், மோக்ஷத்தை அடைந்த பின் அது பரம்பொருளுடன் ஒன்றாகிறது. மூன்றாவது கருத்துப்படி, பரமாத்மா ஜீவாத்மாவினுள் “அந்தர்யாமி”யாக நித்தியமாக உறைகிறார்; ஆகையால் இருவருக்கும் பிரிக்க முடியாத உறவு இருந்தாலும், தனித்துவமும் நிலைத்திருக்கிறது.\nஇந்த மாறுபட்ட கருத்துகளைப் பிரம்ம சூத்திரங்களிலேயே பதிவு செய்ததன் மூலம், ஆரம்பகால வேதாந்த சிந்தனையின் ஆழத்தையும் பல்வகைமையையும் வியாசர் வெளிப்படுத்துகிறார். பின்னாளில், இந்த விவாதங்களே அத்வைதம், விசிஷ்டாத்வைதம் மற்றும் பிற வேதாந்த மரபுகள் தங்களது தத்துவ விளக்கங்களை உருவாக்கிய அடித்தளங்களாக அமைந்தன.",
       "image": {
-        "src": "",
-        "caption": ""
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/05/sb_saaram_19_img02.png",
+        "caption": "Three Ancient Views on the Soul and God"
       },
       "video": {
         "videoname": ""
@@ -120,9 +120,9 @@
             "en": "Ashmarathya’s View",
             "ta": "ஆஷ்மரத்யரின் கருத்து"
           },
-          "description": "The soul and God are essentially one, like a clay pot arising from clay.",
-          "en_description": "The soul and God are essentially one, like a clay pot arising from clay.",
-          "ta_description": "மண் பானை மண்ணிலிருந்து தோன்றுவது போல, ஜீவாத்மாவும் பரமாத்மாவும் அடிப்படையில் ஒன்றே என்று ஆஷ்மரத்யர் கூறினார்.",
+          "description": "Sage Ashmarathya argued that the Jivatma and Paramatma are essentially one because the soul originates from the Supreme, just as a clay pot originates from clay.",
+          "en_description": "Sage Ashmarathya argued that the Jivatma and Paramatma are essentially one because the soul originates from the Supreme, just as a clay pot originates from clay.",
+          "ta_description": "மண் பானை மண்ணிலிருந்து தோன்றுவது போல, ஜீவாத்மாவும் பரமாத்மாவிலிருந்தே தோன்றுவதால் இரண்டும் அடிப்படையில் ஒன்றே என்று ஆஷ்மரத்யர் வாதிட்டார்.",
           "image": {
             "src": "",
             "caption": ""
@@ -138,9 +138,9 @@
             "en": "Audulomi’s View",
             "ta": "ஆஉதுலோமியின் கருத்து"
           },
-          "description": "The soul is different during samsara but becomes one with God in liberation.",
-          "en_description": "The soul is different during samsara but becomes one with God in liberation.",
-          "ta_description": "சம்சார நிலையில் ஜீவன் வேறுபட்டதாக இருந்தாலும், மோக்ஷத்தில் பகவானுடன் ஒன்றாகிறது என்று ஆஉதுலோமி கூறினார்.",
+          "description": "Sage Audulomi proposed that the soul remains distinct during Samsara but becomes one with God after attaining Moksha.",
+          "en_description": "Sage Audulomi proposed that the soul remains distinct during Samsara but becomes one with God after attaining Moksha.",
+          "ta_description": "சம்சார நிலையில் ஜீவன் தனித்துவமாக இருந்தாலும், மோக்ஷத்தை அடைந்த பின் பகவானுடன் ஒன்றாகிறது என்று ஆஉதுலோமி கூறினார்.",
           "image": {
             "src": "",
             "caption": ""
@@ -156,9 +156,27 @@
             "en": "Kasakritsna’s View",
             "ta": "காசக்ருத்ஸ்னரின் கருத்து"
           },
-          "description": "God exists within the soul as the Inner Controller (Antaryami), forming an inseparable relationship.",
-          "en_description": "God exists within the soul as the Inner Controller (Antaryami), forming an inseparable relationship.",
-          "ta_description": "பரமாத்மா ஜீவனுள் அந்தர்யாமியாக இருப்பதால், இருவருக்கும் பிரிக்க முடியாத உறவு உள்ளது என்று காசக்ருத்ஸ்னர் கூறினார்.",
+          "description": "Sage Kasakritsna taught that Paramatma exists within the Jivatma as the Antaryami (Inner Controller). Therefore, scriptural statements of oneness refer to this inseparable indwelling relationship.",
+          "en_description": "Sage Kasakritsna taught that Paramatma exists within the Jivatma as the Antaryami (Inner Controller). Therefore, scriptural statements of oneness refer to this inseparable indwelling relationship.",
+          "ta_description": "பரமாத்மா ஜீவனுள் அந்தர்யாமியாக இருப்பதால், சாஸ்திரங்களில் கூறப்படும் ‘ஒன்றே’ என்ற கருத்து இந்த பிரிக்க முடியாத உள்ளார்ந்த உறவைக் குறிக்கிறது என்று காசக்ருத்ஸ்னர் விளக்கினார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Ramanuja’s Interpretation",
+            "ta": "எம்பெருமானாரின் விளக்கம்"
+          },
+          "description": "Ramanujacharya later emphasized that Sage Vyasa ultimately favored Kasakritsna’s interpretation, which became the philosophical foundation of Vishishtadvaita Vedanta.",
+          "en_description": "Ramanujacharya later emphasized that Sage Vyasa ultimately favored Kasakritsna’s interpretation, which became the philosophical foundation of Vishishtadvaita Vedanta.",
+          "ta_description": "வியாசர் இறுதியில் காசக்ருத்ஸ்னரின் கருத்தையே ஏற்றுக்கொண்டார் என்பதை ஸ்ரீ ராமானுஜர் வலியுறுத்தினார். இதுவே விசிஷ்டாத்வைத வேதாந்தத்தின் அடித்தளமாக அமைந்தது.",
           "image": {
             "src": "",
             "caption": ""
@@ -171,7 +189,7 @@
       ]
     },
     {
-      "id": "ab_saaram_19_04",
+      "id": "sb_saaram_19_04",
       "type": "default",
       "title": {
         "en": "Rise of Advaita",
@@ -245,15 +263,15 @@
       ]
     },
     {
-      "id": "ab_saaram_19_05",
+      "id": "sb_saaram_19_05",
       "type": "default",
       "title": {
-        "en": "Vaishnava Resistance in the South",
-        "ta": "தென்னிந்திய வைஷ்ணவ எதிர்ப்பு"
+        "en": "Vaishnava Resistance in Southern India",
+        "ta": "தென்னிந்திய வைஷ்ணவ அறிஞர்களின் நிலைப்பாடு"
       },
-      "description": "Southern Vaishnava scholars preserved an unbroken tradition that rejected the idea of the world as illusion.",
-      "en_description": "Southern Vaishnava scholars preserved an unbroken tradition that rejected the idea of the world as illusion.",
-      "ta_description": "உலகம் மாயை என்ற கருத்தை ஏற்காமல் தென்னிந்திய வைஷ்ணவ அறிஞர்கள் இடையறாத பாரம்பரியத்தை பாதுகாத்தனர்.",
+      "description": "Although Advaita spread widely in Northern India, it did not gain the same dominance among the Vaishnava scholars of the South. These scholars were already deeply rooted in a system that combined both Jnana (Knowledge) and Karma (Action).",
+      "en_description": "Although Advaita spread widely in Northern India, it did not gain the same dominance among the Vaishnava scholars of the South. These scholars were already deeply rooted in a system that combined both Jnana (Knowledge) and Karma (Action).",
+      "ta_description": "அத்வைதம் வடஇந்தியாவில் பரவலாகப் பரவியிருந்தாலும், தென்னிந்திய வைஷ்ணவ அறிஞர்களிடையே அதே அளவிலான ஆதிக்கத்தை அது பெறவில்லை. ஏனெனில், அவர்கள் ஏற்கனவே ஞானம் (ஜ்ஞானம்) மற்றும் கர்மம் (செயல்) இரண்டையும் ஒருங்கிணைத்த ஆன்மீக மற்றும் தத்துவ மரபில் ஆழமாக வேரூன்றியிருந்தனர்.",
       "image": {
         "src": "",
         "caption": ""
@@ -266,11 +284,11 @@
           "type": "default",
           "title": {
             "en": "Jnana and Karma Together",
-            "ta": "ஞானமும் கர்மமும் ஒன்றாக"
+            "ta": "ஞானமும் கர்மமும் இணைந்த பாதை"
           },
-          "description": "Vaishnava acharyas accepted both knowledge and action as meaningful spiritual paths.",
-          "en_description": "Vaishnava acharyas accepted both knowledge and action as meaningful spiritual paths.",
-          "ta_description": "வைஷ்ணவ ஆசார்யர்கள் ஞானத்தையும் கர்மத்தையும் இரண்டையும் முக்கியமான ஆன்மீக சாதனைகளாக ஏற்றனர்.",
+          "description": "Southern Vaishnava scholars already possessed a tradition that harmonized both Jnana and Karma. They believed that rituals without knowledge were incomplete, but they did not accept the idea that the world and individuality were illusions.",
+          "en_description": "Southern Vaishnava scholars already possessed a tradition that harmonized both Jnana and Karma. They believed that rituals without knowledge were incomplete, but they did not accept the idea that the world and individuality were illusions.",
+          "ta_description": "தென்னிந்திய வைஷ்ணவ அறிஞர்கள், ஞானமும் கர்மமும் இணைந்த ஆன்மீக மரபில் நிலைத்திருந்தனர். ஞானமில்லாத கர்மம் முழுமையற்றது என்பதை அவர்கள் ஏற்றுக்கொண்டாலும், உலகமும் ஜீவனின் தனித்துவமும் மாயை என்ற கருத்தை ஏற்கவில்லை.",
           "image": {
             "src": "",
             "caption": ""
@@ -283,12 +301,12 @@
         {
           "type": "default",
           "title": {
-            "en": "Lineage Through Nathamuni and Ramanuja",
-            "ta": "நாதமுனி முதல் எம்பெருமானார் வரை"
+            "en": "Unbroken Lineage of Acharyas",
+            "ta": "இடையறாத ஆசார்ய பரம்பரை"
           },
-          "description": "The Vaishnava tradition continued through Nathamuni, Alavandar, and Ramanuja.",
-          "en_description": "The Vaishnava tradition continued through Nathamuni, Alavandar, and Ramanuja.",
-          "ta_description": "நாதமுனி, ஆளவந்தார், எம்பெருமானார் ஆகியோரின் மூலம் வைஷ்ணவ சமயம் இடையறாது தொடர்ந்தது.",
+          "description": "The Vaishnava tradition continued uninterrupted through great Acharyas such as Nathamuni, Alavandar, and Ramanuja, eventually spreading throughout the world.",
+          "en_description": "The Vaishnava tradition continued uninterrupted through great Acharyas such as Nathamuni, Alavandar, and Ramanuja, eventually spreading throughout the world.",
+          "ta_description": "நாதமுனிகள், ஆளவந்தார், எம்பெருமானார் போன்ற மகான் ஆசார்யர்களின் மூலம் வைஷ்ணவ சம்பிரதாயம் இடையறாது தொடர்ந்தது; பின்னர் அது உலகம் முழுவதும் பரவியது.",
           "image": {
             "src": "",
             "caption": ""
@@ -301,15 +319,15 @@
       ]
     },
     {
-      "id": "ab_saaram_19_06",
+      "id": "sb_saaram_19_06",
       "type": "default",
       "title": {
-        "en": "Madhva and Northern Vaishnava Traditions",
-        "ta": "மத்வரும் வடஇந்திய வைஷ்ணவ மரபுகளும்"
+        "en": "Madhva and Other Northern Vaishnava Traditions",
+        "ta": "மத்வரும் பிற வடஇந்திய வைஷ்ணவ மரபுகளும்"
       },
-      "description": "Later Vaishnava schools also opposed the Advaita idea of an impersonal and illusory reality.",
-      "en_description": "Later Vaishnava schools also opposed the Advaita idea of an impersonal and illusory reality.",
-      "ta_description": "பின்னர் தோன்றிய வைஷ்ணவ மரபுகளும் அத்வைதத்தின் நிர்குண மற்றும் மாயா கோட்பாட்டை எதிர்த்தன.",
+      "description": "Several later Vaishnava traditions also arose in response to Advaita philosophy and upheld devotion to a personal God.",
+      "en_description": "Several later Vaishnava traditions also arose in response to Advaita philosophy and upheld devotion to a personal God.",
+      "ta_description": "பின்னர் தோன்றிய பல வைஷ்ணவ மரபுகளும் அத்வைத சித்தாந்தத்திற்கு பதிலளிக்கும் விதமாக உருவாகி, தனிப்பட்ட பரமாத்மாவை வணங்கும் பக்தியை வலியுறுத்தின.",
       "image": {
         "src": "",
         "caption": ""
@@ -321,12 +339,12 @@
         {
           "type": "default",
           "title": {
-            "en": "Madhvacharya’s Dvaita",
-            "ta": "மத்வாசார்யரின் த்வைதம்"
+            "en": "Madhvacharya and Dvaita",
+            "ta": "மத்வாசார்யரும் த்வைத சித்தாந்தமும்"
           },
-          "description": "Madhvacharya established the Dvaita school to strongly oppose Advaita philosophy.",
-          "en_description": "Madhvacharya established the Dvaita school to strongly oppose Advaita philosophy.",
-          "ta_description": "அத்வைதத்தை எதிர்க்க மத்வாசார்யர் த்வைத தத்துவத்தை நிறுவினார்.",
+          "description": "Madhvacharya strongly opposed the concept of an impersonal God and an illusory world. Using his intellectual brilliance, he established the Dvaita school of Vedanta.",
+          "en_description": "Madhvacharya strongly opposed the concept of an impersonal God and an illusory world. Using his intellectual brilliance, he established the Dvaita school of Vedanta.",
+          "ta_description": "நிர்குண பரமாத்மாவும் மாயையான உலகமும் என்ற கருத்தை மத்வாசார்யர் தீவிரமாக எதிர்த்தார். தனது அசாதாரண ஞானத்தின் மூலம் அவர் த்வைத வேதாந்தத்தை நிறுவினார்.",
           "image": {
             "src": "",
             "caption": ""
@@ -339,12 +357,12 @@
         {
           "type": "default",
           "title": {
-            "en": "Northern Vaishnava Sampradayas",
-            "ta": "வடஇந்திய வைஷ்ணவ சம்பிரதாயங்கள்"
+            "en": "Gaudiya, Ramanandi and Swaminarayan Traditions",
+            "ta": "கௌடிய, ராமானந்தி மற்றும் சுவாமிநாராயண மரபுகள்"
           },
-          "description": "Traditions like Gaudiya, Ramanandi, and Swaminarayan emphasized devotion to a personal God.",
-          "en_description": "Traditions like Gaudiya, Ramanandi, and Swaminarayan emphasized devotion to a personal God.",
-          "ta_description": "கௌடிய, ராமானந்தி, சுவாமிநாராயண போன்ற மரபுகள் தனிப்பட்ட பரமாத்மாவிடம் பக்தியை வலியுறுத்தின.",
+          "description": "Traditions such as the Gaudiya Sampradaya (ISKCON), Ramanandi, and Swaminarayan trace their roots to earlier Vaishnava schools and emphasize devotion to a personal God such as Rama or Krishna.",
+          "en_description": "Traditions such as the Gaudiya Sampradaya (ISKCON), Ramanandi, and Swaminarayan trace their roots to earlier Vaishnava schools and emphasize devotion to a personal God such as Rama or Krishna.",
+          "ta_description": "கௌடிய சம்பிரதாயம் (இஸ்கான்), ராமானந்தி, சுவாமிநாராயண மரபுகள் போன்றவை பழைய வைஷ்ணவ சித்தாந்தங்களில் வேரூன்றியவை. இவை அனைத்தும் ராமர் அல்லது கிருஷ்ணர் போன்ற தனிப்பட்ட பரமாத்மாவிடம் பக்தியை வலியுறுத்துகின்றன.",
           "image": {
             "src": "",
             "caption": ""
@@ -357,15 +375,15 @@
       ]
     },
     {
-      "id": "ab_saaram_19_07",
+      "id": "sb_saaram_19_07",
       "type": "default",
       "title": {
         "en": "Conclusion",
         "ta": "முடிவுரை"
       },
-      "description": "From the Vaishnava perspective, Vedantic history preserves the reality of the world, the individuality of the soul, and the grace of Sriman Narayana.",
-      "en_description": "From the Vaishnava perspective, Vedantic history preserves the reality of the world, the individuality of the soul, and the grace of Sriman Narayana.",
-      "ta_description": "வைஷ்ணவ பார்வையில் வேதாந்த வரலாறு உலகின் உண்மைத்தன்மை, ஜீவனின் தனித்துவம் மற்றும் ஸ்ரீமன் நாராயணனின் அருளை நிலைநிறுத்துகிறது.",
+      "description": "Uttamur Swami concludes that while Advaita is intellectually stimulating, its widespread popularity was partly due to the historical vacuum of other texts and the specific intellectual climate of the North during that era. Through a Vaishnava lens, we see a history of unbroken tradition that values the reality of the world, the distinctness of the soul, and the infinite grace of the Supreme Being, Sriman Narayana.",
+      "en_description": "Uttamur Swami concludes that while Advaita is intellectually stimulating, its widespread popularity was partly due to the historical vacuum of other texts and the specific intellectual climate of the North during that era. Through a Vaishnava lens, we see a history of unbroken tradition that values the reality of the world, the distinctness of the soul, and the infinite grace of the Supreme Being, Sriman Narayana.",
+      "ta_description": "அத்வைதம் அறிவுசார் ரீதியாக மிகவும் ஆழமும் சிந்தனையைத் தூண்டும் தன்மையும் கொண்டதாக இருந்தாலும், அதன் பரவலான புகழுக்கும் ஆதிக்கத்திற்கும் ஒரு காரணமாக அக்காலத்தில் பிற பண்டைய பாஷ்யங்கள் மற்றும் நூல்கள் இல்லாத நிலையும், வடஇந்தியாவின் குறிப்பிட்ட அறிவுசார் சூழலும் அமைந்தன என்று உத்தமூர் ஸ்வாமிகள் முடிவுறுத்துகிறார்.\nவைஷ்ணவ பார்வையின் மூலம் நாம் காண்பது, உலகின் உண்மைத்தன்மை, ஜீவாத்மாவின் தனித்துவம் மற்றும் பரம்பொருளான ஸ்ரீமன் நாராயணனின் எல்லையற்ற அருள் ஆகியவற்றை நிலைநிறுத்தி வந்த இடையறாத பாரம்பரிய வரலாறாகும்.",
       "image": {
         "src": "",
         "caption": ""
@@ -377,12 +395,12 @@
         {
           "type": "default",
           "title": {
-            "en": "Reality of the World",
-            "ta": "உலகின் உண்மைத்தன்மை"
+            "en": "Reality of the World and Soul",
+            "ta": "உலகின் உண்மையும் ஜீவனின் தனித்துவமும்"
           },
-          "description": "Vaishnava philosophy accepts the world as a real manifestation of Bhagavan.",
-          "en_description": "Vaishnava philosophy accepts the world as a real manifestation of Bhagavan.",
-          "ta_description": "வைஷ்ணவ சித்தாந்தம் உலகை பகவானின் உண்மையான வெளிப்பாடாக ஏற்கிறது.",
+          "description": "From the Vaishnava perspective, the world is real, the soul remains distinct, and all existence is sustained by the Supreme Being.",
+          "en_description": "From the Vaishnava perspective, the world is real, the soul remains distinct, and all existence is sustained by the Supreme Being.",
+          "ta_description": "வைஷ்ணவ பார்வையில் உலகம் உண்மையானது; ஜீவன் தனித்துவமுடையது; அனைத்தும் பரமாத்மாவின் ஆதாரத்தில் நிலைத்து நிற்கின்றன.",
           "image": {
             "src": "",
             "caption": ""
@@ -398,12 +416,12 @@
             "en": "Grace of Sriman Narayana",
             "ta": "ஸ்ரீமன் நாராயணனின் அருள்"
           },
-          "description": "Liberation is ultimately attained through the infinite grace of Sriman Narayana.",
-          "en_description": "Liberation is ultimately attained through the infinite grace of Sriman Narayana.",
-          "ta_description": "இறுதியில் மோக்ஷம் ஸ்ரீமன் நாராயணனின் எல்லையற்ற அருளால் கிடைக்கிறது.",
+          "description": "Liberation is ultimately attained through the infinite grace and compassion of Sriman Narayana.",
+          "en_description": "Liberation is ultimately attained through the infinite grace and compassion of Sriman Narayana.",
+          "ta_description": "இறுதியில் மோக்ஷம் என்பது ஸ்ரீமன் நாராயணனின் எல்லையற்ற அருளாலும் தயையாலும் மட்டுமே கிடைக்கிறது.",
           "image": {
-            "src": "",
-            "caption": ""
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/05/sb_saaram_19_img03.png",
+            "caption": "Infinite grace and compassion of Sriman Narayana for all jeevaAtmas"
           },
           "video": {
             "videoname": ""
