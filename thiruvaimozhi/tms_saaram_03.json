@@ -214,7 +214,7 @@
       "slokam": null,
       "cards": [
         {
-          "type": "slokham",
+          "type": "default",
           "title": {
             "en": "Teaching of the Śvetāśvatara Upanishad",
             "ta": "ஶ்வேதாஶ்வதர உபநிஷத்தின் உபதேசம்"
