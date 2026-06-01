@@ -1,0 +1,613 @@
+{
+  "topicId": "tms_saaram_04",
+  "topicTitle": "Tattva-trayam and True Knowledge",
+  "cards": [
+    {
+      "id": "tms_saaram_04_01",
+      "type": "default",
+      "title": {
+        "en": "Tattva-trayam (The Three Fundamental Realities)",
+        "ta": "தத்வத்ரயம்"
+      },
+      "description": "There are three eternal realities: Acit, Cit, and Ishvara. Correctly understanding these three realities is called Tattva-jnana.",
+      "en_description": "There are three eternal realities: Acit, Cit, and Ishvara. Correctly understanding these three realities is called Tattva-jnana.",
+      "ta_description": "உண்மைப் பொருள்கள் மூன்று: அசித், சித், ஈஶ்வரன். இந்த மூன்றையும் சரியாக அறிதலே தத்வ ஞானம்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Acit (Insentient Matter)",
+            "ta": "அசித்"
+          },
+          "description": "Everything that can be perceived by the senses and lacks consciousness is called acit. This includes the physical body, material objects, and prakriti.",
+          "en_description": "Everything that can be perceived by the senses and lacks consciousness is called acit. This includes the physical body, material objects, and prakriti.",
+          "ta_description": "கண்ணால் காணக்கூடிய, அறிவற்ற பொருள்கள் அனைத்தும் அசித். உடல், உலகப் பொருட்கள், ப்ரக்ருதி முதலியவை இதில் அடங்கும்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Cit (Sentient Self)",
+            "ta": "சித்"
+          },
+          "description": "The jivatma that resides within the body. It is conscious, possesses knowledge, and is capable of experience.",
+          "en_description": "The jivatma that resides within the body. It is conscious, possesses knowledge, and is capable of experience.",
+          "ta_description": "அசித்துக்குள் உறைகின்ற ஜீவாத்மா. அறிவு உடையவன். அனுபவிக்கும் தன்மை உடையவன்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Ishvara (The Supreme Lord)",
+            "ta": "ஈஶ்வரன்"
+          },
+          "description": "The Supreme Self, Sriman Narayana, who indwells both cit and acit, controls them, and governs all existence.",
+          "en_description": "The Supreme Self, Sriman Narayana, who indwells both cit and acit, controls them, and governs all existence.",
+          "ta_description": "சித் மற்றும் அசித் இரண்டினுள்ளும் உறைந்து, இரண்டையும் நியமித்து நடத்துபவன் பரமாத்மா — ஸ்ரீமந் நாராயணன்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_02",
+      "type": "default",
+      "title": {
+        "en": "Three Types of Spiritual Seekers",
+        "ta": "மூன்று வகை அதிகாரிகள்"
+      },
+      "description": "There are three kinds of seekers: Aiśvaryārthi, Kaivalyārthi, and Bhagavallābhārthi.",
+      "en_description": "There are three kinds of seekers: Aiśvaryārthi, Kaivalyārthi, and Bhagavallābhārthi.",
+      "ta_description": "மூன்று வகை அதிகாரிகள்: ஐஶ்வர்யார்த்தி, கைவல்யார்த்தி, பகவல்லாபார்த்தி.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Aiśvaryārthi",
+            "ta": "ஐஶ்வர்யார்த்தி"
+          },
+          "description": "One who desires worldly pleasures and bodily comforts. Such a person approaches the Lord and prays for material well-being.",
+          "en_description": "One who desires worldly pleasures and bodily comforts. Such a person approaches the Lord and prays for material well-being.",
+          "ta_description": "உடம்பால் கிடைக்கும் சுகம், உலக அனுபவங்களை விரும்புபவன். அவனும் எம்பெருமானிடமே சென்று “எனக்கு உடல் சுகம் வேண்டும்” என்று வேண்டுகிறான்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Kaivalyārthi",
+            "ta": "கைவல்யார்த்தி"
+          },
+          "description": "One who realizes that bodily pleasures are inferior and desires self-realization, seeking the bliss of experiencing the soul itself.",
+          "en_description": "One who realizes that bodily pleasures are inferior and desires self-realization, seeking the bliss of experiencing the soul itself.",
+          "ta_description": "உடல் சுகம் தாழ்ந்தது என்று உணர்ந்தவன். “நான் ஆத்மாவாக இருக்கிறேன்; ஆத்மானுபவமே வேண்டும்” என்று விரும்புபவன். இவனும் எம்பெருமானிடமே சென்று ஆத்மானுபவத்தை வேண்டுகிறான்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Bhagavallābhārthi",
+            "ta": "பகவல்லாபார்த்தி"
+          },
+          "description": "One who desires only the experience of the Lord Himself. For him, Bhagavad-anubhava is the ultimate goal. Among such devotees, the foremost is Swami Nammalvar.",
+          "en_description": "One who desires only the experience of the Lord Himself. For him, Bhagavad-anubhava is the ultimate goal. Among such devotees, the foremost is Swami Nammalvar.",
+          "ta_description": "எம்பெருமானையே அனுபவிக்க விரும்புபவன். “எம்பெருமானே! உன்னை அனுபவிக்க வேண்டும்” என்று எம்பெருமானிடம் வேண்டுகிறான். பகவத் அனுபவமே அவனுடைய குறிக்கோள். இவர்களுள் தலைவர் ஸ்வாமி நம்மாழ்வார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_03",
+      "type": "default",
+      "title": {
+        "en": "What is True Knowledge?",
+        "ta": "எது உண்மையான ஞானம்?"
+      },
+      "description": "True knowledge is knowledge concerning the Lord.",
+      "en_description": "True knowledge is knowledge concerning the Lord.",
+      "ta_description": "எம்பெருமானைப் பற்றியதே உண்மையான ஞானம்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Incomplete and Complete Knowledge",
+            "ta": "முழுமையற்ற மற்றும் முழுமையான ஞானம்"
+          },
+          "description": "Aiśvaryārthis remain attached to worldly enjoyment. Kaivalyārthis stop with self-experience. Nammalvar's knowledge was complete and perfect, for he remained established solely in the experience of the Lord.",
+          "en_description": "Aiśvaryārthis remain attached to worldly enjoyment. Kaivalyārthis stop with self-experience. Nammalvar's knowledge was complete and perfect, for he remained established solely in the experience of the Lord.",
+          "ta_description": "எம்பெருமானைப் பற்றி அறிந்தபிறகும், ஐஶ்வர்யார்த்திகள் உடல் சுகத்தில் நின்றுவிடுகிறார்கள்; கைவல்யார்த்திகள் ஆத்மானுபவத்தில் நின்றுவிடுகிறார்கள். ஆனால், ஆழ்வாரின் ஞானம் முழுமையானது. அவர் பகவத் அனுபவத்திலேயே நிலைத்து நின்றவர்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_04",
+      "type": "default",
+      "title": {
+        "en": "Evidence from Poigai Alvar",
+        "ta": "பொய்கை ஆழ்வார் பாசுர ப்ரமாணம்"
+      },
+      "description": "Poigai Alvar teaches that the awareness of true knowers turns only toward the Lord, just as rivers move toward the ocean and lotuses turn toward the sun.",
+      "en_description": "Poigai Alvar teaches that the awareness of true knowers turns only toward the Lord, just as rivers move toward the ocean and lotuses turn toward the sun.",
+      "ta_description": "‘பெயரும் கருங்கடலே நோக்குமாறு ஒண்பூ உயரும் கதிரவனே நோக்கும் உயிரும் தருமனையே நோக்குமொண்டாமரையாள் கேள்வன் ஒருவனையே நோக்கும் உணர்வு.’",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": {
+        "text": "பெயரும் கருங்கடலே நோக்குமாறு ஒண்பூ உயரும் கதிரவனே நோக்கும் உயிரும் தருமனையே நோக்குமொண்டாமரையாள் கேள்வன் ஒருவனையே நோக்கும் உணர்வு",
+        "meaning": "Just as rivers move toward the ocean and lotuses turn toward the sun, the awareness of true knowers turns only toward the Lord."
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Meaning of the Pasuram",
+            "ta": "பாசுரத்தின் பொருள்"
+          },
+          "description": "Rivers move toward the ocean, lotuses turn toward the sun, sinful souls move toward Yama, and the wisdom of true knowers is directed exclusively toward Sriman Narayana.",
+          "en_description": "Rivers move toward the ocean, lotuses turn toward the sun, sinful souls move toward Yama, and the wisdom of true knowers is directed exclusively toward Sriman Narayana.",
+          "ta_description": "நதி எப்போதும் கடலையே நோக்கும். தாமரை மலர்வதற்காக சூரியனையே நோக்கும். ஜீவாத்மா பெரும்பாலும் பாபத்தையே செய்வதால் யமதர்மராஜனையே நோக்கும். அதுபோல, ஜ்ஞானிகளுடைய ஜ்ஞானமானது ஸ்ரீமந்நாராயணனையே நோக்கும் என்பதை ஆழ்வார் விளக்குகிறார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_05",
+      "type": "default",
+      "title": {
+        "en": "True Knowledge According to Parāśara Muni",
+        "ta": "பராசர முனிவர் கூறும் உண்மையான ஞானம்"
+      },
+      "description": "Parashara teaches that the Lord alone is free from all defects and untouched by impurity.",
+      "en_description": "Parashara teaches that the Lord alone is free from all defects and untouched by impurity.",
+      "ta_description": "எம்பெருமான் தோஷமற்றவன்; நிர்மலன்; ஏகரூபன்; அத்விதீயன்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "The Lord Alone is Pure",
+            "ta": "எம்பெருமான் மட்டுமே நிர்மலன்"
+          },
+          "description": "Prakriti undergoes change. The soul is superior to prakriti but becomes tainted through samsara. The Lord alone remains untouched by impurity.",
+          "en_description": "Prakriti undergoes change. The soul is superior to prakriti but becomes tainted through samsara. The Lord alone remains untouched by impurity.",
+          "ta_description": "ப்ரக்ருதி மாற்றத்துக்குட்பட்டது. ஆத்மா ப்ரக்ருதியைவிட உயர்ந்தது. ஆனால் ஆத்மாவுக்குக் கூட ஸம்ஸார ஸம்பந்தத்தால் அசுத்தி வருகிறது. ஆனால் எம்பெருமானுக்கு எந்த காலத்திலும் தோஷம் இல்லை.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "What Constitutes True Knowledge",
+            "ta": "உண்மையான ஞானம் எது?"
+          },
+          "description": "Knowledge of the Lord, constant contemplation of Him, and experience of Him alone constitute true knowledge.",
+          "en_description": "Knowledge of the Lord, constant contemplation of Him, and experience of Him alone constitute true knowledge.",
+          "ta_description": "எம்பெருமானைப் பற்றிய ஞானம், இடைவிடாமல் சிந்தனை, அனுபவம் இவை மட்டுமே உண்மையான ஞானம். மற்ற விஷயங்களில் உள்ள அனுபவங்கள் அனைத்தும் அஜ்ஞானம்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_06",
+      "type": "default",
+      "title": {
+        "en": "Prahlāda's Teaching",
+        "ta": "ப்ரஹ்லாதனின் உபதேசம்"
+      },
+      "description": "Prahlada teaches that since Govinda dwells in all beings, there can be no distinction between friend and enemy.",
+      "en_description": "Prahlada teaches that since Govinda dwells in all beings, there can be no distinction between friend and enemy.",
+      "ta_description": "எல்லோருக்குள்ளும் பகவான் கோவிந்தன் இருக்கிறான். அப்படியிருக்க, ஒருவனை நண்பன் என்றும் இன்னொருவனை சத்ரு என்றும் எப்படி பார்க்க முடியும்?",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": {
+        "text": "ஸர்வபூதாத்மகே தாத ஜகந்நாதே ஜகந்மயே பரமாத்மநி கோவிந்தே மித்ராமித்ர கதா குத:",
+        "meaning": "When Govinda dwells in all beings, how can there be friend and enemy?"
+      },
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_04_07",
+      "type": "default",
+      "title": {
+        "en": "Mistaking Ignorance for Knowledge",
+        "ta": "அஜ்ஞானத்தை ஞானம் என்று நினைப்பது"
+      },
+      "description": "People often mistake worldly cleverness and influence for wisdom.",
+      "en_description": "People often mistake worldly cleverness and influence for wisdom.",
+      "ta_description": "உலக ஸாமர்த்யம், அரசியல் நுணுக்கம், பிறரை வசப்படுத்துதல் இவற்றையே பெரிய ஞானம் என்று நினைக்கிறார்கள்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Prahlāda's Example",
+            "ta": "ப்ரஹ்லாதனின் உதாரணம்"
+          },
+          "description": "A child sees a firefly and mistakes it for fire. Likewise, people mistake worldly accomplishments for true wisdom.",
+          "en_description": "A child sees a firefly and mistakes it for fire. Likewise, people mistake worldly accomplishments for true wisdom.",
+          "ta_description": "ஒரு குழந்தை மின்மினிப் பூச்சியை பார்த்து ‘இதுதான் நெருப்பு’ என்று நினைக்கும். அதேபோல மனிதர்கள் உலக விஷயங்களை ஞானம் என்று நினைக்கிறார்கள்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "slokham",
+          "title": {
+            "en": "Knowledge that Leads to Liberation",
+            "ta": "மோக்ஷத்திற்கு உதவும் ஜ்ஞானம்"
+          },
+          "description": "Only knowledge that helps attain liberation is genuine knowledge.",
+          "en_description": "Only knowledge that helps attain liberation is genuine knowledge.",
+          "ta_description": "மோக்ஷத்திற்கு உதவும் ஜ்ஞானம்தான் உண்மையான ஜ்ஞானம்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": {
+            "text": "தத் கர்ம யந்ந பந்தாய ஸா வித்யா யா விமுக்தயே ஆயாஸாய அபரம் கர்ம வித்யாந்யா ஶில்ப நைபுணம்",
+            "meaning": "That knowledge which leads to liberation is true knowledge; all else is merely worldly skill."
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Swami Nampillai's Statement",
+            "ta": "ஸ்வாமி நம்பிள்ளையின் விளக்கம்"
+          },
+          "description": "Knowledge unrelated to the Lord should not be mistaken for supreme wisdom.",
+          "en_description": "Knowledge unrelated to the Lord should not be mistaken for supreme wisdom.",
+          "ta_description": "ஸ்வாமி நம்பிள்ளை, எம்பெருமானைத் தவிர்ந்த மற்றைய ஜ்ஞானமெல்லாம் 'செருப்புக்குத்த கற்றவோபாதி' என்று ஸாதித்தருளியுள்ளார். இது அவற்றை இழிவாகச் சொல்வதற்காக அல்ல; அவற்றை பரம ஜ்ஞானம் என்று நினைக்கக் கூடாது என்பதே தாத்பர்யம்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_08",
+      "type": "default",
+      "title": {
+        "en": "The Greatness of Swami Nammāḻvār",
+        "ta": "ஸ்வாமி நம்மாழ்வாரின் உயர்வு"
+      },
+      "description": "Among those who possess knowledge of the Lord, Swami Nammalvar stands foremost.",
+      "en_description": "Among those who possess knowledge of the Lord, Swami Nammalvar stands foremost.",
+      "ta_description": "எம்பெருமானைப் பற்றிய ஜ்ஞாநம் பெற்றவர்களுள் முதன்மையாகக் கொண்டாடப்படுபவர் ஸ்வாமி நம்மாழ்வார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Questions Raised by Great Scholars",
+            "ta": "பெரிய ஞானிகளின் வியப்பு"
+          },
+          "description": "Great scholars wondered whether Nammalvar is a Nitya-suri, a liberated soul, Bhagavan Himself, or an empowered divine incarnation.",
+          "en_description": "Great scholars wondered whether Nammalvar is a Nitya-suri, a liberated soul, Bhagavan Himself, or an empowered divine incarnation.",
+          "ta_description": "ஸ்வாமி நம்மாழ்வார் நித்யஶூரியா? முக்தாத்மாவா? பகவானேவா? அல்லது பகவானுடைய ஆவேச அவதாரமா? என்று பெரிய ஞானிகள் வியக்கிறார்கள்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_09",
+      "type": "default",
+      "title": {
+        "en": "Nammāḻvār's Own Wonder",
+        "ta": "ஆழ்வார் தம் நிலையை எண்ணி வியத்தல்"
+      },
+      "description": "Nammalvar marvels at how such an exalted state came to him.",
+      "en_description": "Nammalvar marvels at how such an exalted state came to him.",
+      "ta_description": "எனக்கு இந்த ஏற்றம் எப்படி வந்தது என்று எனக்கே தெரியவில்லை என்று ஆழ்வார் ஆஶ்சர்யப்படுகிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": {
+        "text": "வரவாறொன்றில்லை ஆல் வாழ்வினிதால் எல்லே ! ஒருவாறு ஒருவன் புகாவாறு உரு மாறும் ஆயவர் தாம் சேயவர் தாம் அன்றுலகம் தாயவர் தாம் மாயவர் தாம் காட்டும் வழி",
+        "meaning": "I do not know how this exalted state came to me through divine grace."
+      }
+    },
+    {
+      "id": "tms_saaram_04_10",
+      "type": "default",
+      "title": {
+        "en": "Even the Lord is Amazed",
+        "ta": "எம்பெருமானுக்கே ஆஶ்சர்யம்"
+      },
+      "description": "The Lord Himself is amazed by the depth, sweetness, and intensity with which Nammalvar experienced His divine qualities.",
+      "en_description": "The Lord Himself is amazed by the depth, sweetness, and intensity with which Nammalvar experienced His divine qualities.",
+      "ta_description": "தம்முடைய இவ்வளவு திருக்கல்யாண குணங்களை, இவ்வளவு ஆழமாக, இவ்வளவு ரஸமாக யாரும் அனுபவித்ததில்லையே என்று எம்பெருமானும் வியக்கும்படியாக இருக்கிறது ஆழ்வாருடைய ஏற்றம்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null
+    },
+    {
+      "id": "tms_saaram_04_11",
+      "type": "default",
+      "title": {
+        "en": "The Cruelty of Kali Yuga",
+        "ta": "கலியின் கொடுமை"
+      },
+      "description": "People neglect Vishnu and become deluded by false doctrines during Kali Yuga.",
+      "en_description": "People neglect Vishnu and become deluded by false doctrines during Kali Yuga.",
+      "ta_description": "கலியுகத்தில் மக்கள் விஷ்ணுவை நாடமாட்டார்கள்; பாஷண்டர்களால் மயங்கிப்போவார்கள்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Purpose of Nammalvar's Incarnation",
+            "ta": "ஆழ்வாரின் திருவவதார நோக்கம்"
+          },
+          "description": "To uplift souls in this difficult age, Nammalvar incarnated for the welfare of humanity.",
+          "en_description": "To uplift souls in this difficult age, Nammalvar incarnated for the welfare of humanity.",
+          "ta_description": "இப்படிப்பட்ட ஶ்ரமமான கலிகாலத்தில் நம்முடைய உஜ்ஜீவனத்திற்காகவே ஆழ்வார் திருவவதரித்தருளினார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_12",
+      "type": "default",
+      "title": {
+        "en": "Mahātmā is Very Rare",
+        "ta": "மஹாத்மா ஶுதுர்லப:"
+      },
+      "description": "Among thousands, only a rare soul truly strives to know the Lord.",
+      "en_description": "Among thousands, only a rare soul truly strives to know the Lord.",
+      "ta_description": "ஆயிரங்களில் ஒருவனே உண்மையாக எம்பெருமானை அடைய முயல்கிறான்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": {
+        "text": "மனுஷ்யாணாம் ஸஹஸ்ரேஷு கஸ்சித் யததி ஸித்தயே | யததாம் அபி ஸித்தானாம் கஶ்சின் மாம் வேத்தி தத்த்வத: ||",
+        "meaning": "Among thousands, scarcely one strives for perfection; among those striving, hardly one truly knows Me."
+      },
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "The Rare Mahatma",
+            "ta": "அரிய மஹாத்மா"
+          },
+          "description": "Such a rare Mahatma is Swami Nammalvar.",
+          "en_description": "Such a rare Mahatma is Swami Nammalvar.",
+          "ta_description": "அந்த மஹாத்மா — ஸ்வாமி நம்மாழ்வார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    },
+    {
+      "id": "tms_saaram_04_13",
+      "type": "default",
+      "title": {
+        "en": "Swami Nammāḻvār – The Sun that Dispels Inner Darkness",
+        "ta": "ஸ்வாமி நம்மாழ்வார் – உள்ளிருள் போக்கும் ஶூர்யன்"
+      },
+      "description": "The physical sun removes external darkness, but Swami Nammalvar removes the inner darkness of worldly beings.",
+      "en_description": "The physical sun removes external darkness, but Swami Nammalvar removes the inner darkness of worldly beings.",
+      "ta_description": "ஆதித்யன் வெளியிருளை போக்குகிறான். உள்ளிருளை அவனால் போக்கமுடியாது. ஸ்வாமி நம்மாழ்வாரே ஸம்ஸாரிகளின் உள்ளிருளை அகற்றுபவர்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Rama and Krishna as Divine Suns",
+            "ta": "ராமரும் கண்ணனும் திவ்ய சூரியர்கள்"
+          },
+          "description": "Rama is praised as Divākara and Krishna as Achyuta Bhānu. Rama destroyed demons through the rays of His arrows, while Krishna incarnated to bring joy to the world.",
+          "en_description": "Rama is praised as Divākara and Krishna as Achyuta Bhānu. Rama destroyed demons through the rays of His arrows, while Krishna incarnated to bring joy to the world.",
+          "ta_description": "ராமபிரான் ‘திவாகரன்’ என்றும், கண்ணன் ‘அச்சுத பானு’ என்றும் சொல்லப்படுகிறார்கள். ராமன் அம்புக்கிரணங்களால் அசுரர்களை அழித்தார். கண்ணன் உலக மகிழ்ச்சிக்காக திருவவதரித்தான்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Vakula-bhūṣaṇa Bhāskara",
+            "ta": "வகுளபூஷண பாஸ்கரர்"
+          },
+          "description": "Swami Nammalvar removes the inner darkness of samsaris and dries up the ocean of samsara. There is no refuge greater than him.",
+          "en_description": "Swami Nammalvar removes the inner darkness of samsaris and dries up the ocean of samsara. There is no refuge greater than him.",
+          "ta_description": "வகுளபூஷண பாஸ்கரராகிய ஸ்வாமி நம்மாழ்வாரே ஸம்ஸாரிகளின் உள்ளிருளை அகற்றி, பிறவிக்கடலை வற்றடிப்பவர். ஆக, ஆழ்வாரைத் தவிர நமக்கு வேறு கதி இல்லை.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+      ]
+    }
+  ]
+}
