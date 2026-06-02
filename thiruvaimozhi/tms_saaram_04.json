@@ -308,10 +308,50 @@
         "videoname": ""
       },
       "slokam": {
-        "sanskrit": "ஸர்வபூதாத்மகே தாத ஜகந்நாதே ஜகந்மயே பரமாத்மநி கோவிந்தே மித்ராமித்ர கதா குத:",
-        "transliteration": "When Govinda dwells in all beings, how can there be friend and enemy?"
+        "sanskrit": "सर्वभूतात्मके तात जगन्नाथे जगन्मये ।\nपरमात्मनि गोविन्दे मित्रामित्रकथा कुतः ॥",
+        "transliteration": "ஸர்வபூதாத்மகே தாத ஜகந்நாதே ஜகந்மயே பரமாத்மநி கோவிந்தே மித்ராமித்ர கதா குத:"
       },
-      "cards": []
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "Hiranyakashipu's Questions",
+            "ta": "ஹிரண்யகசிபுவின் கேள்விகள்"
+          },
+          "description": "In the Vishnu Purana, Hiranyakashipu questioned Prahlada: Who is a friend? Who is an enemy? Have you learned the methods of dealing with and subduing an enemy through sāma (conciliation), dāna (gifts), bheda (division), and daṇḍa (punishment)?",
+          "en_description": "In the Vishnu Purana, Hiranyakashipu questioned Prahlada: Who is a friend? Who is an enemy? Have you learned the methods of dealing with and subduing an enemy through sāma (conciliation), dāna (gifts), bheda (division), and daṇḍa (punishment)?",
+          "ta_description": "ஸ்ரீவிஷ்ணுபுராணத்தில் ஹிரண்யகசிபு, ப்ரஹ்லாதனைக் கேட்டான்: மித்ரன் யார்? அமித்ரன் யார்? வேண்டாதவனை வசப்படுத்துவதற்கான சாமம், தானம், பேதம், தண்டம் ஆகிய உபாயங்களைக் கற்றாயா?",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Prahlada's Reply",
+            "ta": "ப்ரஹ்லாதனின் பதில்"
+          },
+          "description": "Prahlada replied: 'When Govinda, the Supreme Self, dwells in all beings, is the Lord of the universe, and pervades all creation, how can there be any distinction between friend and enemy? Since the Lord resides within everyone, I do not perceive any difference such as friend and foe.'",
+          "en_description": "Prahlada replied: 'When Govinda, the Supreme Self, dwells in all beings, is the Lord of the universe, and pervades all creation, how can there be any distinction between friend and enemy? Since the Lord resides within everyone, I do not perceive any difference such as friend and foe.'",
+          "ta_description": "அதற்கு ப்ரஹ்லாதன் தெரிவித்ததாவது: 'ஸர்வபூதாத்மகே தாத ஜகந்நாதே ஜகந்மயே பரமாத்மநி கோவிந்தே மித்ராமித்ர கதா குத:'. 'எல்லோருக்குள்ளும் பகவான் கோவிந்தன் இருக்கிறான். அப்படியிருக்க, ஒருவனை நண்பன் என்றும் இன்னொருவனை சத்ரு என்றும் எப்படி பார்க்க முடியும்? எனக்கு மித்ரன், சத்ரு என்கிற வேறுபாடு தெரியவில்லை.'",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": {
+            "text": "ஸர்வபூதாத்மகே தாத ஜகந்நாதே ஜகந்மயே பரமாத்மநி கோவிந்தே மித்ராமித்ர கதா குத:",
+            "meaning": "When Govinda, the Supreme Self, dwells in all beings, how can there be any distinction between friend and enemy?"
+          }
+        }
+      ]
     },
     {
       "id": "tms_saaram_04_07",
