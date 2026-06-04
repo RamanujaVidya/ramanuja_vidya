@@ -598,18 +598,55 @@
         "en": "Swami Nammāḻvār – The Sun that Dispels Inner Darkness",
         "ta": "ஸ்வாமி நம்மாழ்வார் – உள்ளிருள் போக்கும் ஶூர்யன்"
       },
-      "description": "The sun can remove only external darkness; it cannot remove the darkness within the heart. However, devotees of Lord Vishnu can dispel even this inner darkness of ignorance.\nLord Rama is praised as 'Divākara' (the Sun). Lord Krishna is praised as 'Achyuta Bhānu' (the unfailing, radiant Sun). As Rama, the Divine Sun destroyed the demons with the rays of His arrows. As Krishna, the radiant Achyuta Sun incarnated for the joy and welfare of the world.\nBut how does that benefit us directly?\nIt is Swami Nammalvar, the Vakula-Bhushana Bhaskara (the Sun adorned with the vakula flower garland), who removes the inner darkness of worldly beings and dries up the vast ocean of repeated births and deaths (samsara). Therefore, apart from Nammalvar, we have no other refuge or path to liberation.",
-      "en_description": "The sun can remove only external darkness; it cannot remove the darkness within the heart. However, devotees of Lord Vishnu can dispel even this inner darkness of ignorance.\nLord Rama is praised as 'Divākara' (the Sun). Lord Krishna is praised as 'Achyuta Bhānu' (the unfailing, radiant Sun). As Rama, the Divine Sun destroyed the demons with the rays of His arrows. As Krishna, the radiant Achyuta Sun incarnated for the joy and welfare of the world.\nBut how does that benefit us directly?\nIt is Swami Nammalvar, the Vakula-Bhushana Bhaskara (the Sun adorned with the vakula flower garland), who removes the inner darkness of worldly beings and dries up the vast ocean of repeated births and deaths (samsara). Therefore, apart from Nammalvar, we have no other refuge or path to liberation.",
-      "ta_description": "வெளியிருளை போக்குகிறான். உள்ளிருளை அவனால் போக்கமுடியாது. விஷ்ணு பக்தர்கள் உள்ளிருளையும் போக்குவார்கள். ராமபிரான் “திவாகரன்” என்று சொல்லப்படுகிறார். கண்ணன் “அச்சுத பானு” என்று சொல்லப்படுகிறான். ராம திவாகரன் அம்புக்கூட்டமாகிய கிரணங்களாலே அசுரர்களை அழித்தார். அச்சுத பானுவாகிய கண்ணன் உலக மகிழ்ச்சிக்காக திருவவதரித்தான். இதனால் நமக்கு என்ன பயன்?? வகுளபூஷண பாஸ்கரராகிய ஸ்வாமி நம்மாழ்வாரே ஸம்ஸாரிகளின் உள்ளிருளை அகற்றி, பிறவிக்கடலை வற்றடிப்பவர். ஆக, ஆழ்வாரைத் தவிர நமக்கு வேறு கதி இல்லை.",
+      "description": "The sun can remove only external darkness; it cannot remove the darkness within the heart. However, devotees of Lord Vishnu can dispel even this inner darkness of ignorance.",
+      "en_description": "The sun can remove only external darkness; it cannot remove the darkness within the heart. However, devotees of Lord Vishnu can dispel even this inner darkness of ignorance.",
+      "ta_description": "வெளியிருளை போக்குகிறான். உள்ளிருளை அவனால் போக்கமுடியாது. விஷ்ணு பக்தர்கள் உள்ளிருளையும் போக்குவார்கள்.",
       "image": {
-        "src": "https://ramanujavidya.org/wp-content/uploads/2026/06/tms_saaram_04_img01.png",
-        "caption": "Nammazhwar is the only refuge in this kali yugam"
+        "src": "",
+        "caption": ""
       },
       "video": {
         "videoname": ""
       },
       "slokam": null,
-      "cards": []
+      "cards": [
+	   {
+          "type": "default",
+          "title": {
+            "en": "The Sun-like Glory of Rama and Krishna",
+            "ta": "திவாகர ராமனும் அச்சுத பானு கண்ணனும்"
+          },
+          "description": "Lord Rama is praised as 'Divākara' (the Sun). Lord Krishna is praised as 'Achyuta Bhānu' (the unfailing, radiant Sun). As Rama, the Divine Sun destroyed the demons with the rays of His arrows. As Krishna, the radiant Achyuta Sun incarnated for the joy and welfare of the world.",
+          "en_description": "Lord Rama is praised as 'Divākara' (the Sun). Lord Krishna is praised as 'Achyuta Bhānu' (the unfailing, radiant Sun). As Rama, the Divine Sun destroyed the demons with the rays of His arrows. As Krishna, the radiant Achyuta Sun incarnated for the joy and welfare of the world.",
+          "ta_description": "ராமபிரான் “திவாகரன்” என்று சொல்லப்படுகிறார். கண்ணன் “அச்சுத பானு” என்று சொல்லப்படுகிறான். ராம திவாகரன் அம்புக்கூட்டமாகிய கிரணங்களாலே அசுரர்களை அழித்தார். அச்சுத பானுவாகிய கண்ணன் உலக மகிழ்ச்சிக்காக திருவவதரித்தான்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+		{
+          "type": "default",
+          "title": {
+            "en": "Nammalvar: Our Refuge from Samsara",
+            "ta": "சம்சாரக் கடலில் நமக்குக் கதியான நம்மாழ்வார்"
+          },
+          "description": "But how does that benefit us directly?\nIt is Swami Nammalvar, the Vakula-Bhushana Bhaskara (the Sun adorned with the vakula flower garland), who removes the inner darkness of worldly beings and dries up the vast ocean of repeated births and deaths (samsara). Therefore, apart from Nammalvar, we have no other refuge or path to liberation.",
+          "en_description": "But how does that benefit us directly?\nIt is Swami Nammalvar, the Vakula-Bhushana Bhaskara (the Sun adorned with the vakula flower garland), who removes the inner darkness of worldly beings and dries up the vast ocean of repeated births and deaths (samsara). Therefore, apart from Nammalvar, we have no other refuge or path to liberation.",
+          "ta_description": "இதனால் நமக்கு என்ன பயன்?? வகுளபூஷண பாஸ்கரராகிய ஸ்வாமி நம்மாழ்வாரே ஸம்ஸாரிகளின் உள்ளிருளை அகற்றி, பிறவிக்கடலை வற்றடிப்பவர். ஆக, ஆழ்வாரைத் தவிர நமக்கு வேறு கதி இல்லை.",
+          "image": {
+            "src": "https://ramanujavidya.org/wp-content/uploads/2026/06/tms_saaram_04_img01.png",
+			"caption": "Nammazhwar is the only refuge in this kali yugam"
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        }
+		]
     }
   ]
 }
