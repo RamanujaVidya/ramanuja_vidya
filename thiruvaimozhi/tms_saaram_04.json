@@ -517,9 +517,9 @@
         "en": "Even the Lord is Amazed",
         "ta": "எம்பெருமானுக்கே ஆஶ்சர்யம்"
       },
-      "description": "The Lord Himself is amazed by the depth, sweetness, and intensity with which Nammalvar experienced His divine qualities.",
-      "en_description": "The Lord Himself is amazed by the depth, sweetness, and intensity with which Nammalvar experienced His divine qualities.",
-      "ta_description": "தம்முடைய இவ்வளவு திருக்கல்யாண குணங்களை, இவ்வளவு ஆழமாக, இவ்வளவு ரஸமாக யாரும் அனுபவித்ததில்லையே என்று எம்பெருமானும் வியக்கும்படியாக இருக்கிறது ஆழ்வாருடைய ஏற்றம்.",
+      "description": "Even Bhagavan Himself is amazed by Nammalvar's experience. This is because no one has ever experienced and relished His divine auspicious qualities with such depth, intensity, and sweetness as Nammalvar did. Nammalvar's exalted spiritual state is so extraordinary that it causes even the Lord to wonder in amazement, thinking, 'No one has ever enjoyed and appreciated My countless divine qualities in such a profound and delightful manner.'",
+      "en_description": "Even Bhagavan Himself is amazed by Nammalvar's experience. This is because no one has ever experienced and relished His divine auspicious qualities with such depth, intensity, and sweetness as Nammalvar did. Nammalvar's exalted spiritual state is so extraordinary that it causes even the Lord to wonder in amazement, thinking, 'No one has ever enjoyed and appreciated My countless divine qualities in such a profound and delightful manner.'",
+      "ta_description": "பகவானுக்கே ஆழ்வாரின் அனுபவம் வியப்பாக இருக்கிறது. ஏனெனில், தம்முடைய இவ்வளவு திருக்கல்யாண குணங்களை, இவ்வளவு ஆழமாக, இவ்வளவு ரஸமாக யாரும் அனுபவித்ததில்லையே என்று எம்பெருமானும் வியக்கும்படியாக இருக்கிறது ஆழ்வாருடைய ஏற்றம். ",
       "image": {
         "src": "",
         "caption": ""
@@ -536,9 +536,9 @@
         "en": "The Cruelty of Kali Yuga",
         "ta": "கலியின் கொடுமை"
       },
-      "description": "People neglect Vishnu and become deluded by false doctrines during Kali Yuga.",
-      "en_description": "People neglect Vishnu and become deluded by false doctrines during Kali Yuga.",
-      "ta_description": "கலியுகத்தில் மக்கள் விஷ்ணுவை நாடமாட்டார்கள்; பாஷண்டர்களால் மயங்கிப்போவார்கள்.",
+      "description": "n the Kali Yuga, people will not seek Lord Vishnu; instead, they will be misled and deluded by false teachers and erroneous doctrines. In such a difficult and spiritually challenging age, Nammalvar graciously incarnated solely for our upliftment, spiritual revival, and salvation.",
+      "en_description": "n the Kali Yuga, people will not seek Lord Vishnu; instead, they will be misled and deluded by false teachers and erroneous doctrines. In such a difficult and spiritually challenging age, Nammalvar graciously incarnated solely for our upliftment, spiritual revival, and salvation.",
+      "ta_description": "கலியுகத்தில் மக்கள் விஷ்ணுவை நாடமாட்டார்கள்; பாஷண்டர்களால் மயங்கிப்போவார்கள். இப்படிப்பட்ட ஶ்ரமமான கலிகாலத்தில் நம்முடைய உஜ்ஜீவனத்திற்காகவே ஆழ்வார் திருவவதரித்தருளினார்.",
       "image": {
         "src": "",
         "caption": ""
@@ -547,30 +547,11 @@
         "videoname": ""
       },
       "slokam": null,
-      "cards": [
-        {
-          "type": "default",
-          "title": {
-            "en": "Purpose of Nammalvar's Incarnation",
-            "ta": "ஆழ்வாரின் திருவவதார நோக்கம்"
-          },
-          "description": "To uplift souls in this difficult age, Nammalvar incarnated for the welfare of humanity.",
-          "en_description": "To uplift souls in this difficult age, Nammalvar incarnated for the welfare of humanity.",
-          "ta_description": "இப்படிப்பட்ட ஶ்ரமமான கலிகாலத்தில் நம்முடைய உஜ்ஜீவனத்திற்காகவே ஆழ்வார் திருவவதரித்தருளினார்.",
-          "image": {
-            "src": "",
-            "caption": ""
-          },
-          "video": {
-            "videoname": ""
-          },
-          "slokam": null
-        }
-      ]
+      "cards": []
     },
     {
       "id": "tms_saaram_04_12",
-      "type": "default",
+      "type": "slokam",
       "title": {
         "en": "Mahātmā is Very Rare",
         "ta": "மஹாத்மா ஶுதுர்லப:"
@@ -596,9 +577,9 @@
             "en": "The Rare Mahatma",
             "ta": "அரிய மஹாத்மா"
           },
-          "description": "Such a rare Mahatma is Swami Nammalvar.",
-          "en_description": "Such a rare Mahatma is Swami Nammalvar.",
-          "ta_description": "அந்த மஹாத்மா — ஸ்வாமி நம்மாழ்வார்.",
+          "description": "As it is said, only one among thousands truly strives to attain the Supreme Lord. That great soul (Mahatma) is Swami Nammalvar.",
+          "en_description": "As it is said, only one among thousands truly strives to attain the Supreme Lord. That great soul (Mahatma) is Swami Nammalvar.",
+          "ta_description": "என்று கூறப்படுவது போல, ஆயிரங்களில் ஒருவனே உண்மையாக எம்பெருமானை அடைய முயல்கிறான். அந்த மஹாத்மா — ஸ்வாமி நம்மாழ்வார்.",
           "image": {
             "src": "",
             "caption": ""
@@ -617,55 +598,18 @@
         "en": "Swami Nammāḻvār – The Sun that Dispels Inner Darkness",
         "ta": "ஸ்வாமி நம்மாழ்வார் – உள்ளிருள் போக்கும் ஶூர்யன்"
       },
-      "description": "The physical sun removes external darkness, but Swami Nammalvar removes the inner darkness of worldly beings.",
-      "en_description": "The physical sun removes external darkness, but Swami Nammalvar removes the inner darkness of worldly beings.",
-      "ta_description": "ஆதித்யன் வெளியிருளை போக்குகிறான். உள்ளிருளை அவனால் போக்கமுடியாது. ஸ்வாமி நம்மாழ்வாரே ஸம்ஸாரிகளின் உள்ளிருளை அகற்றுபவர்.",
+      "description": "The sun can remove only external darkness; it cannot remove the darkness within the heart. However, devotees of Lord Vishnu can dispel even this inner darkness of ignorance.\nLord Rama is praised as 'Divākara' (the Sun). Lord Krishna is praised as 'Achyuta Bhānu' (the unfailing, radiant Sun). As Rama, the Divine Sun destroyed the demons with the rays of His arrows. As Krishna, the radiant Achyuta Sun incarnated for the joy and welfare of the world.\nBut how does that benefit us directly?\nIt is Swami Nammalvar, the Vakula-Bhushana Bhaskara (the Sun adorned with the vakula flower garland), who removes the inner darkness of worldly beings and dries up the vast ocean of repeated births and deaths (samsara). Therefore, apart from Nammalvar, we have no other refuge or path to liberation.",
+      "en_description": "The sun can remove only external darkness; it cannot remove the darkness within the heart. However, devotees of Lord Vishnu can dispel even this inner darkness of ignorance.\nLord Rama is praised as 'Divākara' (the Sun). Lord Krishna is praised as 'Achyuta Bhānu' (the unfailing, radiant Sun). As Rama, the Divine Sun destroyed the demons with the rays of His arrows. As Krishna, the radiant Achyuta Sun incarnated for the joy and welfare of the world.\nBut how does that benefit us directly?\nIt is Swami Nammalvar, the Vakula-Bhushana Bhaskara (the Sun adorned with the vakula flower garland), who removes the inner darkness of worldly beings and dries up the vast ocean of repeated births and deaths (samsara). Therefore, apart from Nammalvar, we have no other refuge or path to liberation.",
+      "ta_description": "வெளியிருளை போக்குகிறான். உள்ளிருளை அவனால் போக்கமுடியாது. விஷ்ணு பக்தர்கள் உள்ளிருளையும் போக்குவார்கள். ராமபிரான் “திவாகரன்” என்று சொல்லப்படுகிறார். கண்ணன் “அச்சுத பானு” என்று சொல்லப்படுகிறான். ராம திவாகரன் அம்புக்கூட்டமாகிய கிரணங்களாலே அசுரர்களை அழித்தார். அச்சுத பானுவாகிய கண்ணன் உலக மகிழ்ச்சிக்காக திருவவதரித்தான். இதனால் நமக்கு என்ன பயன்?? வகுளபூஷண பாஸ்கரராகிய ஸ்வாமி நம்மாழ்வாரே ஸம்ஸாரிகளின் உள்ளிருளை அகற்றி, பிறவிக்கடலை வற்றடிப்பவர். ஆக, ஆழ்வாரைத் தவிர நமக்கு வேறு கதி இல்லை.",
       "image": {
-        "src": "",
-        "caption": ""
+        "src": "https://ramanujavidya.org/wp-content/uploads/2026/06/tms_saaram_04_img01.png",
+        "caption": "Nammazhwar is the only refuge in this kali yugam"
       },
       "video": {
         "videoname": ""
       },
       "slokam": null,
-      "cards": [
-        {
-          "type": "default",
-          "title": {
-            "en": "Rama and Krishna as Divine Suns",
-            "ta": "ராமரும் கண்ணனும் திவ்ய சூரியர்கள்"
-          },
-          "description": "Rama is praised as Divākara and Krishna as Achyuta Bhānu. Rama destroyed demons through the rays of His arrows, while Krishna incarnated to bring joy to the world.",
-          "en_description": "Rama is praised as Divākara and Krishna as Achyuta Bhānu. Rama destroyed demons through the rays of His arrows, while Krishna incarnated to bring joy to the world.",
-          "ta_description": "ராமபிரான் ‘திவாகரன்’ என்றும், கண்ணன் ‘அச்சுத பானு’ என்றும் சொல்லப்படுகிறார்கள். ராமன் அம்புக்கிரணங்களால் அசுரர்களை அழித்தார். கண்ணன் உலக மகிழ்ச்சிக்காக திருவவதரித்தான்.",
-          "image": {
-            "src": "",
-            "caption": ""
-          },
-          "video": {
-            "videoname": ""
-          },
-          "slokam": null
-        },
-        {
-          "type": "default",
-          "title": {
-            "en": "Vakula-bhūṣaṇa Bhāskara",
-            "ta": "வகுளபூஷண பாஸ்கரர்"
-          },
-          "description": "Swami Nammalvar removes the inner darkness of samsaris and dries up the ocean of samsara. There is no refuge greater than him.",
-          "en_description": "Swami Nammalvar removes the inner darkness of samsaris and dries up the ocean of samsara. There is no refuge greater than him.",
-          "ta_description": "வகுளபூஷண பாஸ்கரராகிய ஸ்வாமி நம்மாழ்வாரே ஸம்ஸாரிகளின் உள்ளிருளை அகற்றி, பிறவிக்கடலை வற்றடிப்பவர். ஆக, ஆழ்வாரைத் தவிர நமக்கு வேறு கதி இல்லை.",
-          "image": {
-            "src": "",
-            "caption": ""
-          },
-          "video": {
-            "videoname": ""
-          },
-          "slokam": null
-        }
-      ]
+      "cards": []
     }
   ]
 }
