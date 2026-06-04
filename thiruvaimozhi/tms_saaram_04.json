@@ -417,9 +417,9 @@
             "en": "Swami Nampillai's Statement",
             "ta": "ஸ்வாமி நம்பிள்ளையின் விளக்கம்"
           },
-          "description": "Knowledge unrelated to the Lord should not be mistaken for supreme wisdom.",
-          "en_description": "Knowledge unrelated to the Lord should not be mistaken for supreme wisdom.",
-          "ta_description": "ஸ்வாமி நம்பிள்ளை, எம்பெருமானைத் தவிர்ந்த மற்றைய ஜ்ஞானமெல்லாம் 'செருப்புக்குத்த கற்றவோபாதி' என்று ஸாதித்தருளியுள்ளார். இது அவற்றை இழிவாகச் சொல்வதற்காக அல்ல; அவற்றை பரம ஜ்ஞானம் என்று நினைக்கக் கூடாது என்பதே தாத்பர்யம்.",
+          "description": "Swami Nampillai has taught that all knowledge other than the knowledge of the Lord is like the skill of stitching a shoe. In other words, just as shoe-making is a craft performed by the hands, other worldly forms of knowledge are also skills used for practical purposes. He gives this comparison to show their nature.\n This is not meant to belittle or disrespect such knowledge. Rather, the intention is to remind us that we should not consider these worldly skills and sciences to be the highest or supreme knowledge. True and supreme knowledge is that which leads one to the Lord and helps attain Moksha.",
+          "en_description": "Swami Nampillai has taught that all knowledge other than the knowledge of the Lord is like the skill of stitching a shoe. In other words, just as shoe-making is a craft performed by the hands, other worldly forms of knowledge are also skills used for practical purposes. He gives this comparison to show their nature.\n This is not meant to belittle or disrespect such knowledge. Rather, the intention is to remind us that we should not consider these worldly skills and sciences to be the highest or supreme knowledge. True and supreme knowledge is that which leads one to the Lord and helps attain Moksha.",
+          "ta_description": "ஸ்வாமி நம்பிள்ளை, எம்பெருமானைத் தவிர்ந்த மற்றைய ஜ்ஞானமெல்லாம் 'செருப்புக்குத்த கற்றவோபாதி' என்று ஸாதித்தருளியுள்ளார். அதாவது, செருப்புக் குத்துகின்ற தொழிலும் கையால்தானே செய்யப்படுகின்றன. அதுபோலதான் என்று காட்டுகிறார். இது அவற்றை இழிவாகச் சொல்வதற்காக அல்ல; அவற்றை “பரம/உயர்ந்த ஜ்ஞானம்” என்று நினைக்கக் கூடாது என்பதே தாத்பர்யம்.",
           "image": {
             "src": "",
             "caption": ""
@@ -438,9 +438,9 @@
         "en": "The Greatness of Swami Nammāḻvār",
         "ta": "ஸ்வாமி நம்மாழ்வாரின் உயர்வு"
       },
-      "description": "Among those who possess knowledge of the Lord, Swami Nammalvar stands foremost.",
-      "en_description": "Among those who possess knowledge of the Lord, Swami Nammalvar stands foremost.",
-      "ta_description": "எம்பெருமானைப் பற்றிய ஜ்ஞாநம் பெற்றவர்களுள் முதன்மையாகக் கொண்டாடப்படுபவர் ஸ்வாமி நம்மாழ்வார்.",
+      "description": "Among those who have attained true knowledge of the Supreme Lord, Swami Nammalvar is celebrated as the greatest.\nEven great sages wonder about his exalted status:\n'Is Swami Nammalvar one of the eternal divine beings (Nitya Suris)? Is he a liberated soul (Mukta Atma)? Is he the Lord Himself? Or is he a special incarnation empowered by the Lord?'\nIn this way, great scholars and saints praise the extraordinary greatness and spiritual stature of Nammalvar.",
+      "en_description": "Among those who have attained true knowledge of the Supreme Lord, Swami Nammalvar is celebrated as the greatest.\nEven great sages wonder about his exalted status:\n'Is Swami Nammalvar one of the eternal divine beings (Nitya Suris)? Is he a liberated soul (Mukta Atma)? Is he the Lord Himself? Or is he a special incarnation empowered by the Lord?'\nIn this way, great scholars and saints praise the extraordinary greatness and spiritual stature of Nammalvar.",
+      "ta_description": "எம்பெருமானைப் பற்றிய ஜ்ஞாநம் பெற்றவர்களுள் முதன்மையாகக் கொண்டாடப்படுபவர் ஸ்வாமி நம்மாழ்வார். பெரிய ஞானிகளுக்கே சந்தேகம் வருகிறது: ஸ்வாமி நம்மாழ்வார் நித்யஶூரியா?முக்தாத்மாவா? பகவானேவா? அல்லது பகவானுடைய ஆவேச அவதாரமா? என்று ஆழ்வாருடைய ஏற்றத்தைப் பெரிய ஞானிகள் கொண்டாடுகிறார்கள்.",
       "image": {
         "src": "",
         "caption": ""
@@ -453,12 +453,30 @@
         {
           "type": "default",
           "title": {
-            "en": "Questions Raised by Great Scholars",
-            "ta": "பெரிய ஞானிகளின் வியப்பு"
+            "en": "In Chūrṇikai 92, Swami Azhagiya Maṇavāḷa Perumāḷ Nāyanār describes the greatness of Nammāḻvār:",
+            "ta": "சூர்ணிகை 92-ல், ஸ்வாமி அழகியமணவாளப் பெருமாள் நாயனார் நம்மாழ்வாரின் மகிமையை இவ்வாறு விளக்குகிறார்:"
           },
-          "description": "Great scholars wondered whether Nammalvar is a Nitya-suri, a liberated soul, Bhagavan Himself, or an empowered divine incarnation.",
-          "en_description": "Great scholars wondered whether Nammalvar is a Nitya-suri, a liberated soul, Bhagavan Himself, or an empowered divine incarnation.",
-          "ta_description": "ஸ்வாமி நம்மாழ்வார் நித்யஶூரியா? முக்தாத்மாவா? பகவானேவா? அல்லது பகவானுடைய ஆவேச அவதாரமா? என்று பெரிய ஞானிகள் வியக்கிறார்கள்.",
+          "description": "People wonder: Is he one among the sages such as Atri, Jamadagni, Pankti, Atha, Vasu, Nanda, and others? Is he a divine incarnation appearing according to the order of the Yugas and their respective colors? Is he, like Vyāsa and others, an empowered (āveśa) incarnation? Or is he one among the great elders and realized souls who have reached the far shore (of spiritual wisdom)? Or is he one upon whom the accumulated merits of countless previous births have borne fruit?",
+          "en_description": "People wonder: Is he one among the sages such as Atri, Jamadagni, Pankti, Atha, Vasu, Nanda, and others? Is he a divine incarnation appearing according to the order of the Yugas and their respective colors? Is he, like Vyāsa and others, an empowered (āveśa) incarnation? Or is he one among the great elders and realized souls who have reached the far shore (of spiritual wisdom)? Or is he one upon whom the accumulated merits of countless previous births have borne fruit?",
+          "ta_description": "அத்ரி ஜமதக்நி பங்க்திரத வஸு நந்த ஸூநுவானவனுடைய யுகவர்ண க்ரமாவதாரமோ? வ்யாஸாதிவதாவேசமோ? மூதுவர் கரைகண்டோர் சீரியரிலே ஒருவரோ? முன்னம் நோற்ற அனந்தன்மேல் புண்ணியங்கள் பலித்தவரோவென்று சங்கிப்பர்கள்",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null
+        },
+		 {
+          "type": "default",
+          "title": {
+            "en": "The Incomparable Glory of Nammalvar in Acharya Hridayam (Churnikai 93)",
+            "ta": "ஆசார்ய ஹ்ருதயம் (சூர்ணிகை 93) கூறும் நம்மாழ்வாரின் ஒப்பற்ற பெருமை"
+          },
+          "description": "Nammāḻvār completely transcended the notions of “I” and “you” (ego and separateness). His greatness was beyond comparison, whether in heaven or on earth, and its true extent could not be measured or defined. He stood among the divine beings as their foremost leader, marked by his intimate and boundless love for the Supreme Lord. Rejoicing in that divine relationship, he dispelled the darkness of ignorance, drove away false doctrines, restrained those intoxicated with pride like an elephant controlled by an elephant-goad, and acted as the force of justice against arrogance. He prevented evil influences from approaching, diminished the effects of the Kali Yuga, and established the virtues of a righteous age. Such was his extraordinary glory that people were unable to fully comprehend or measure its greatness.\nThus, in Acharya Hridayam, Swami Azhagiya Maṇavāḷa Perumāḷ Nāyanār portrays Nammāḻvār's spiritual stature as incomparable, transformative, and beyond ordinary human understanding.",
+          "en_description": "Nammāḻvār completely transcended the notions of “I” and “you” (ego and separateness). His greatness was beyond comparison, whether in heaven or on earth, and its true extent could not be measured or defined. He stood among the divine beings as their foremost leader, marked by his intimate and boundless love for the Supreme Lord. Rejoicing in that divine relationship, he dispelled the darkness of ignorance, drove away false doctrines, restrained those intoxicated with pride like an elephant controlled by an elephant-goad, and acted as the force of justice against arrogance. He prevented evil influences from approaching, diminished the effects of the Kali Yuga, and established the virtues of a righteous age. Such was his extraordinary glory that people were unable to fully comprehend or measure its greatness.\nThus, in Acharya Hridayam, Swami Azhagiya Maṇavāḷa Perumāḷ Nāyanār portrays Nammāḻvār's spiritual stature as incomparable, transformative, and beyond ordinary human understanding.",
+          "ta_description": "‘அதுக்குமூலம் - யான் நீ என்று மறுதலைத்து வானத்து மண் மிசை மாறும் நிகருமின்றி நிலையிடம் தெரியாதே தெய்வத்தினமொருவகைக்கொப்பாக இனத்தலைவன் அந்தாமத்தன்பு செய்யச் சேர்ந்தமைக் கடையாளமுளவாக உகந்துகந்து திமிர் கொண்டாலொத்து நாட்டியல்வொழிந்து சடரையோட்டி மதாவலிப்தர்க்கு அங்குசமிட்டு நடாவிய கூற்றமாய்த் தீயன மருங்குவாராமல் கலியுகம் நீங்கிக் தெயுகம் பற்றிப் பட்டெழுபோதறி யாதிருந்த ப்ரபாவம்’ (சூர்ணை 93) என்று ஆழ்வாருடைய ஏற்றத்தை ஸ்வாமி அழகியமணவாளப்பெருமாள் நாயனார் ஆசார்ய ஹ்ருதயம் என்கிற க்ரந்தத்திலே காட்டியுள்ளார்.",
           "image": {
             "src": "",
             "caption": ""
@@ -488,8 +506,8 @@
         "videoname": ""
       },
       "slokam": {
-        "sanskrit": "வரவாறொன்றில்லை ஆல் வாழ்வினிதால் எல்லே ! ஒருவாறு ஒருவன் புகாவாறு உரு மாறும் ஆயவர் தாம் சேயவர் தாம் அன்றுலகம் தாயவர் தாம் மாயவர் தாம் காட்டும் வழி",
-        "transliteration": "I do not know how this exalted state came to me through divine grace."
+        "sanskrit": "வரவாறொன்றில்லை ஆல் வாழ்வினிதால் எல்லே ! ஒருவாறு ஒருவன் புகாவாறு உரு மாறும் ஆயவர் தாம் சேயவர் தாம் அன்றுலகம் தாயவர் தாம் மாயவர் தாம் காட்டும் வழி (பெரிய திருவந்தாதி 56)",
+        "transliteration": "There is no apparent cause for this attainment; yet my life has become blissful. Alas! The Lord assumes forms in such a way that no one can fully comprehend or approach Him through their own efforts. He appears as one among the cowherds, as a child among them, as the protector and mother of the world, and as the wondrous, mysterious One who reveals the path — Periya Tiruvandhadi 56"
       }
     },
     {
