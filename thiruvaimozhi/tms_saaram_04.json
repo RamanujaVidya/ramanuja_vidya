@@ -391,14 +391,14 @@
           "slokam": null
         },
         {
-          "type": "slokham",
+          "type": "slokam",
           "title": {
             "en": "Knowledge that Leads to Liberation",
             "ta": "மோக்ஷத்திற்கு உதவும் ஜ்ஞானம்"
           },
-          "description": "Only knowledge that helps attain liberation is genuine knowledge.",
-          "en_description": "Only knowledge that helps attain liberation is genuine knowledge.",
-          "ta_description": "மோக்ஷத்திற்கு உதவும் ஜ்ஞானம்தான் உண்மையான ஜ்ஞானம்.",
+          "description": "The knowledge that helps a person attain Moksha (spiritual liberation) is the only real knowledge. All other actions are simply efforts that make the body work hard. Similarly, all other types of education are mainly worldly skills used for earning a living or doing jobs. Such skills are called 'Shilpa Naipunyam', which means technical skill, craftsmanship, or professional expertise.",
+          "en_description": "The knowledge that helps a person attain Moksha (spiritual liberation) is the only real knowledge. All other actions are simply efforts that make the body work hard. Similarly, all other types of education are mainly worldly skills used for earning a living or doing jobs. Such skills are called 'Shilpa Naipunyam', which means technical skill, craftsmanship, or professional expertise.",
+          "ta_description": "மோக்ஷத்திற்கு உதவும் ஜ்ஞானம்தான் உண்மையான ஜ்ஞானம். மற்ற கர்மமெல்லாம் வெறும் ஆயாஸம்(உடலுக்கு ஶரமத்தை ஏற்படுத்தக்கூடியது).மற்ற கல்விகள் அனைத்தும் உலக தொழில் திறமைகள் மட்டுமே. அவை “ஶில்ப நைபுணம்” என்று குறிப்பிடப்படுகின்றன",
           "image": {
             "src": "",
             "caption": ""
