@@ -575,5 +575,30 @@
     "duration": "17:00",
     "publishedDate": "2026-06-01",
     "referralLinks": []
+  },
+  {
+    "id": "podcast_1780669153233_payby6hi",
+    "youtubeId": "IzmofAVdoII",
+    "category": "tiruvaimozhi",
+    "title": {
+      "en": "Thiruvāymozhi Discourse |  Explanation of Pāsurams 7–11",
+      "ta": "திருவாய்மொழி உரையாடல் | உயர்வற உயர்நலம் பதிகம் 7-11 பாசுரங்கள்"
+    },
+    "description": {
+      "en": "This discussion between Sri U.Ve. Raghavan Swami and Sri U.Ve. Sudharshan Swami explains the 7th to 11th pāsurams of the first decad of Tiruvāymozhi. The discussion clarifies how Nammāzhvār uses Sāmānādhikaraṇyam to show the inseparable relationship between the Lord and all sentient and insentient beings through the Śarīra-Ātma Bhāva (body-soul relationship). Just as the soul pervades and controls the body, Bhagavān exists as the indwelling controller (Antaryāmi) in all beings, elements, and even deities such as Brahmā and Rudra. The discussion further establishes the Lord as the supreme cause, sustainer, and dissolver of the universe, refutes non-Vedic and Buddhist interpretations that deny His existence, and highlights His effortless omnipresence. The concluding pāsuram glorifies Nammāzhvār’s divine words and declares that contemplating these ten verses leads the devotee towards liberation (mokṣa).",
+      "ta": "ஸ்ரீ உ.வே. ராகவன் ஸ்வாமி மற்றும் ஸ்ரீ உ.வே. சுதர்சன் ஸ்வாமி அவர்களுக்கிடையேயான இந்த உரையாடலில், திருவாய்மொழி முதல் பதிகத்தின் 7 முதல் 11ஆம் பாசுரங்களின் ஆழ்ந்த அர்த்தங்கள் விளக்கப்படுகின்றன. ஆழ்வார் பயன்படுத்திய சாமாநாதிகரண்யப் பிரயோகம், சேதனமும் அசேதனமும் எம்பெருமானுடைய சரீரமாகவும், அவர் அவற்றின் ஆத்மாவாகவும் இருப்பதை எடுத்துரைக்கிறது. உடலுக்குள் உயிர் இருப்பதுபோல், எம்பெருமான் அனைத்துப் பொருள்களிலும் அந்தர்யாமியாக நீக்கமற நிறைந்திருப்பதை ஸ்வாமிகள் விளக்குகின்றனர். மேலும் பிரம்மா, ருத்ரன் முதலான தேவர்களுக்கும் அந்தர்யாமியாக இருந்து சிருஷ்டி, ஸ்திதி, சம்ஹாரங்களை நடத்துபவன் எம்பெருமானே என நிறுவப்படுகிறது. புத்தமதம் போன்ற பகவத் நிராகரணக் கொள்கைகள் மறுக்கப்பட்டு, எம்பெருமானின் பரத்துவம், வியாபகத்துவம் மற்றும் காரணத்துவம் உறுதிப்படுத்தப்படுகின்றன. இறுதியில், குருகூர் சடகோபன் அருளிய இந்த பத்து பாசுரங்களையும் அர்த்தானுசந்தானத்துடன் அனுபவிப்பது மோட்சப் பயனை அளிக்கும் என விளக்கப்படுகிறது."
+    },
+    "duration": "28:42",
+    "publishedDate": "2026-06-05",
+    "referralLinks": [
+      {
+        "url": "https://ramanujavidya.org/thiruvaaimozhi/",
+        "title": {
+          "en": "Greatness of Thiruvaimozhi",
+          "ta": "Greatness of Thiruvaimozhi"
+        },
+        "icon": "🔗"
+      }
+    ]
   }
 ]
