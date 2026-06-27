@@ -26,6 +26,12 @@
       "topicId": "tms_saaram_04",
       "title": "4. Tattva-trayam and True Knowledge",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/thiruvaimozhi/tms_saaram_04.json"
+    },
+	{
+      "order": 5,
+      "topicId": "tms_saaram_05",
+      "title": "5. Comparing Swami Nammāḻvār with Lakshmana and Other Great Sages",
+      "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/thiruvaimozhi/tms_saaram_05.json"
     }
   ]
 }

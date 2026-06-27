@@ -1,0 +1,148 @@
+```json
+{
+  "topicId": "tms_saaram_05",
+  "topicTitle": "Comparing Swami Nammāḻvār with Lakshmana and Other Great Sages",
+  "cards": [
+    {
+      "id": "tms_saaram_05_01",
+      "type": "default",
+      "title": {
+        "en": "Swami Nammāḻvār Alone Equals Many Great Sages – His Unique Greatness",
+        "ta": "ஸ்வாமி நம்மாழ்வார் ஒருவரே பல ஞானிகளுக்குச் சமமானவர் – நம்மாழ்வாரின் அபூர்வமான ஏற்றம்"
+      },
+      "description": "Until now, Swami Nampiḷḷai has expounded the glory of Swami Nammāḻvār’s divine knowledge. Among all beings, Nammāḻvār alone possessed complete knowledge of the three realities (Tattva-trayam). It is his divine hymns that uplift the world, and true spiritual wisdom can be attained only through the Thiruvāymozhi. Swami Nampiḷḷai now compares the enlightened Swami Nammāḻvār with other celebrated sages. Though Nammāḻvār is a single person, he embodies within himself the various stages, qualities, and experiences found separately in many sages. Therefore, Nammāḻvār alone is equal to many great spiritual personalities.",
+      "en_description": "Until now, Swami Nampiḷḷai has expounded the glory of Swami Nammāḻvār’s divine knowledge. Among all beings, Nammāḻvār alone possessed complete knowledge of the three realities (Tattva-trayam). It is his divine hymns that uplift the world, and true spiritual wisdom can be attained only through the Thiruvāymozhi. Swami Nampiḷḷai now compares the enlightened Swami Nammāḻvār with other celebrated sages. Though Nammāḻvār is a single person, he embodies within himself the various stages, qualities, and experiences found separately in many sages. Therefore, Nammāḻvār alone is equal to many great spiritual personalities.",
+      "ta_description": "இதுவரை ஸ்வாமி நம்பிள்ளை, ஸ்வாமி நம்மாழ்வாருடைய ஞான வைபவத்தை அருளிச் செய்தார். தத்வத்ரயத்தையும் முழுமையாக அறிந்தவர் ஆழ்வார் ஒருவரே. இந்த உலகத்திற்கு உஜ்ஜீவனம் தருவது ஆழ்வாருடைய அருளிச்செயலே. ஞானம் பெற வேண்டுமென்றால் திருவாய்மொழியைக் கொண்டே ஞானம் பெறமுடியும். இப்போது ஸ்வாமி நம்பிள்ளை, ஞானியான ஸ்வாமி நம்மாழ்வாரை மற்ற ஞானிகளோடு ஒப்பிட்டுக் காட்டுகிறார். ஆழ்வார் ஒருவர்; ஆனால் பல ஞானிகளின் படிகளும், ப்ரகாரங்களும் அவரிடத்தில் உள்ளன. எனவே ஆழ்வார் ஒருவரே பல ஞானிகளுக்குச் சமமானவர்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_05_02",
+      "type": "default",
+      "title": {
+        "en": "Comparing Swami Nammāḻvār with Valmiki",
+        "ta": "வால்மீகியுடன் ஸ்வாமி நம்மாழ்வாரை ஒப்பிடுதல்"
+      },
+      "description": "Brahmā blessed Valmiki saying, “You shall know exactly as they occurred—the smiles, words, actions, and conduct of Rama, Sita, Lakshmana, Dasaratha, and all the other characters.” By this grace, Valmiki perceived the entire life story of Sri Rama with clarity and composed the Ramayana.",
+      "en_description": "Brahmā blessed Valmiki saying, “You shall know exactly as they occurred—the smiles, words, actions, and conduct of Rama, Sita, Lakshmana, Dasaratha, and all the other characters.” By this grace, Valmiki perceived the entire life story of Sri Rama with clarity and composed the Ramayana.",
+      "ta_description": "ப்ரஹ்மா, வால்மீகி பகவானுக்கு: “ஹஸிதம், பாஷிதம், சேஷ்டிதம் – ராமபிரானும், ஸீதாபிராட்டியும், லக்ஷ்மணனும், தசரதனும் மற்றும் உண்டான கதாபாத்திரங்களும் செய்த, பேசிய, நடந்த அனைத்தையும் உள்ளபடி நீ அறிவாய்” என்று அனுக்ரஹித்தார். அதனால் வால்மீகி, ஸ்ரீராமபிரானுடைய சரித்திரத்தை முழுமையாகக் கண்டார். தெளிந்து அறிந்தார். அதன்படி ஸ்ரீராமாயணத்தை இயற்றினார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_05_03",
+      "type": "default",
+      "title": {
+        "en": "Nammāḻvār’s Greatness as Described in Ācārya Hṛdayam",
+        "ta": "ஆசார்ய ஹ்ருதயத்தில் காட்டப்பட்ட ஸ்வாமி நம்மாழ்வாரின் ஏற்றம்"
+      },
+      "description": "Ācārya Hṛdayam states that while Valmiki attained knowledge through the strength of his righteousness and austerities, Nammāḻvār possessed knowledge in the form of intense devotion (bhakti-rūpa jñāna). Overwhelmed by devotion, he melted within, grieved, became entranced, suffered separation, longed deeply, and composed his hymns in words that flowed humbly towards the Lord.",
+      "en_description": "Ācārya Hṛdayam states that while Valmiki attained knowledge through the strength of his righteousness and austerities, Nammāḻvār possessed knowledge in the form of intense devotion (bhakti-rūpa jñāna). Overwhelmed by devotion, he melted within, grieved, became entranced, suffered separation, longed deeply, and composed his hymns in words that flowed humbly towards the Lord.",
+      "ta_description": "“தர்மவீர்ய ஞானத்தாலே தெளிந்து ஹ்ருஷ்டராய் மேலே மேலே தொடுப்பாரைப் போலன்றே அருளின பக்தியாலே உள் கலங்கிச் சோகித்து மூவாறு மாஸம் மோஹித்து வருந்தி ஏங்கித் தாழ்ந்த சொற்களாலே நூற்கிற இவர்.” வால்மீகி தன்னுடைய தர்மம், தவம் ஆகியவற்றின் பயனாக ஞானம் பெற்றார். ஞானத்தின் மூலம் எம்பெருமானுடைய சரித்திரத்தை அறிந்தார். ஸ்வாமி நம்மாழ்வார் வெறும் ஞானவான் அல்ல. பக்தி ரூபமான ஞானம் உடையவர். பக்தியால் உள் கலங்கி, சோகித்து, மோஹித்து, வருந்தி, ஏங்கி, தாழ்ந்த சொற்களாலே நூற்கிறவர் என்கிற ஏற்றம் ஆழ்வாருக்கே உண்டானது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_05_04",
+      "type": "default",
+      "title": {
+        "en": "Meaning of “Humble Words” (Thāzhnda Solgaḷ)",
+        "ta": "“தாழ்ந்த சொற்கள்” என்றால் என்ன?"
+      },
+      "description": "The expression “humble words” does not imply inferior language. Just as water naturally flows downward, Nammāḻvār’s tender words descend and rest at the divine feet of the Lord. They become firmly established in matters concerning Bhagavān. Valmiki knew the Lord’s history, but Nammāḻvār not only knew it—he was emotionally transformed by devotion. Hence, the Ācāryas describe him not merely as a man of wisdom, but as one overflowing with devotion.",
+      "en_description": "The expression “humble words” does not imply inferior language. Just as water naturally flows downward, Nammāḻvār’s tender words descend and rest at the divine feet of the Lord. They become firmly established in matters concerning Bhagavān. Valmiki knew the Lord’s history, but Nammāḻvār not only knew it—he was emotionally transformed by devotion. Hence, the Ācāryas describe him not merely as a man of wisdom, but as one overflowing with devotion.",
+      "ta_description": "“தாழ்ந்த சொற்கள்” என்பது மட்டமான சொற்கள் அல்ல. ஜலம் பள்ளத்தில் சென்று தாழ்வது போல, ஆழ்வாருடைய ஈரச் சொற்கள் எம்பெருமானுடைய திருவடிகளில் சென்று தாழ்கின்றன. பகவத் விஷயத்தில் சென்று நிலைபெறுகின்றன. அதனால் அவை “தாழ்ந்த சொற்கள்” எனப்படுகின்றன. வால்மீகி எம்பெருமானுடைய சரித்திரத்தை அறிந்தவர். ஆனால், ஸ்வாமி நம்மாழ்வார்: எம்பெருமானுடைய சரித்திரத்தை அறிந்தவர் மட்டுமல்ல. பக்தியில் உருகியவர். எனவே ஆசார்யர்கள்: “இவர் வெறும் ஞானவான் அல்ல; பக்திமான்.” என்று வால்மீகியைக் காட்டிலும் ஸ்வாமி ஆழ்வாருக்கு உண்டான ஏற்றத்தைக் காட்டுகின்றனர்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_05_05",
+      "type": "default",
+      "title": {
+        "en": "Comparing Swami Nammāḻvār with Lakshmana",
+        "ta": "லக்ஷ்மணனுடன் ஸ்வாமி நம்மாழ்வாரை ஒப்பிடுதல்"
+      },
+      "description": "Lakshmana’s love for Sri Rama began in childhood itself. Tradition says that Rama and Lakshmana would sleep only when placed together in the same cradle. Similarly, Nammāḻvār declares: “Even before I attained understanding, He made me develop love for servitude unto Him.” The Lord instilled in Nammāḻvār a taste for divine service even before ordinary knowledge arose. Nammāḻvār was born endowed with flawless wisdom (mayarvara madi nalam), a spiritually enlightened child from birth. In Thiruviruttam, assuming the mood of Parāṅkuśa Nāyaki, he describes a young girl whose body has not matured, whose speech is unclear, and whose ornaments do not stay in place, yet who correctly utters: “Is that the Lord’s mountain—Thiruvēṅkaṭam?” This reveals the manifestation of devotion-filled wisdom even in childhood. When Rama prepared to leave for the forest, Lakshmana declared: “Without you, O Rāghava, neither Sita nor I can live even for a moment, like fish taken out of water.” Likewise, Nammāḻvār proclaims in Thiruvāymoḻi: “Apart from You, I do not exist.” Lakshmana further says: “I do not desire heaven, immortality, or sovereignty over the worlds without You.” His only wish was to act according to Rama’s pleasure. In the same spirit, Nammāḻvār sings in Thiruvasiriyam that those with clear understanding do not seek worldly prosperity, self-enjoyment, rulership over the three worlds, or even liberation itself. They seek only the Lord’s feet and His delight. Lakshmana promises Rama: “Whether You are awake or asleep, I shall serve You in every way.” Similarly, Nammāḻvār prays: “At all times, without interruption, I should remain with You and render flawless service.” Lakshmana also tells Hanuman: “I became Rama’s servant not merely because I am his younger brother, but because I was conquered by his noble qualities.” Likewise, Nammāḻvār begins the Thiruvāymoḻi by praising the Lord as the One possessed of unsurpassed auspicious qualities and expresses his servitude born from being captivated by those divine attributes.",
+      "en_description": "Lakshmana’s love for Sri Rama began in childhood itself. Tradition says that Rama and Lakshmana would sleep only when placed together in the same cradle. Similarly, Nammāḻvār declares: “Even before I attained understanding, He made me develop love for servitude unto Him.” The Lord instilled in Nammāḻvār a taste for divine service even before ordinary knowledge arose. Nammāḻvār was born endowed with flawless wisdom (mayarvara madi nalam), a spiritually enlightened child from birth. In Thiruviruttam, assuming the mood of Parāṅkuśa Nāyaki, he describes a young girl whose body has not matured, whose speech is unclear, and whose ornaments do not stay in place, yet who correctly utters: “Is that the Lord’s mountain—Thiruvēṅkaṭam?” This reveals the manifestation of devotion-filled wisdom even in childhood. When Rama prepared to leave for the forest, Lakshmana declared: “Without you, O Rāghava, neither Sita nor I can live even for a moment, like fish taken out of water.” Likewise, Nammāḻvār proclaims in Thiruvāymoḻi: “Apart from You, I do not exist.” Lakshmana further says: “I do not desire heaven, immortality, or sovereignty over the worlds without You.” His only wish was to act according to Rama’s pleasure. In the same spirit, Nammāḻvār sings in Thiruvasiriyam that those with clear understanding do not seek worldly prosperity, self-enjoyment, rulership over the three worlds, or even liberation itself. They seek only the Lord’s feet and His delight. Lakshmana promises Rama: “Whether You are awake or asleep, I shall serve You in every way.” Similarly, Nammāḻvār prays: “At all times, without interruption, I should remain with You and render flawless service.” Lakshmana also tells Hanuman: “I became Rama’s servant not merely because I am his younger brother, but because I was conquered by his noble qualities.” Likewise, Nammāḻvār begins the Thiruvāymoḻi by praising the Lord as the One possessed of unsurpassed auspicious qualities and expresses his servitude born from being captivated by those divine attributes.",
+      "ta_description": "லக்ஷ்மணன்: “பால்யாத் ப்ரப்ருதி ஸுஸ்நிக்த...” என்கிறபடி பால்யமே தொடங்கி ராமபிரானுடைய திருவடிகளில் அளவற்ற ஆசை உடையவன். ஒரே தொட்டிலில் படுக்க வைத்தால்தான் ராமபிரானும், லக்ஷ்மணனும் உறங்குவார்கள். அதேபோல் ஸ்வாமி நம்மாழ்வார், “அறியாக் காலத்துள்ளே அடிமைக்கண் அன்பு செய்வித்து...” என்று தாமே அருளிச்செய்கிறார். அதாவது, ஞானம் வராத பருவத்திலேயே கைங்கர்ய ருசியை எம்பெருமான் ஆழ்வாருக்குப் பிறப்பித்தான். ஆழ்வார் திருவவதரிக்கும்போதே மயர்வற மதிநலம் அருளப்பெற்றவர். அவர் மிகு ஞானச் சிறுகுழவி. ஸ்வாமி நம்மாழ்வார் தன்னை பராங்குச நாயகியாக பாவித்து, “முலையோ முழுமுற்றும் போந்தில மொய் பூங்குழல் குறிய கலையோ அரை இல்லை நாவோ குழறும் கடல் மண் எல்லாம் விலையோ என மிளிரும் கண் இவள் பரமே ! பெருமான் மலையோ திருவேங்கடம் என்று கற்கின்ற வாசகமே” என்று திருவிருத்தத்தில் அருளிச்செய்துள்ளார். அதாவது, மார்பகம் வளரவில்லை, கூந்தல் குறுகியதாக உள்ளது, ஆடை இடையில் நிலைக்கவில்லை, பேச்சுத் தெளிவாக இல்லை. இவ்வளவு சிறு பிராயத்திலும் “பெருமான் மலையோ திருவேங்கடம்” என்று சரியாகச் சொல்கிறாள். இதனால் சிறுவயதிலேயே இருந்த பக்தி ரூபாபந்ந ஞானம் வெளிப்படுகிறது. ராமபிரான் காட்டிற்கு செல்ல நேர்ந்தது, லக்ஷ்மணன் ராமபிரானிடம் “ந ச ஸீதா த்வயா ஹீநா ந சாஹமபி ராகவ | முஹூர்த்தமபி ஜீவாவோ ஜலாந் மத்ஸ்யாவிவோத்த்ருதௌ ||” என்று சொல்கிறான். சுருக்கமாக, ராமனின்றி ஸீதையும் லக்ஷ்மணனும் நீரிலிருந்து எடுக்கப்பட்ட மீன்களைப் போல ஒரு கணம் கூட உயிர் பிழைத்திருக்க முடியாது என்று லக்ஷ்மணன் ராமபிரானிடம் தனது ஆழ்ந்த பாசத்தையும், பிரிவைத் தாங்க முடியாத நிலையையும் வெளிப்படுத்துகிறான். அதேபோல, திருவாய்மொழியில்: “நின்னலால் இலேன் காண்” என்று, மிக இனியவனான “உன்னை விட்டு என்னால் இருக்க முடியாது” என்று ஆழ்வார் ஸாதிக்கிறார். பதினான்கு ஆண்டுகள் வனவாஸம் செல்லும் ராமபிரானுடன் தானும் செல்ல வேண்டும் என்று லக்ஷ்மணன் உறுதியாக தெரிவித்ததாவது: “ந தேவலோகாக்ரமணம் நாமரத்வம் அஹம் வ்ருணே ஜஶ்வர்யம் வாபி லோகாநாம் காமயே ந த்வயா விநா” “தேவலோகாக்ரமணம் (பரமபத ப்ராப்தி), அமரத்வம் (இறவாமை/கைவல்ய மோக்ஷம்), ஐஶ்வர்யம் எதுவும் வேண்டாம்.” என்று கூறுகிறான். அவனுக்கு வேண்டியது ராமபிரானின் திருவுள்ள உகப்பு மட்டுமே. ஆழ்வார் திருவாசிரியத்தில் அருளிச்செய்ததாவது: திருவொடு மருவிய இயற்கை மாயாப் பெருவிறல் உலகம் மூன்றினொடு நல் வீடு பெறினும் கொள்வதெண்ணுமோ தெள்ளியோர் குறிப்பே. தெளிந்த அறிவு பெற்றவர்களுக்கு ஐஶ்வர்யம் வேண்டாம், கைவல்யம் வேண்டாம், மூவுலக ஆட்சி வேண்டாம், நல்வீடான மோக்ஷமும் வேண்டாம் என்ற எண்ணம்தான் இருக்கும். அவர்களுக்கு எம்பெருமானுடைய திருவடிகளும், அவன் திருவுள்ள உகப்பும்தான் வேண்டியது. லக்ஷ்மணன் ராமபிரானிடம், நீ ஸீதா பிராட்டியோடு மலைத் தாழ்வரையில் களிப்பாய். அப்போது நீ விழித்திருந்தாலும், உறங்கினாலும் “அஹம் ஸர்வம் கரிஷ்யாமி” என்று எல்லாக் காலங்களிலும் தொண்டு செய்வேன் என்கிறான். அதேபோல ஆழ்வார், “ஒழிவில் காலமெல்லாம் உடனாய் மன்னி வழுவிலா அடிமை செய்ய வேண்டும்” என்று ஸர்வதேஸ ஸர்வகால ஸர்வாவஸ்தைகளிலும் கைங்கர்யத்தையே விரும்புகிறார். லக்ஷ்மணன் ஹனுமானிடம் பம்பாதீரத்தில் “குணைர்தாஸ்யம் உபாகத:” என்று தெரிவிக்கிறான். நான் ராமபிரானுடைய தம்பி என்பதற்காக மட்டும் அல்ல, ராமபிரானுடைய குணங்களுக்குத் தோற்று அவனுக்கு அடிமையானேன் என்கிறான். அதேபோல் ஆழ்வார், திருவாய்மொழி தொடக்கத்திலேயே “உயர்வற உயர்நலம் உடையவன் எவனவன் தொழுதெழு என் மனனே” என்று எம்பெருமானுடைய கல்யாண குணங்களால் ஈர்க்கப்பட்ட தாஸ்யத்தை வெளிப்படுத்துகிறார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_05_06",
+      "type": "default",
+      "title": {
+        "en": "Comparing Swami Nammāḻvār with Arjuna and Dasaratha",
+        "ta": "அர்ஜுனனுடன், தசரதனுடன் ஸ்வாமி நம்மாழ்வாரை ஒப்பிடுதல்"
+      },
+      "description": "Arjuna tells Krishna that hearing about His glories, powers, and qualities never satisfies him, and requests Him to narrate them repeatedly. Dasaratha too never grew weary of beholding Rama’s beauty. He would call Rama to him, enjoy His presence, send Him away, relish His departing form, and summon Him again. Nammāḻvār experienced the same insatiable delight. He declares: “At every moment, every day, every month, every year, through endless ages, You remain my inexhaustible nectar.” For Nammāḻvār, every instant brought a fresh experience of the Lord, an experience that could never lead to satiety.",
+      "en_description": "Arjuna tells Krishna that hearing about His glories, powers, and qualities never satisfies him, and requests Him to narrate them repeatedly. Dasaratha too never grew weary of beholding Rama’s beauty. He would call Rama to him, enjoy His presence, send Him away, relish His departing form, and summon Him again. Nammāḻvār experienced the same insatiable delight. He declares: “At every moment, every day, every month, every year, through endless ages, You remain my inexhaustible nectar.” For Nammāḻvār, every instant brought a fresh experience of the Lord, an experience that could never lead to satiety.",
+      "ta_description": "அர்ஜுனன் கண்ணன் எம்பெருமானிடம்: “உன்னுடைய விபூதி, குணங்கள், மஹிமைகள் – இவற்றைக் கேட்டதில் எனக்கு த்ருப்தியே பிறக்கவில்லை”. மறுபடியும் மறுபடியும் அவற்றை தெரிவிப்பாயாக என்கிறான். தசரதன் ராமபிரானுடைய வடிவழகு, நடை அழகு, இவற்றைக் கண்டு திருப்தி அடையவில்லை. அவன் ராமபிரானை அழைக்கிறான்; முன் அழகை அனுபவிக்கிறான்; அனுப்புகிறான்; பின்னழகை அனுபவிக்கிறான்; மறுபடியும் அழைக்கிறான். இவ்வாறு ராமபிரானை எத்தனை அநுபவித்தாலும் அவனுக்கு த்ருப்தி பிறக்கவில்லை. அதே நிலை ஸ்வாமி நம்மாழ்வாருக்கு ஏற்பட்டது. “எப்பொழுதும் நாள் திங்கள் ஆண்டு ஊழிஊழிதொறும் அப்பொழுதைக்கு அப்பொழுது என் ஆராவமுதமே” என்று அருளிச்செய்துள்ளார். ஸ்வாமி நம்மாழ்வாருக்கு ஒவ்வொரு க்ஷணமும் புதிய அனுபவம். அதுவும் த்ருப்தி பிறக்காத பகவத் அனுபவமாக இருந்தது.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    },
+    {
+      "id": "tms_saaram_05_07",
+      "type": "default",
+      "title": {
+        "en": "Comparing Swami Nammāḻvār with Prahlāda",
+        "ta": "ப்ரஹ்லாதனுடன் ஸ்வாமி நம்மாழ்வாரை ஒப்பிடுதல்"
+      },
+      "description": "The Purāṇas describe Prahlāda as the abode of truth, purity, righteousness, and all noble qualities, and as an exemplar for all saintly people. Similarly, Swami Nammāḻvār possessed not merely the virtues of Prahlāda but also the devotion, wisdom, spiritual experience, servitude, and loving surrender found individually in many great sages. Thus, he stands as a unique spiritual personality who embodies within himself the finest qualities of numerous enlightened souls.",
+      "en_description": "The Purāṇas describe Prahlāda as the abode of truth, purity, righteousness, and all noble qualities, and as an exemplar for all saintly people. Similarly, Swami Nammāḻvār possessed not merely the virtues of Prahlāda but also the devotion, wisdom, spiritual experience, servitude, and loving surrender found individually in many great sages. Thus, he stands as a unique spiritual personality who embodies within himself the finest qualities of numerous enlightened souls.",
+      "ta_description": "புராணங்கள் ப்ரஹ்லாதனைப் பற்றி தெரிவிப்பதாவது: “தர்மாத்மா ஸத்ய ஶௌசாதி குணாநாம் ஆகரஸ்ததா உபமாநம் அஶேஷாநாம் ஸாதூநாம் ய: ஸதா பவத்”. ப்ரஹ்லாதன் ஸத்யத்தின் இருப்பிடம்; மனத்தூய்மையோடு இருப்பவன்; எல்லா நற்குணங்களின் இருப்பிடமாகத் திகழ்ந்தான். மேலும் எல்லா ஸாதுக்களுக்கும் உதாரணமாக விளங்கினான். அதேபோல், ஸ்வாமி நம்மாழ்வார் ப்ரஹலாதனை மட்டும் அல்ல, பல ஞானிகளிடத்தில் காணப்படும் பக்தி, ஞானம், அனுபவம், தாஸ்யம், ப்ராவண்யம் என அனைத்தையும் தன்னிடத்திலேயே கொண்டிருந்தார்.",
+      "image": {
+        "src": "",
+        "caption": ""
+      },
+      "video": {
+        "videoname": ""
+      },
+      "slokam": null,
+      "cards": []
+    }
+  ]
+}
+```
