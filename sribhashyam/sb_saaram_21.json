@@ -19,6 +19,7 @@
       "video": {
         "videoname": "LNILtPDvToE"
       },
+      "slokam": null,
       "cards": [
         {
           "type": "default",
@@ -35,7 +36,8 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         },
         {
           "type": "default",
@@ -52,19 +54,20 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         }
       ]
     },
     {
       "id": "sb_saaram_21_02",
-      "type": "default",
+      "type": "slokam",
       "title": {
         "en": "The Fifth Adhikarana – Īkṣatyadhikaraṇa",
         "ta": "ஐந்தாவது அதிகரணம் – ஈக்ஷத்யதிகரணம்"
       },
-      "description": "At present, we are studying the Ayoga-vyavaccheda Pāda, specifically its first adhikaraṇa. In the Śrī Bhāṣya, this is the fifth adhikaraṇa, because the first four serve as an introduction (upodghāta). Those introductory sections establish that the Brahma Sūtras are a valid scripture, free from objections, possessing a worthy purpose, and therefore fit to be studied. Only after establishing these preliminaries does the actual philosophical discussion begin.\nThe fifth adhikaraṇa is called the Īkṣatyadhikaraṇa. Here the doubt arises from the Chāndogya Upaniṣad, in the famous passage known as the Sat-vidyā:\n\"Sad eva saumya idam agra āsīt, ekam eva advitīyam\"\n\"O gentle one, in the beginning, Existence (Sat) alone existed, one without a second.\"\nSince the Upaniṣad declares that Sat is the cause of the universe, the question becomes: What does the word \"Sat\" refer to?",
-      "en_description": "At present, we are studying the Ayoga-vyavaccheda Pāda, specifically its first adhikaraṇa. In the Śrī Bhāṣya, this is the fifth adhikaraṇa, because the first four serve as an introduction (upodghāta). Those introductory sections establish that the Brahma Sūtras are a valid scripture, free from objections, possessing a worthy purpose, and therefore fit to be studied. Only after establishing these preliminaries does the actual philosophical discussion begin.\nThe fifth adhikaraṇa is called the Īkṣatyadhikaraṇa. Here the doubt arises from the Chāndogya Upaniṣad, in the famous passage known as the Sat-vidyā:\n\"Sad eva saumya idam agra āsīt, ekam eva advitīyam\"\n\"O gentle one, in the beginning, Existence (Sat) alone existed, one without a second.\"\nSince the Upaniṣad declares that Sat is the cause of the universe, the question becomes: What does the word \"Sat\" refer to?",
+      "description": "At present, we are studying the Ayoga-vyavaccheda Pāda, specifically its first adhikaraṇa. In the Śrī Bhāṣya, this is the fifth adhikaraṇa, because the first four serve as an introduction (upodghāta). Those introductory sections establish that the Brahma Sūtras are a valid scripture, free from objections, possessing a worthy purpose, and therefore fit to be studied. Only after establishing these preliminaries does the actual philosophical discussion begin.\nThe fifth adhikaraṇa is called the Īkṣatyadhikaraṇa. Here the doubt arises from the Chāndogya Upaniṣad, in the famous passage known as the Sat-vidyā:\n\"sad eva somyedam agra āsīd ekam evādvitīyam.\"\n\"O gentle one, in the beginning, Existence (Sat) alone existed, one without a second.\"\nSince the Upaniṣad declares that Sat is the cause of the universe, the question becomes: What does the word \"Sat\" refer to?",
+      "en_description": "At present, we are studying the Ayoga-vyavaccheda Pāda, specifically its first adhikaraṇa. In the Śrī Bhāṣya, this is the fifth adhikaraṇa, because the first four serve as an introduction (upodghāta). Those introductory sections establish that the Brahma Sūtras are a valid scripture, free from objections, possessing a worthy purpose, and therefore fit to be studied. Only after establishing these preliminaries does the actual philosophical discussion begin.\nThe fifth adhikaraṇa is called the Īkṣatyadhikaraṇa. Here the doubt arises from the Chāndogya Upaniṣad, in the famous passage known as the Sat-vidyā:\n\"sad eva somyedam agra āsīd ekam evādvitīyam.\"\n\"O gentle one, in the beginning, Existence (Sat) alone existed, one without a second.\"\nSince the Upaniṣad declares that Sat is the cause of the universe, the question becomes: What does the word \"Sat\" refer to?",
       "ta_description": "தற்போது நாம் அயோக வ்யவச்சேத பாதத்தை, குறிப்பாக அதன் முதல் அதிகரணத்தை படித்து வருகிறோம். ஸ்ரீபாஷ்யத்தில் இது ஐந்தாவது அதிகரணம் ஆகும். ஏனெனில் முதல் நான்கு அதிகரணங்கள் உபோத்காதம் (முன்னுரை) ஆக அமைந்துள்ளன. அவை பிரம்ம சூத்திரம் ஒரு பிரமாணமான சாஸ்திரம், அதற்கு எந்தத் தடையும் இல்லை, அது உயர்ந்த பயனை உடையது, ஆகையால் அதைப் படிக்க வேண்டும் என்பவற்றை நிறுவுகின்றன. இந்த முன்னுரைகள் முடிந்த பிறகே உண்மையான தத்துவ விவாதம் தொடங்குகிறது.\nஇந்த ஐந்தாவது அதிகரணம் ஈக்ஷத்யதிகரணம் என்று அழைக்கப்படுகிறது. இங்கு எழும் சந்தேகம் சாந்தோக்ய உபநிஷத்தில் உள்ள ஸத்வித்யா என்ற பிரசித்தமான பகுதியிலிருந்து தோன்றுகிறது:\n\"ஸதேவ ஸோம்ய இதமக்ர ஆஸீத், ஏகமேவ அத்விதீயம்\"\n\"சௌம்யா! இந்த உலகம் தோன்றுவதற்கு முன், 'ஸத்' மட்டுமே இருந்தது; அது ஒன்றே, இரண்டாவது எதுவுமில்லாதது.\"\nஉபநிஷத் உலகிற்குக் காரணம் 'ஸத்' என்று கூறுவதால், 'ஸத்' என்ற சொல்லால் யார் குறிக்கப்படுகிறார்? என்ற கேள்வி எழுகிறது.",
       "image": {
         "src": "",
@@ -73,8 +76,10 @@
       "video": {
         "videoname": ""
       },
-      "slokam": null,
-      "cards": []
+      "slokam": {
+        "sanskrit": "सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम्‌॥",
+        "transliteration": "All this world was present as one object known as Sat during Pralaya; they couldn’t be distinguished by name or form; there was none other."
+      }
     },
     {
       "id": "sb_saaram_21_03",
@@ -83,8 +88,8 @@
         "en": "The Pūrvapakṣa – Sāṅkhya's View that Sat is Pradhāna",
         "ta": "பூர்வபக்ஷம் – ஸத் பிரதானம் என்ற சாங்க்யக் கருத்து"
       },
-      "description": "At this point, the Pūrvapakṣin (the opponent), who follows the Sāṅkhya philosophy of Sage Kapila, argues that \"Sat\" refers to Pradhāna, the primordial, insentient Prakṛti. His reasoning is that since the world is largely insentient, its cause must also be insentient. This is based on the principle that the effect resembles its material cause. Just as a clay pot comes from clay and not from gold, the insentient universe must arise from insentient primordial matter.",
-      "en_description": "At this point, the Pūrvapakṣin (the opponent), who follows the Sāṅkhya philosophy of Sage Kapila, argues that \"Sat\" refers to Pradhāna, the primordial, insentient Prakṛti. His reasoning is that since the world is largely insentient, its cause must also be insentient. This is based on the principle that the effect resembles its material cause. Just as a clay pot comes from clay and not from gold, the insentient universe must arise from insentient primordial matter.",
+      "description": "At this point, the Pūrvapakṣi (the opponent), who follows the Sāṅkhya philosophy of Sage Kapila, argues that \"Sat\" refers to Pradhāna, the primordial, insentient Prakṛti. His reasoning is that since the world is largely insentient, its cause must also be insentient. This is based on the principle that the effect resembles its material cause. Just as a clay pot comes from clay and not from gold, the insentient universe must arise from insentient primordial matter.",
+      "en_description": "At this point, the Pūrvapakṣi (the opponent), who follows the Sāṅkhya philosophy of Sage Kapila, argues that \"Sat\" refers to Pradhāna, the primordial, insentient Prakṛti. His reasoning is that since the world is largely insentient, its cause must also be insentient. This is based on the principle that the effect resembles its material cause. Just as a clay pot comes from clay and not from gold, the insentient universe must arise from insentient primordial matter.",
       "ta_description": "இங்கு கபில முனிவரின் சாங்க்ய தத்துவத்தைப் பின்பற்றும் பூர்வபக்ஷி, 'ஸத்' என்பது மூலப் பிரகிருதி (பிரதானம்) என்று வாதிடுகிறான். அவன் கூறுவது: உலகம் பெரும்பாலும் அசேதனமாக இருப்பதால், அதன் காரணமும் அசேதனமாகவே இருக்க வேண்டும். இது காரிய-காரண சாம்யம் என்ற நியாயத்தை அடிப்படையாகக் கொண்டது. மண் குடம் மண்ணிலிருந்தே உருவாகிறது; தங்கத்திலிருந்து அல்ல. அதுபோல அசேதனமான உலகிற்குக் காரணமும் அசேதனமான மூலப் பிரகிருதியே ஆக வேண்டும் என்று அவன் வாதிடுகிறான்.",
       "image": {
         "src": "",
