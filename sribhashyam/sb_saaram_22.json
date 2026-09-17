@@ -161,7 +161,6 @@
       "slokam": null,
       "cards": [
         {
-          "id": "sb_saaram_22_05_01",
           "type": "default",
           "title": {
             "en": "The First Level — Mānuṣa Ānanda",
@@ -177,11 +176,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_02",
           "type": "default",
           "title": {
             "en": "The Ānanda Is Increased Hundredfold",
@@ -197,11 +194,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_03",
           "type": "default",
           "title": {
             "en": "Human Gandharvas",
@@ -217,11 +212,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_04",
           "type": "default",
           "title": {
             "en": "Deva Gandharvas and Ājānajānas",
@@ -237,11 +230,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_05",
           "type": "default",
           "title": {
             "en": "Karma Devas and Bṛhaspati",
@@ -257,11 +248,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_06",
           "type": "default",
           "title": {
             "en": "Finally, the Ānanda of Brahmā",
@@ -277,11 +266,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_07",
           "type": "default",
           "title": {
             "en": "Beyond the Ānanda of Brahmā",
@@ -297,11 +284,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_08",
           "type": "default",
           "title": {
             "en": "Niratishaya Ānanda",
@@ -317,11 +302,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_09",
           "type": "default",
           "title": {
             "en": "The Ānanda of Paramātma",
@@ -337,11 +320,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_10",
           "type": "default",
           "title": {
             "en": "Why This Ānanda Cannot Belong to the Jīvātma",
@@ -357,11 +338,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_11",
           "type": "default",
           "title": {
             "en": "The Purpose of the Progressive Teaching",
@@ -377,11 +356,9 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         },
         {
-          "id": "sb_saaram_22_05_12",
           "type": "default",
           "title": {
             "en": "Conclusion: Ānandamaya Is Paramātma",
@@ -397,8 +374,7 @@
           "video": {
             "videoname": ""
           },
-          "slokam": null,
-          "cards": []
+          "slokam": null
         }
       ]
     },
