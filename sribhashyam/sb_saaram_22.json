@@ -122,8 +122,8 @@
       "id": "sb_saaram_22_04",
       "type": "slokam",
       "title": {
-        "en": "Vedavyāsa's Refutation – Ānandamayo'bhyāsāt",
-        "ta": "வேதவியாசரின் மறுப்பு – ஆனந்தமயோऽப்யாஸாத்"
+        "en": "The Sūtra – Ānandamayo'bhyāsāt",
+        "ta": "சூத்திரம் – ஆனந்தமயோऽப்யாஸாத்"
       },
       "description": "How does Vedavyāsa reject this Pūrvapakṣa? He gives the Sūtra Ānandamayo'bhyāsāt. The important word here is Abhyāsa, which means repetition, repeated emphasis, or progressively increasing something — as when we speak of practising something again and again ('Have you done your Abhyāsa?'). But here, the idea is that something is repeatedly and progressively increased. What is progressively increased in the Taittirīya Upaniṣad? It is Ānanda — bliss. The Upaniṣad progressively increases the measure of Ānanda, taking us from one level of happiness to another, higher and higher level, finally reaching a state of unlimited Ānanda. The one who possesses such unlimited Ānanda is identified with the Ānandamaya. Therefore, such unlimited Ānanda cannot belong to the ordinary Jīvātma. Consequently, the Ānandamaya must be a principle different from the Jīvātma. Vedavyāsa therefore establishes that the Ānandamaya is Sarveśvara / Paramātma, and not the Jīvātma.",
       "en_description": "How does Vedavyāsa reject this Pūrvapakṣa? He gives the Sūtra Ānandamayo'bhyāsāt. The important word here is Abhyāsa, which means repetition, repeated emphasis, or progressively increasing something — as when we speak of practising something again and again ('Have you done your Abhyāsa?'). But here, the idea is that something is repeatedly and progressively increased. What is progressively increased in the Taittirīya Upaniṣad? It is Ānanda — bliss. The Upaniṣad progressively increases the measure of Ānanda, taking us from one level of happiness to another, higher and higher level, finally reaching a state of unlimited Ānanda. The one who possesses such unlimited Ānanda is identified with the Ānandamaya. Therefore, such unlimited Ānanda cannot belong to the ordinary Jīvātma. Consequently, the Ānandamaya must be a principle different from the Jīvātma. Vedavyāsa therefore establishes that the Ānandamaya is Sarveśvara / Paramātma, and not the Jīvātma.",
@@ -141,6 +141,10 @@
       },
       "cards": []
     },
+    "Yes. Since",
+    "sb_saaram_22_05\" is a detailed concept, I would make it a **parent card with smaller subcards**. This keeps the main topic “The Progressive Increase of Ānanda” while allowing each stage to be taught separately.\n\n",
+    "",
+    "json",
     {
       "id": "sb_saaram_22_05",
       "type": "default",
@@ -148,9 +152,9 @@
         "en": "The Progressive Increase of Ānanda",
         "ta": "ஆனந்தத்தின் படிப்படியான அதிகரிப்பு"
       },
-      "description": "Let us understand what the Upaniṣad is doing when it progressively increases Ānanda. The Taittirīya Upaniṣad begins with the Ānanda of a human being — imagining an exceptionally fortunate and accomplished person: one with no disease, possessing great ability and intelligence, able to learn something once and remember it, and possessing enormous wealth (imagine the entire world filled with gold and given to him), along with education, strength, ability and all other desirable qualities. This is taken as the first level — Mānuṣa Ānanda, the happiness of an ideal human being. The Upaniṣad then progressively increases the amount of Ānanda through various classes of higher beings, each level's Ānanda being described as one hundred times greater than the preceding one: human Gandharvas, Deva Gandharvas, Ājānajānas, Karma Devas, Bṛhaspati, and finally Brahmā, the four-faced. At every level, the Ānanda is increased again and again — conceptually, each successive level is a hundredfold multiple of the one before it. Eventually the Upaniṣad reaches Brahmā and describes the immense degree of Ānanda associated with him. But even after reaching Brahmā, the Upaniṣad asks us to consider the Ānanda of Brahmam itself. Can we reach the Ānanda of Brahmam through ordinary calculation? No — the Ānanda of Brahmam is beyond the reach of ordinary speech and mind. It is unlimited Ānanda — Niratishaya Ānanda. And if the Ānanda of Brahmam itself is immeasurable and beyond our comprehension, then the Ānanda of the Paramātma, who is the creator and source of Brahmā, is infinitely beyond the Ānanda experienced by all created beings. This progressive increase in Ānanda therefore leads us to the Niratishaya Ānanda of Paramātma. Such unlimited Ānanda cannot be attributed to the ordinary Jīvātma. This is why the Upaniṣad's teaching establishes that the Ānandamaya is Paramātma and not the Jīvātma.",
-      "en_description": "Let us understand what the Upaniṣad is doing when it progressively increases Ānanda. The Taittirīya Upaniṣad begins with the Ānanda of a human being — imagining an exceptionally fortunate and accomplished person: one with no disease, possessing great ability and intelligence, able to learn something once and remember it, and possessing enormous wealth (imagine the entire world filled with gold and given to him), along with education, strength, ability and all other desirable qualities. This is taken as the first level — Mānuṣa Ānanda, the happiness of an ideal human being. The Upaniṣad then progressively increases the amount of Ānanda through various classes of higher beings, each level's Ānanda being described as one hundred times greater than the preceding one: human Gandharvas, Deva Gandharvas, Ājānajānas, Karma Devas, Bṛhaspati, and finally Brahmā, the four-faced. At every level, the Ānanda is increased again and again — conceptually, each successive level is a hundredfold multiple of the one before it. Eventually the Upaniṣad reaches Brahmā and describes the immense degree of Ānanda associated with him. But even after reaching Brahmā, the Upaniṣad asks us to consider the Ānanda of Brahmam itself. Can we reach the Ānanda of Brahmam through ordinary calculation? No — the Ānanda of Brahmam is beyond the reach of ordinary speech and mind. It is unlimited Ānanda — Niratishaya Ānanda. And if the Ānanda of Brahmam itself is immeasurable and beyond our comprehension, then the Ānanda of the Paramātma, who is the creator and source of Brahmā, is infinitely beyond the Ānanda experienced by all created beings. This progressive increase in Ānanda therefore leads us to the Niratishaya Ānanda of Paramātma. Such unlimited Ānanda cannot be attributed to the ordinary Jīvātma. This is why the Upaniṣad's teaching establishes that the Ānandamaya is Paramātma and not the Jīvātma.",
-      "ta_description": "உபநிஷத் ஆனந்தத்தைப் படிப்படியாக அதிகரிக்கும்போது என்ன செய்கிறது என்பதைப் புரிந்துகொள்வோம். தைத்திரீய உபநிஷத் ஒரு மனிதனின் ஆனந்தத்துடன் தொடங்குகிறது — மிகவும் அதிர்ஷ்டசாலியான, சாதனை மிக்க ஒரு மனிதனை கற்பனை செய்கிறது: நோயில்லாதவன், சிறந்த திறமையும் அறிவும் உடையவன், ஒரு முறை கற்றதை நினைவில் வைத்துக்கொள்ளும் ஆற்றல் உடையவன், மேலும் மகத்தான செல்வம் உடையவன் (முழு உலகமும் தங்கத்தால் நிரப்பப்பட்டு அவனுக்குக் கொடுக்கப்பட்டதாகக் கற்பனை செய்க), கல்வி, பலம், திறமை மற்றும் விரும்பத்தக்க மற்ற அனைத்து குணங்களையும் உடையவன். இது முதல் நிலையாக எடுத்துக்கொள்ளப்படுகிறது — மானுஷ ஆனந்தம், ஒரு இலட்சிய மனிதனின் மகிழ்ச்சி. அதன்பிறகு உபநிஷத் பல்வேறு உயர்ந்த உயிரினங்களின் வகைகள் வழியாக ஆனந்தத்தின் அளவைப் படிப்படியாக அதிகரிக்கிறது, ஒவ்வொரு நிலையின் ஆனந்தமும் முந்தைய நிலையை விட நூறு மடங்கு அதிகமாக விவரிக்கப்படுகிறது: மனித கந்தர்வர்கள், தேவ கந்தர்வர்கள், ஆஜானஜாக்கள், கர்ம தேவர்கள், பிருஹஸ்பதி, இறுதியாக நான்முகன் பிரம்மா. ஒவ்வொரு நிலையிலும், ஆனந்தம் மீண்டும் மீண்டும் அதிகரிக்கப்படுகிறது — கருத்தளவில், ஒவ்வொரு அடுத்த நிலையும் முந்தைய நிலையை விட நூறு மடங்கு அதிகமாகும். இறுதியில் உபநிஷத் பிரம்மாவை அடைந்து, அவருடன் தொடர்புடைய மகத்தான ஆனந்த அளவை விவரிக்கிறது. ஆனால் பிரம்மாவை அடைந்த பின்னரும், பிரம்மத்தின் ஆனந்தத்தையே கருத்தில் கொள்ளுமாறு உபநிஷத் நம்மைக் கேட்கிறது. சாதாரணக் கணக்கீட்டின் மூலம் பிரம்மத்தின் ஆனந்தத்தை அடைய முடியுமா? முடியாது — பிரம்மத்தின் ஆனந்தம் சாதாரண சொல் மற்றும் மனதிற்கு அப்பாற்பட்டது. அது எல்லையற்ற ஆனந்தம் — நிரதிசய ஆனந்தம். பிரம்மத்தின் ஆனந்தமே அளவிட முடியாததாகவும் நமது புரிதலுக்கு அப்பாற்பட்டதாகவும் இருக்குமெனில், பிரம்மாவின் படைப்பாளியும் மூலமுமான பரமாத்மாவின் ஆனந்தம், படைக்கப்பட்ட அனைத்து உயிரினங்களும் அனுபவிக்கும் ஆனந்தத்தை விட எல்லையின்றி மேலானது. ஆகவே இந்த ஆனந்தத்தின் படிப்படியான அதிகரிப்பு நம்மைப் பரமாத்மாவின் நிரதிசய ஆனந்தத்திற்கு அழைத்துச் செல்கிறது. இத்தகைய எல்லையற்ற ஆனந்தம் சாதாரண ஜீவாத்மாவிற்குக் கூற முடியாது. இதனாலேயே, ஆனந்தமயன் பரமாத்மாவே அன்றி ஜீவாத்மா அல்ல என்பதை உபநிஷத்தின் போதனை நிறுவுகிறது.",
+      "description": "The Taittirīya Upaniṣad explains the greatness of Ānanda by progressively increasing the level of happiness from an ideal human being to higher and higher beings, ultimately leading to the unlimited Ānanda of Paramātma.",
+      "en_description": "The Taittirīya Upaniṣad explains the greatness of Ānanda by progressively increasing the level of happiness from an ideal human being to higher and higher beings, ultimately leading to the unlimited Ānanda of Paramātma.",
+      "ta_description": "தைத்திரீய உபநிஷத் ஆனந்தத்தின் மகத்துவத்தைப் படிப்படியாக விளக்குகிறது. ஒரு இலட்சிய மனிதனின் ஆனந்தத்திலிருந்து தொடங்கி, தொடர்ந்து உயர்ந்த உயிரினங்களின் ஆனந்தத்தை எடுத்துக்கொண்டு, இறுதியில் பரமாத்மாவின் எல்லையற்ற ஆனந்தத்தை நோக்கி நம்மை அழைத்துச் செல்கிறது.",
       "image": {
         "src": "",
         "caption": ""
@@ -159,7 +163,248 @@
         "videoname": ""
       },
       "slokam": null,
-      "cards": []
+      "cards": [
+        {
+          "id": "sb_saaram_22_05_01",
+          "type": "default",
+          "title": {
+            "en": "The First Level — Mānuṣa Ānanda",
+            "ta": "முதல் நிலை — மானுஷ ஆனந்தம்"
+          },
+          "description": "The Taittirīya Upaniṣad begins with the Ānanda of an ideal human being. It imagines a person who is free from disease, possesses great ability and intelligence, can learn something once and remember it, and has enormous wealth. We may imagine the entire world filled with gold and given to this person. He also possesses education, strength, ability and all other desirable qualities. This is called Mānuṣa Ānanda — the happiness of an ideal human being.",
+          "en_description": "The Taittirīya Upaniṣad begins with the Ānanda of an ideal human being. It imagines a person who is free from disease, possesses great ability and intelligence, can learn something once and remember it, and has enormous wealth. We may imagine the entire world filled with gold and given to this person. He also possesses education, strength, ability and all other desirable qualities. This is called Mānuṣa Ānanda — the happiness of an ideal human being.",
+          "ta_description": "தைத்திரீய உபநிஷத் ஒரு இலட்சிய மனிதனின் ஆனந்தத்துடன் தொடங்குகிறது. நோயற்றவன், சிறந்த திறமையும் அறிவும் உடையவன், ஒரு முறை கற்றதை நினைவில் வைத்துக்கொள்ளும் ஆற்றல் உடையவன், மேலும் அளவற்ற செல்வம் உடையவன் என்று ஒரு மனிதனை அது கற்பனை செய்கிறது. முழு உலகமும் தங்கத்தால் நிரப்பப்பட்டு அவனுக்குக் கொடுக்கப்பட்டதாகவும் கற்பனை செய்யலாம். கல்வி, பலம், திறமை மற்றும் விரும்பத்தக்க அனைத்து குணங்களும் அவனிடம் உள்ளன. இந்த ஆனந்தமே மானுஷ ஆனந்தம் — ஒரு இலட்சிய மனிதனின் மகிழ்ச்சி.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_02",
+          "type": "default",
+          "title": {
+            "en": "The Ānanda Is Increased Hundredfold",
+            "ta": "ஆனந்தம் நூறு மடங்காக அதிகரிக்கிறது"
+          },
+          "description": "The Upaniṣad then progressively increases the amount of Ānanda. Each successive level is described as one hundred times greater than the preceding level. This repeated increase helps us understand the vast difference between the happiness of an ordinary human being and the happiness associated with higher beings.",
+          "en_description": "The Upaniṣad then progressively increases the amount of Ānanda. Each successive level is described as one hundred times greater than the preceding level. This repeated increase helps us understand the vast difference between the happiness of an ordinary human being and the happiness associated with higher beings.",
+          "ta_description": "அதன்பிறகு உபநிஷத் ஆனந்தத்தின் அளவைப் படிப்படியாக அதிகரிக்கிறது. ஒவ்வொரு அடுத்த நிலையின் ஆனந்தமும், அதற்கு முந்தைய நிலையை விட நூறு மடங்கு அதிகமாகக் கூறப்படுகிறது. இவ்வாறு மீண்டும் மீண்டும் அதிகரிப்பதன் மூலம், ஒரு சாதாரண மனிதனின் மகிழ்ச்சிக்கும் உயர்ந்த உயிரினங்களின் மகிழ்ச்சிக்கும் இடையிலுள்ள மிகப் பெரிய வேறுபாட்டை உபநிஷத் நமக்குப் புரியவைக்கிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_03",
+          "type": "default",
+          "title": {
+            "en": "Human Gandharvas",
+            "ta": "மனித கந்தர்வர்கள்"
+          },
+          "description": "After Mānuṣa Ānanda, the Upaniṣad moves to the next higher level — the Ānanda of human Gandharvas. This level is one hundred times greater than the Ānanda of the ideal human being.",
+          "en_description": "After Mānuṣa Ānanda, the Upaniṣad moves to the next higher level — the Ānanda of human Gandharvas. This level is one hundred times greater than the Ānanda of the ideal human being.",
+          "ta_description": "மானுஷ ஆனந்தத்திற்குப் பிறகு, உபநிஷத் அடுத்த உயர்ந்த நிலையான மனித கந்தர்வர்களின் ஆனந்தத்தை எடுத்துக்கொள்கிறது. இந்த நிலையின் ஆனந்தம் இலட்சிய மனிதனின் ஆனந்தத்தை விட நூறு மடங்கு அதிகமாகும்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_04",
+          "type": "default",
+          "title": {
+            "en": "Deva Gandharvas and Ājānajānas",
+            "ta": "தேவ கந்தர்வர்கள் மற்றும் ஆஜானஜாக்கள்"
+          },
+          "description": "The Upaniṣad continues the progression by moving from human Gandharvas to Deva Gandharvas and then to Ājānajānas. At each step, the level of Ānanda is again increased by one hundred times.",
+          "en_description": "The Upaniṣad continues the progression by moving from human Gandharvas to Deva Gandharvas and then to Ājānajānas. At each step, the level of Ānanda is again increased by one hundred times.",
+          "ta_description": "உபநிஷத் இந்தப் படிநிலையைத் தொடர்ந்து, மனித கந்தர்வர்களிலிருந்து தேவ கந்தர்வர்களுக்கும், பின்னர் ஆஜானஜாக்களுக்கும் செல்கிறது. ஒவ்வொரு நிலையிலும் ஆனந்தத்தின் அளவு மீண்டும் நூறு மடங்கு அதிகரிக்கப்படுகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_05",
+          "type": "default",
+          "title": {
+            "en": "Karma Devas and Bṛhaspati",
+            "ta": "கர்ம தேவர்கள் மற்றும் பிருஹஸ்பதி"
+          },
+          "description": "The progression continues further to Karma Devas and then to Bṛhaspati. At every stage, the Ānanda is again increased by one hundred times compared with the preceding level.",
+          "en_description": "The progression continues further to Karma Devas and then to Bṛhaspati. At every stage, the Ānanda is again increased by one hundred times compared with the preceding level.",
+          "ta_description": "இந்தப் படிநிலை மேலும் கர்ம தேவர்களுக்கும் பின்னர் பிருஹஸ்பதிக்கும் செல்கிறது. ஒவ்வொரு நிலையிலும், முந்தைய நிலையை விட ஆனந்தத்தின் அளவு மீண்டும் நூறு மடங்கு அதிகரிக்கப்படுகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_06",
+          "type": "default",
+          "title": {
+            "en": "Finally, the Ānanda of Brahmā",
+            "ta": "இறுதியில், பிரம்மாவின் ஆனந்தம்"
+          },
+          "description": "The progression finally reaches Brahmā, the four-faced creator. By this point, the Ānanda has been increased through many successive levels, each being one hundred times greater than the preceding one. The Upaniṣad therefore describes an immense degree of Ānanda associated with Brahmā.",
+          "en_description": "The progression finally reaches Brahmā, the four-faced creator. By this point, the Ānanda has been increased through many successive levels, each being one hundred times greater than the preceding one. The Upaniṣad therefore describes an immense degree of Ānanda associated with Brahmā.",
+          "ta_description": "இந்த ஆனந்தப் படிநிலை இறுதியில் நான்முகன் பிரம்மாவை அடைகிறது. இந்த நிலையில், ஆனந்தம் பல தொடர்ச்சியான நிலைகளின் வழியாக அதிகரிக்கப்பட்டுள்ளது; ஒவ்வொரு நிலையும் முந்தைய நிலையை விட நூறு மடங்கு அதிகமானதாகும். ஆகவே, பிரம்மாவுடன் தொடர்புடைய மிகப் பெரிய ஆனந்த அளவை உபநிஷத் எடுத்துரைக்கிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_07",
+          "type": "default",
+          "title": {
+            "en": "Beyond the Ānanda of Brahmā",
+            "ta": "பிரம்மாவின் ஆனந்தத்திற்கும் அப்பால்"
+          },
+          "description": "Even after reaching the level of Brahmā, the Upaniṣad asks us to consider the Ānanda of Brahmam itself. The question is whether the Ānanda of Brahmam can be reached or measured through ordinary calculation. It cannot. The Ānanda of Brahmam is beyond the reach of ordinary speech and mind.",
+          "en_description": "Even after reaching the level of Brahmā, the Upaniṣad asks us to consider the Ānanda of Brahmam itself. The question is whether the Ānanda of Brahmam can be reached or measured through ordinary calculation. It cannot. The Ānanda of Brahmam is beyond the reach of ordinary speech and mind.",
+          "ta_description": "பிரம்மாவின் நிலையை அடைந்த பின்னரும், பிரம்மத்தின் ஆனந்தத்தையே கருத்தில் கொள்ளுமாறு உபநிஷத் நம்மை வழிநடத்துகிறது. பிரம்மத்தின் ஆனந்தத்தை சாதாரணக் கணக்கீட்டின் மூலம் அடையவோ அளவிடவோ முடியுமா என்பது கேள்வியாகிறது. முடியாது. பிரம்மத்தின் ஆனந்தம் சாதாரண வாக்குக்கும் மனதிற்கும் அப்பாற்பட்டது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_08",
+          "type": "default",
+          "title": {
+            "en": "Niratishaya Ānanda",
+            "ta": "நிரதிசய ஆனந்தம்"
+          },
+          "description": "The Ānanda of Brahmam is unlimited. It is called Niratishaya Ānanda — unsurpassed and immeasurable Ānanda. It cannot be understood as merely another level in the numerical progression. The teaching points to Ānanda that is beyond ordinary measurement and comprehension.",
+          "en_description": "The Ānanda of Brahmam is unlimited. It is called Niratishaya Ānanda — unsurpassed and immeasurable Ānanda. It cannot be understood as merely another level in the numerical progression. The teaching points to Ānanda that is beyond ordinary measurement and comprehension.",
+          "ta_description": "பிரம்மத்தின் ஆனந்தம் எல்லையற்றது. அது நிரதிசய ஆனந்தம் — ஒப்பற்றதும் அளவிட முடியாததுமான ஆனந்தம் என்று கூறப்படுகிறது. இது வெறும் எண்ணிக்கை அடிப்படையிலான தொடரில் வரும் மற்றொரு நிலையாகப் புரிந்துகொள்ளப்படக் கூடாது. சாதாரண அளவீடு மற்றும் புரிதலுக்கு அப்பாற்பட்ட ஆனந்தத்தையே இந்தப் போதனை சுட்டிக்காட்டுகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_09",
+          "type": "default",
+          "title": {
+            "en": "The Ānanda of Paramātma",
+            "ta": "பரமாத்மாவின் ஆனந்தம்"
+          },
+          "description": "If the Ānanda of Brahmam itself is immeasurable and beyond our comprehension, then the Ānanda of Paramātma, who is the creator and source of Brahmā, is beyond the Ānanda experienced by all created beings. Thus, the progressive increase in Ānanda ultimately leads us to the unlimited Ānanda of Paramātma.",
+          "en_description": "If the Ānanda of Brahmam itself is immeasurable and beyond our comprehension, then the Ānanda of Paramātma, who is the creator and source of Brahmā, is beyond the Ānanda experienced by all created beings. Thus, the progressive increase in Ānanda ultimately leads us to the unlimited Ānanda of Paramātma.",
+          "ta_description": "பிரம்மத்தின் ஆனந்தமே அளவிட முடியாததாகவும் நமது புரிதலுக்கு அப்பாற்பட்டதாகவும் இருக்குமெனில், பிரம்மாவின் படைப்பாளியும் மூலமுமான பரமாத்மாவின் ஆனந்தம், படைக்கப்பட்ட அனைத்து உயிரினங்களும் அனுபவிக்கும் ஆனந்தத்தை விட மேலானது என்பதைப் புரிந்துகொள்ள வேண்டும். ஆகவே, ஆனந்தத்தின் படிப்படியான அதிகரிப்பு இறுதியில் பரமாத்மாவின் எல்லையற்ற ஆனந்தத்தை நோக்கி நம்மை அழைத்துச் செல்கிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_10",
+          "type": "default",
+          "title": {
+            "en": "Why This Ānanda Cannot Belong to the Jīvātma",
+            "ta": "இந்த ஆனந்தம் ஜீவாத்மாவுக்குரியது அல்ல"
+          },
+          "description": "Such unlimited Ānanda cannot be attributed to the ordinary Jīvātma. The Jīvātma is a created being whose experience of happiness is limited. The Upaniṣad's progressive teaching therefore points beyond the Jīvātma to Paramātma, whose Ānanda is unlimited.",
+          "en_description": "Such unlimited Ānanda cannot be attributed to the ordinary Jīvātma. The Jīvātma is a created being whose experience of happiness is limited. The Upaniṣad's progressive teaching therefore points beyond the Jīvātma to Paramātma, whose Ānanda is unlimited.",
+          "ta_description": "இத்தகைய எல்லையற்ற ஆனந்தத்தை சாதாரண ஜீவாத்மாவுக்குக் கூற முடியாது. ஜீவாத்மா ஒரு படைக்கப்பட்ட உயிர்; அதன் ஆனந்த அனுபவம் வரையறுக்கப்பட்டது. எனவே, உபநிஷத்தின் இந்தப் படிப்படியான போதனை ஜீவாத்மாவைத் தாண்டி, எல்லையற்ற ஆனந்தம் உடைய பரமாத்மாவை நோக்கிக் காட்டுகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_11",
+          "type": "default",
+          "title": {
+            "en": "The Purpose of the Progressive Teaching",
+            "ta": "இந்தப் படிப்படியான போதனையின் நோக்கம்"
+          },
+          "description": "The progressive increase in Ānanda is not merely a numerical calculation. It is a method used by the Upaniṣad to help us understand the immeasurable greatness of the Ānanda of Paramātma. Beginning with Mānuṣa Ānanda and moving through higher beings, the teaching finally directs our understanding towards Niratishaya Ānanda.",
+          "en_description": "The progressive increase in Ānanda is not merely a numerical calculation. It is a method used by the Upaniṣad to help us understand the immeasurable greatness of the Ānanda of Paramātma. Beginning with Mānuṣa Ānanda and moving through higher beings, the teaching finally directs our understanding towards Niratishaya Ānanda.",
+          "ta_description": "ஆனந்தத்தின் இந்தப் படிப்படியான அதிகரிப்பு வெறும் எண்ணிக்கை அடிப்படையிலான கணக்கீடு அல்ல. பரமாத்மாவின் அளவிட முடியாத மகத்துவமான ஆனந்தத்தை நமக்குப் புரியவைக்க உபநிஷத் பயன்படுத்தும் ஒரு முறையாகும். மானுஷ ஆனந்தத்திலிருந்து தொடங்கி, உயர்ந்த உயிரினங்களின் ஆனந்தத்தின் வழியாகச் சென்று, இறுதியில் இந்தப் போதனை நம்மை நிரதிசய ஆனந்தத்தை நோக்கி வழிநடத்துகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        },
+        {
+          "id": "sb_saaram_22_05_12",
+          "type": "default",
+          "title": {
+            "en": "Conclusion: Ānandamaya Is Paramātma",
+            "ta": "முடிவு: ஆனந்தமயன் பரமாத்மாவே"
+          },
+          "description": "The progressive increase in Ānanda ultimately establishes the distinction between Paramātma and the Jīvātma. The unlimited Ānanda described by the Upaniṣad cannot belong to the ordinary Jīvātma. Therefore, the Ānandamaya referred to in this teaching is Paramātma and not the Jīvātma.",
+          "en_description": "The progressive increase in Ānanda ultimately establishes the distinction between Paramātma and the Jīvātma. The unlimited Ānanda described by the Upaniṣad cannot belong to the ordinary Jīvātma. Therefore, the Ānandamaya referred to in this teaching is Paramātma and not the Jīvātma.",
+          "ta_description": "ஆனந்தத்தின் படிப்படியான அதிகரிப்பு இறுதியில் பரமாத்மாவுக்கும் ஜீவாத்மாவுக்கும் இடையிலான வேறுபாட்டை நிறுவுகிறது. உபநிஷத் விவரிக்கும் எல்லையற்ற ஆனந்தம் சாதாரண ஜீவாத்மாவுக்குரியதாக இருக்க முடியாது. ஆகவே, இந்தப் போதனையில் குறிப்பிடப்படும் ஆனந்தமயன் ஜீவாத்மா அல்ல; பரமாத்மாவே ஆவார்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          },
+          "slokam": null,
+          "cards": []
+        }
+      ]
     },
     {
       "id": "sb_saaram_22_06",
