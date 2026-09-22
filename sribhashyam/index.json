@@ -128,6 +128,12 @@
       "topicId": "sb_saaram_22",
       "title": "22. Sixth Adhikaranam - Anandamayadhikaranam (1.1.6)",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_22.json"
+    },
+	{
+      "order": 23,
+      "topicId": "sb_saaram_23",
+      "title": "22. Seventh Adhikaranam - Antar Adhikaranam (1.1.7)",
+      "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_23.json"
     }
   ]
 }
