@@ -120,26 +120,32 @@
 	{
       "order": 21,
       "topicId": "sb_saaram_21",
-      "title": "20. Fifth Adhikaranam - Ikshatyadhikaranam(1.1.5)",
+      "title": "20. Ikshatyadhikaranam(1.1.5)",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_21.json"
     },
 	{
       "order": 22,
       "topicId": "sb_saaram_22",
-      "title": "22. Sixth Adhikaranam - Anandamayadhikaranam (1.1.6)",
+      "title": "22. Anandamayadhikaranam (1.1.6)",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_22.json"
     },
 	{
       "order": 23,
       "topicId": "sb_saaram_23",
-      "title": "23. Seventh Adhikaranam - Antar Adhikaranam (1.1.7)",
+      "title": "23. Antar Adhikaranam (1.1.7)",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_23.json"
     },
 	{
       "order": 24,
       "topicId": "sb_saaram_24",
-      "title": "24. Eighth and Ninth Adhikaraṇams - Ākāsha Adhikaraṇamm and Prāṇa Adhikaraṇamm (1.1.8–1.1.9)",
+      "title": "24. Ākāsha Adhikaraṇam and Prāṇa Adhikaraṇam (1.1.8–1.1.9)",
       "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_24.json"
+    },
+	{
+      "order": 25,
+      "topicId": "sb_saaram_25",
+      "title": "25. JyotirAdhikaranam Explained (1.1.10)",
+      "file": "https://raw.githubusercontent.com/RamanujaVidya/ramanuja_vidya/refs/heads/main/sribhashyam/sb_saaram_25.json"
     }
   ]
 }
