@@ -103,6 +103,7 @@
       "video": {
         "videoname": ""
       },
+      "slokam": null,
       "cards": [
         {
           "type": "default",
@@ -119,7 +120,8 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         },
         {
           "type": "default",
@@ -136,10 +138,11 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         },
         {
-          "type": "default",
+          "type": "slokam",
           "title": {
             "en": "Establishing the Connection Between the Two Upaniṣadic Statements",
             "ta": "இரண்டு உபநிஷத் வாக்கியங்களுக்கும் இடையிலான தொடர்பை நிலைநாட்டுதல்"
@@ -153,7 +156,12 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": {
+        "sanskrit": "पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि ।",
+        "transliteration": "Pādo 'sya viśvā bhūtāni tripād asyāmṛtaṃ divi.",
+        "meaning": "All beings constitute one quarter of Him; His three immortal quarters are in the heavenly realm."
+		},
         },
         {
           "type": "default",
@@ -170,7 +178,8 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         },
         {
           "type": "default",
@@ -187,7 +196,8 @@
           },
           "video": {
             "videoname": ""
-          }
+          },
+          "slokam": null
         }
       ]
     },
