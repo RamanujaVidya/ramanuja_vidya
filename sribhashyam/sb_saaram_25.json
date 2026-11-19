@@ -157,10 +157,7 @@
           "video": {
             "videoname": ""
           },
-          "slokam": {
-            "sanskrit": "पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवि ।",
-            "transliteration": "Pādo 'sya viśvā bhūtāni tripād asyāmṛtaṃ divi."
-          }
+          "slokam": null
         },
         {
           "type": "default",
