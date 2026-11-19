@@ -93,9 +93,9 @@
         "en": "The Siddhānta: The Light Is Paramātma",
         "ta": "சித்தாந்தம்: அந்த ஒளி பரமாத்மாவே"
       },
-      "description": "The Siddhānta accepts that the passage concerns the ultimate cause of the universe, but rejects the claim that this cause is the Sun. The great light refers to Paramātma. To establish this, the passage describing the light must be read together with the Upaniṣadic statement that immediately precedes it.",
-      "en_description": "The Siddhānta accepts that the passage concerns the ultimate cause of the universe, but rejects the claim that this cause is the Sun. The great light refers to Paramātma. To establish this, the passage describing the light must be read together with the Upaniṣadic statement that immediately precedes it.",
-      "ta_description": "இந்தப் பகுதி உலகிற்கான இறுதிக் காரணத்தைப் பற்றியே பேசுகிறது என்பதை சித்தாந்தம் ஏற்றுக்கொள்கிறது. ஆனால் அந்தக் காரணம் சூரியன் என்ற கருத்தை மறுக்கிறது. இங்கு கூறப்படும் பேரொளி பரமாத்மாவையே குறிக்கிறது. இதை நிறுவுவதற்கு, ஒளியைப் பற்றிக் கூறும் வாக்கியத்தை அதற்கு முந்தைய உபநிஷத் வாக்கியத்துடன் இணைத்துப் பொருள் கொள்ள வேண்டும்.",
+      "description": "The Upaniṣad first states that, in the heavenly realm (Divi), the entity being described possesses three parts or three quarters (Tripād). Immediately after this, the same Upaniṣad declares, Paro Divā Jyotiḥ Dīpyate—that there is a supreme and magnificent light shining beyond the heavens. This is the statement that we are now examining.",
+      "en_description": "The Upaniṣad first states that, in the heavenly realm (Divi), the entity being described possesses three parts or three quarters (Tripād). Immediately after this, the same Upaniṣad declares, Paro Divā Jyotiḥ Dīpyate—that there is a supreme and magnificent light shining beyond the heavens. This is the statement that we are now examining.",
+      "ta_description": "உபநிஷத் முதலில், ஸ்வர்க்க லோகத்தில் (திவி – Divi) வர்ணிக்கப்படும் அந்தப் பொருள் மூன்று பாகங்களையோ அல்லது மூன்று கால்பகுதிகளையோ (த்ரிபாத் – Tripād) உடையதாக இருக்கிறது என்று கூறுகிறது. இதனைத் தொடர்ந்து, அதே உபநிஷத், பரோ திவா ஜ்யோதிர் தீப்யதே (Paro Divā Jyotiḥ Dīpyate) என்று கூறுகிறது. அதாவது, ஸ்வர்க்க லோகங்களுக்கும் அப்பால், மிக உயர்ந்ததும் மகத்தானதுமான ஒரு ஜோதி பிரகாசித்துக் கொண்டிருக்கிறது என்பது இதன் பொருள். தற்போது நாம் ஆராய்ந்து கொண்டிருப்பது இந்த வாக்கியத்தையே ஆகும்.",
       "image": {
         "src": "",
         "caption": ""
@@ -103,8 +103,93 @@
       "video": {
         "videoname": ""
       },
-      "slokam": null,
-      "cards": []
+      "cards": [
+        {
+          "type": "default",
+          "title": {
+            "en": "What does Vedavyāsa establish here?",
+            "ta": "இங்கு வேதவ்யாஸர் எதை நிலைநாட்டுகிறார்?"
+          },
+          "description": "He agrees that the statement under discussion speaks of a great light. However, we must not interpret this statement in isolation; instead, we must also examine the preceding sentence. It describes an entity in the heavenly realm that possesses three parts (Tripād). Furthermore, it states that all the worlds and all the elements constitute just one quarter of that same entity.",
+          "en_description": "He agrees that the statement under discussion speaks of a great light. However, we must not interpret this statement in isolation; instead, we must also examine the preceding sentence. It describes an entity in the heavenly realm that possesses three parts (Tripād). Furthermore, it states that all the worlds and all the elements constitute just one quarter of that same entity.",
+          "ta_description": "விவாதத்திற்கு எடுத்துக்கொள்ளப்பட்ட வாக்கியம் ஒரு மாபெரும் ஒளியைப் பற்றிக் கூறுகிறது என்பதை அவர் ஏற்றுக்கொள்கிறார். இருப்பினும், அந்த வாக்கியத்தைத் தனியாகப் பொருள் கொள்ளக்கூடாது. அதற்கு முந்தைய வாக்கியத்தையும் நாம் ஆராய வேண்டும். அது, மூன்று பாதங்களைக் (திரிபாத்) கொண்ட ஒரு பொருள் பரமபதத்தில் இருப்பதாகக் கூறுகிறது. மேலும், அனைத்து உலகங்களும், அனைத்து பூதங்களும் அந்தப் பரம்பொருளின் ஒரு பாதம் மட்டுமே என்று தெரிவிக்கிறது. தேவையெனில், இதனை ஸ்ரீபாஷ்ய வகுப்பில் பயன்படுத்துவதற்கு ஏற்ற வகையில் இன்னும் செம்மையான வைணவத் தமிழிலும் அமைத்துத் தருகிறேன்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Viṣaya Vākyam – The Statement Giving Rise to the Doubt",
+            "ta": "விஷய வாக்கியம் – சந்தேகத்தை எழுப்பும் உபநிஷத் வாக்கியம்"
+          },
+          "description": "The passage that gives rise to the doubt regarding the identity of the entity being described is called the Viṣaya Vākyam. In every Adhikaraṇam, when we encounter a particular Upaniṣadic statement, a doubt arises: Is the entity being described Paramātmā, Jīvātmā, the Sun, or primordial Prakṛti? In the present case, the statement Paro Divā Jyotiḥ Dīpyate is the Viṣaya Vākyam. It speaks of a magnificent light shining beyond the heavens. The question is: What exactly is this great light? Is it the Sun or Paramātmā? We have already examined the Pūrvapakṣa, which identifies this light as the Sun.",
+          "en_description": "The passage that gives rise to the doubt regarding the identity of the entity being described is called the Viṣaya Vākyam. In every Adhikaraṇam, when we encounter a particular Upaniṣadic statement, a doubt arises: Is the entity being described Paramātmā, Jīvātmā, the Sun, or primordial Prakṛti? In the present case, the statement Paro Divā Jyotiḥ Dīpyate is the Viṣaya Vākyam. It speaks of a magnificent light shining beyond the heavens. The question is: What exactly is this great light? Is it the Sun or Paramātmā? We have already examined the Pūrvapakṣa, which identifies this light as the Sun.",
+          "ta_description": "ஒரு குறிப்பிட்ட உபநிஷத் வாக்கியத்தில் குறிப்பிடப்படும் பொருள் எது என்பதைப் பற்றிச் சந்தேகம் எழுவதற்குக் காரணமாக அமையும் அந்த வாக்கியமே விஷய வாக்கியம் என்று அழைக்கப்படுகிறது. ஒவ்வொரு அதிகரணத்திலும், ஒரு குறிப்பிட்ட உபநிஷத் வாக்கியத்தை நாம் ஆராயும்போது, அதில் குறிப்பிடப்படும் பொருள் பரமாத்மாவா, ஜீவாத்மாவா, சூரியனா அல்லது மூலப் பிரகிருதியா என்ற சந்தேகம் எழுகிறது. தற்போதைய அதிகரணத்தில், பரோ திவா ஜ்யோதிர் தீப்யதே (Paro Divā Jyotiḥ Dīpyate) என்ற வாக்கியமே விஷய வாக்கியமாகும். இந்த வாக்கியம், வானத்தைக் காட்டிலும் அப்பால் பிரகாசிக்கக்கூடிய ஒரு மகத்தான ஒளியைப் பற்றிக் கூறுகிறது. இந்த மகத்தான ஒளி எது என்பதே இங்கு எழும் சந்தேகம். அது சூரியனைக் குறிக்கிறதா அல்லது பரமாத்மாவைக் குறிக்கிறதா? இந்த ஒளி சூரியனே என்று கூறும் பூர்வபக்ஷத்தை நாம் ஏற்கனவே பார்த்திருக்கிறோம்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Establishing the Connection Between the Two Upaniṣadic Statements",
+            "ta": "இரண்டு உபநிஷத் வாக்கியங்களுக்கும் இடையிலான தொடர்பை நிலைநாட்டுதல்"
+          },
+          "description": "Now, let us examine the connection between the two statements. The preceding statement describes an entity in the heavenly realm possessing a magnificent glory called Tripād (three quarters), while all the worlds and elements constitute just one quarter of that same entity. When the subsequent statement speaks of a great light shining beyond the heavens, we notice that the reference to the heavenly realm occurs in both statements. This indicates that the entity associated with the heavens in the preceding statement is the very same entity being discussed in the present Viṣaya Vākyam.",
+          "en_description": "Now, let us examine the connection between the two statements. The preceding statement describes an entity in the heavenly realm possessing a magnificent glory called Tripād (three quarters), while all the worlds and elements constitute just one quarter of that same entity. When the subsequent statement speaks of a great light shining beyond the heavens, we notice that the reference to the heavenly realm occurs in both statements. This indicates that the entity associated with the heavens in the preceding statement is the very same entity being discussed in the present Viṣaya Vākyam.",
+          "ta_description": "இப்போது, இந்த இரண்டு உபநிஷத் வாக்கியங்களுக்கும் இடையிலான தொடர்பை ஆராய்வோம். இதற்கு முந்தைய வாக்கியம், தேவலோகத்தில் திரிபாத் (Tripād) எனப்படும் மூன்று பாதங்களைக் கொண்ட ஒரு பொருளின் மகத்தான விபூதியை விவரிக்கிறது. அதே பொருளுக்கு, அனைத்து உலகங்களும் அனைத்து பூதங்களும் ஒரு பாதமாக (நான்கில் ஒரு பங்காக) அமைந்துள்ளன என்றும் கூறுகிறது. இதற்குப் பின்னர் வரும் வாக்கியம், வானத்தைக் காட்டிலும் அப்பால் பிரகாசிக்கக்கூடிய ஒரு மகத்தான ஒளியைப் பற்றிக் கூறுகிறது. இந்த இரண்டு வாக்கியங்களிலும் வானத்தைக் குறிக்கும் தொடர்பு இடம்பெறுவதைக் கவனிக்கிறோம். இதிலிருந்து, முந்தைய வாக்கியத்தில் வானத்துடன் தொடர்புபடுத்திக் கூறப்பட்ட அதே பொருள்தான், தற்போதைய விஷய வாக்கியத்திலும் விவரிக்கப்படுகிறது என்பது தெளிவாகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "Establishing Paramātmā as the Entity Described in the First Statement",
+            "ta": "முதல் வாக்கியத்தில் குறிப்பிடப்படுவது பரமாத்மாவே என்பதை நிலைநாட்டுதல்"
+          },
+          "description": "If we investigate the identity of this entity, there is no possibility of identifying it as the Sun. Why? The first statement declares that all the worlds and elements constitute just one quarter of this entity, while the remaining three quarters (Tripād) represent its magnificent glory in the heavenly realm. How can the Sun possess the characteristic of having all the worlds and elements as its own manifestations or as parts of its glory? Such an all-encompassing attribute can belong only to Paramātmā. Therefore, the entity described in the first statement must be Paramātmā.",
+          "en_description": "If we investigate the identity of this entity, there is no possibility of identifying it as the Sun. Why? The first statement declares that all the worlds and elements constitute just one quarter of this entity, while the remaining three quarters (Tripād) represent its magnificent glory in the heavenly realm. How can the Sun possess the characteristic of having all the worlds and elements as its own manifestations or as parts of its glory? Such an all-encompassing attribute can belong only to Paramātmā. Therefore, the entity described in the first statement must be Paramātmā.",
+          "ta_description": "இந்தப் பொருள் எது என்பதை ஆராய்ந்தோமானால், அதைச் சூரியனாகக் கொள்ள எந்த வாய்ப்பும் இல்லை. ஏன்? முதல் வாக்கியத்தில், அனைத்து உலகங்களும் அனைத்து பூதங்களும் அந்தப் பொருளுக்கு நான்கில் ஒரு பங்கு (ஒரு பாதம்) என்று கூறப்பட்டுள்ளது. மீதமுள்ள முக்கால் பங்கு (திரிபாத் – Tripād), தேவலோகத்தில் அமைந்துள்ள அதன் மகத்தான விபூதியாக விவரிக்கப்படுகிறது. அனைத்து உலகங்களையும், அனைத்து பூதங்களையும் தன்னுடைய வெளிப்பாடுகளாகவோ அல்லது தன்னுடைய விபூதியின் அங்கங்களாகவோ கொண்டிருக்கும் தன்மை சூரியனுக்கு எவ்வாறு இருக்க முடியும்? இத்தகைய அனைத்தையும் உள்ளடக்கிய மகத்தான தன்மை பரமாத்மாவுக்கு மட்டுமே உரியதாகும். ஆகையால், முதல் வாக்கியத்தில் விவரிக்கப்படும் பொருள் பரமாத்மாவே என்பது உறுதியாகிறது.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        },
+        {
+          "type": "default",
+          "title": {
+            "en": "The Siddhāntam – The Supreme Light Is Paramātmā",
+            "ta": "சித்தாந்தம் – பேரொளியாகக் குறிப்பிடப்படுவது பரமாத்மாவே"
+          },
+          "description": "The very same Paramātmā must also be the subject of the second statement. Therefore, the magnificent light referred to in Paro Divā Jyotiḥ Dīpyate is none other than Paramātmā. This is the conclusion established in this Adhikaraṇam. Understanding this particular interpretation requires some familiarity with Sanskrit and the ability to appreciate the grammatical and contextual connections between the Upaniṣadic statements.",
+          "en_description": "The very same Paramātmā must also be the subject of the second statement. Therefore, the magnificent light referred to in Paro Divā Jyotiḥ Dīpyate is none other than Paramātmā. This is the conclusion established in this Adhikaraṇam. Understanding this particular interpretation requires some familiarity with Sanskrit and the ability to appreciate the grammatical and contextual connections between the Upaniṣadic statements.",
+          "ta_description": "முதல் வாக்கியத்தில் குறிப்பிடப்பட்ட அதே பரமாத்மாதான், இரண்டாவது வாக்கியத்திலும் பேசப்படுபவராக இருக்க வேண்டும். ஆகையால், பரோ திவா ஜ்யோதிர் தீப்யதே (Paro Divā Jyotiḥ Dīpyate) என்ற வாக்கியத்தில் குறிப்பிடப்படும் மகத்தான ஒளி வேறு யாருமல்ல; அது பரமாத்மாவே ஆகும். இதுவே இந்த அதிகரணத்தில் நிலைநாட்டப்படும் சித்தாந்த முடிவாகும். இந்தக் குறிப்பிட்ட பொருளைச் சரியாகப் புரிந்துகொள்வதற்கு, சமஸ்கிருதத்தில் ஓரளவு பரிச்சயமும், உபநிஷத் வாக்கியங்களுக்கு இடையிலான இலக்கண மற்றும் சூழல் சார்ந்த தொடர்புகளைப் புரிந்துகொள்ளும் திறனும் அவசியமாகும்.",
+          "image": {
+            "src": "",
+            "caption": ""
+          },
+          "video": {
+            "videoname": ""
+          }
+        }
+      ]
     },
     {
       "id": "sb_saaram_25_06",
