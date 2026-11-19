@@ -103,7 +103,6 @@
       "video": {
         "videoname": ""
       },
-      "slokam": null,
       "cards": [
         {
           "type": "default",
@@ -120,8 +119,7 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": null
+          }
         },
         {
           "type": "default",
@@ -138,11 +136,10 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": null
+          }
         },
         {
-          "type": "slokam",
+          "type": "default",
           "title": {
             "en": "Establishing the Connection Between the Two Upaniṣadic Statements",
             "ta": "இரண்டு உபநிஷத் வாக்கியங்களுக்கும் இடையிலான தொடர்பை நிலைநாட்டுதல்"
@@ -156,8 +153,7 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": null
+          }
         },
         {
           "type": "default",
@@ -174,8 +170,7 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": null
+          }
         },
         {
           "type": "default",
@@ -192,8 +187,7 @@
           },
           "video": {
             "videoname": ""
-          },
-          "slokam": null
+          }
         }
       ]
     },
